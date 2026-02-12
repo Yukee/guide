@@ -8,6 +8,8 @@ A health and safety guide for cluster headache patients who use DMT to abort the
 
 **Target audience:** 50-something person with no drug experience and limited ability to find reliable information online. All content must be written with extreme clarity and accessibility in mind.
 
+**Minimizing suffering**. The guide should strike a balance between (1) informing the user about the risks of taking DMT and (2) minimizing the risk the user is too conservative about DMT --a powerful tool to minimize the intense suffering caused by attacks.
+
 ## Current State
 
 - `Guide MVP v1 claude.md` — reference document containing the full guide content (one-page summary, oxygen protocol, DMT safety, aborting protocol, drug interactions, vape preparation, sitter requirements)
