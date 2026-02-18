@@ -67,16 +67,13 @@ Pick a time when you're feeling relaxed — an evening at home, a weekend aftern
 
 As soon as you feel an attack coming on, this is what to do. The entire process takes just a few minutes.
 
-The key idea is simple: **take a small puff, wait, and see if the pain is breaking. If not, take another. You do not need to take a large dose all at once.** Small puffs that you add one at a time let you use only as much DMT as you need.
+The key idea is simple: **take a small dose, wait, and see if the attack is aborting. If not, take another. You do not need to take a large dose all at once.** Small puffs that you add one at a time let you use only as much DMT as you need.
 
 At first, you might need a couple puffs to abort your attack. Over time, you will find the best settings (vape temperature, how deep you inhale, etc.) to abort as quickly as possible without unnecessarily tripping.
 
 **You can use this protocol for every attack** — including multiple attacks in the same day. Unless you take MAOIs, DMT leaves your body within minutes, so there is no buildup from repeated use.
 
-> **Can I accidentally haved an intense trip?** At these low doses, it's unlikely. DMT acts within seconds, so you'll feel the effects of each puff before you take the next one. The puff-wait-repeat approach gives you full control — you stop as soon as you feel the DMT working, well before anything intense could happen.
-
-![Protocol flowchart — visual decision tree for the puff-wait-repeat method](images/illustration-protocol-flowchart.jpg)
-*Visual summary: puff, wait 30 seconds, assess. If pain is receding, stop. If not, take another puff if you feel comfortable with it.*
+> **Can I accidentally haved an intense trip?** At these low doses, it's very unlikely. DMT acts within seconds, so you'll feel the effects of each puff before you take the next one. The puff-wait-repeat approach gives you full control — you stop as soon as you feel the DMT working, well before anything intense could happen.
 
 ### Step 1: Prepare
 
@@ -109,6 +106,9 @@ Put the pen down. Breathe normally. DMT acts fast — if it's going to work, you
 ### Step 6: Document everything
 
 When you feel ready, take a moment to log the protocol you followed and the effects you felt.
+
+![Protocol flowchart — visual decision tree for the puff-wait-repeat method](images/illustration-protocol-flowchart.jpg)
+*Visual summary: puff, wait 30 seconds, assess. If pain is receding, stop. If not, take another puff if you feel comfortable with it.*
 
 ---
 
@@ -145,7 +145,7 @@ It's possible — especially if you accidentally take a larger dose — that you
 
 **The single most important thing to remember:**
 
-> **"This is a normal effect of the drug. It will be completely over in 10–20 minutes."**
+> **"This is a normal effect of the drug, and I accept the experience. It will be completely over in 10–20 minutes."**
 
 ### What to do
 
@@ -244,7 +244,7 @@ The effects wear off within 10–20 minutes. They should be completely back to n
 
 ### If they have a bad experience
 
-- **Stay calm and present.** Don't panic — your calm demeanor is their anchor.
+- **Stay calm and present.** Don't panic. Your calm demeanor is their anchor.
 - **Speak in a low, steady voice.** "You're safe. This is normal. It'll be over in a few minutes."
 - **Don't touch them without asking.** Some people find touch comforting; others find it overwhelming.
 - **Don't try to talk them out of it** or reason with them. Just be there.

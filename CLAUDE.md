@@ -8,21 +8,24 @@ A health and safety guide for cluster headache patients who use DMT to abort the
 
 **Target audience:** 50-something person with no drug experience and limited ability to find reliable information online. All content must be written with extreme clarity and accessibility in mind.
 
-**Minimizing suffering**. The guide should strike a balance between (1) informing the user about the risks of taking DMT and (2) minimizing the risk the user is too conservative about DMT --a powerful tool to minimize the intense suffering caused by attacks.
+**Minimizing suffering**. The guide should strike a balance between (1) informing the user about the risks of taking DMT and (2) making sure the user isn't too conservative about taking DMT --a powerful tool to minimize the intense pain attacks cause.
 
 ## Current State
 
-- `Guide MVP v1 claude.md` — reference document containing the full guide content (one-page summary, oxygen protocol, DMT safety, aborting protocol, drug interactions, vape preparation, sitter requirements)
+- `Guide MVP v1 claude.md` — reference document containing the guide content (one-page summary, oxygen protocol, DMT safety, aborting protocol, drug interactions, vape preparation, sitter requirements)
+- `*.md` documents containing more detailed versions of some sections
 - `README.md` — Project mission and roadmap
 
 ## Roadmap
 
-1. Iterate on content clarity with Claude and the user
-2. Gather external feedback (format should be easy to export to Google Docs for commenting)
+1. (In progress:) Create separate markdown documents from sections of `Guide MVP v1 claude.md`. The separate documents should contain more illustrations and generalyl do more "hand-holding" for the user
+   1. Illustrations can be generated using `nano banana pro`, available via API calls (`$GOOGLE_API_KEY` available)
+2. Gather external feedback
 3. Build the website, with further feedback rounds
 
-## Content Guidelines
+## Review process
 
-- Medical accuracy is critical — this guide covers drug interactions, contraindications, and safety protocols
-- Lean toward over-explaining rather than under-explaining given the audience
-- The guide emphasizes harm reduction: starting with small doses, having a sitter present, checking drug interactions (especially lithium)
+Claude Code can conduct reviews using the available agents. When asked to review a file:
+1. Claude switches to contractor mode and launches the available agents. Each agent is focusing on reviewing the file on a specific dimension
+   1. Maybe the Claude can launch several fact-checker agents on specific subsections, to speed things up
+2. Cluade reads the reviews, summarizes them to the user and suggests modifications accordingly
