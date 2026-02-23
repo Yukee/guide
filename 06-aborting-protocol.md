@@ -73,7 +73,7 @@ At first, you might need a couple puffs to abort your attack. Over time, you wil
 
 **You can use this protocol for every attack** — including multiple attacks in the same day. Unless you take MAOIs, DMT leaves your body within minutes, so there is no buildup from repeated use.
 
-> **Can I accidentally haved an intense trip?** At these low doses, it's very unlikely. DMT acts within seconds, so you'll feel the effects of each puff before you take the next one. The puff-wait-repeat approach gives you full control — you stop as soon as you feel the DMT working, well before anything intense could happen.
+> **Can I accidentally have an intense trip?** At these low doses, it's very unlikely. DMT acts within seconds, so you'll feel the effects of each puff before you take the next one. The puff-wait-repeat approach gives you full control — you stop as soon as you feel the DMT working, well before anything intense could happen.
 
 ### Step 1: Prepare
 
@@ -268,7 +268,7 @@ The effects wear off within 10–20 minutes. They should be completely back to n
 
 These emergency situations are **extremely rare** at the doses used in this guide, but they are more likely if DMT is combined with certain medications (especially lithium or MAOIs). Make sure you've both checked the [drug interactions page](#interactions-with-other-drugs).
 
-If they have taken MAOIs **stay with them for at least one hour** after they took DMT. MAOIs prolong the effect of DMT, and can delay the onset of serotonin syndrom.
+If they have taken MAOIs **stay with them for at least one hour** after they took DMT. MAOIs prolong the effect of DMT, and can delay the onset of serotonin syndrome.
 
 > **What to tell the dispatcher:** Be honest — tell them the person inhaled DMT and describe the symptoms. Medical professionals need accurate information to treat correctly. Their job is to help, not to judge.
 

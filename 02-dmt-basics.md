@@ -10,15 +10,17 @@ You've heard that DMT can stop cluster headache attacks. Before you go any furth
 
 When DMT is vaped (inhaled as a vapor from a small pen-like device), it acts within **seconds** and the effects are gone within **10–20 minutes**. This fast on, fast off profile makes it remarkably useful for aborting cluster headache attacks.
 
+If you've never vaped before, don't worry — it's simpler than it looks. You press a button, breathe in gently, and breathe out. The [preparation page](05-what-youll-need.md) walks you through every step.
+
 DMT is not a "street drug" in the way most people imagine. 
-You cannot become addicted to it, and it is generally completely safe for the body, even at high doses.
-That said, it is a **psychedelic** — at higher doses, it can profoundly alter your perception. The doses used for aborting attacks are much lower than recreational doses, so the effects are mild. More on that below.
+You cannot become addicted to it, and it is generally safe for the body, particularly at the low doses used to abort attacks.
+That said, it is a **psychedelic** — a substance that can temporarily change how you perceive the world around you. At higher doses, it can profoundly alter your perception. The doses used for aborting attacks are much lower than recreational doses, so the effects are mild. More on that below.
 
 ---
 
 ## Why DMT for cluster headaches?
 
-DMT acts on the brain's **serotonin system** — the same system involved in cluster headaches, and the same system targeted by triptans (like sumatriptan). Cluster headache patients have reported that inhaling a small amount of DMT can stop an attack in seconds.
+DMT acts on the brain's **serotonin system** — a chemical messaging network involved in mood, pain, and blood vessel behavior — the same system involved in cluster headaches, and the same system targeted by triptans (like sumatriptan). Cluster headache patients have reported that inhaling a small amount of DMT can stop an attack in seconds.
 
 **This is not an FDA-approved treatment.** The evidence comes from patient reports, not clinical trials. But for many patients, DMT has become a critical tool — especially when other options fall short.
 
@@ -43,20 +45,18 @@ At the low doses used for aborting attacks, DMT is generally **low-risk**. Here 
 
 - **Not addictive.** DMT does not cause physical dependence, and people don't develop cravings for it.
 - **No tolerance buildup.** Using DMT repeatedly doesn't make it less effective.
-- **No known organ damage.** Unlike alcohol or many medications, DMT is not toxic to the brain, liver, or other organs.
-- **Short-acting.** Effects last 10–20 minutes. By 20–30 minutes, you should feel back to normal.
-- **Mild cardiovascular effects.** DMT temporarily raises your heart rate and blood pressure — comparable to climbing a flight of stairs quickly. For healthy individuals, this is not a concern. If you have a heart condition or high blood pressure, talk to your doctor first.
-
-![Safety profile summary showing five key facts: not addictive, no tolerance buildup, no organ damage, short-acting, mild cardiovascular effects](images/illustration-safety-profile.jpg)
-*DMT's safety profile at the low doses used for aborting attacks.*
+- **Not toxic.** Unlike alcohol or many medications, DMT isn't taxing for the body.
+- **Short-acting.** Effects usually fade within 20 minutes.
 
 ### The real risks
 
-- **Drug interactions.** This is the biggest safety concern. Some medications combined with DMT can be dangerous. **If you take lithium, do not take DMT — the combination can cause seizures.** Other medications (especially MAOIs and SSRIs) may also interact. You must check the [drug interactions page](#) before your first use.
+- **Drug interactions.** This is the biggest safety concern. Some medications combined with DMT can be dangerous. **If you take lithium, do not take DMT — the combination can cause seizures.** Other medications, especially MAOIs (such as phenelzine and tranylcypromine) and SNRIs / SSRIs (such as venlafaxine and fluoxetine) may also interact. You must check the [drug interactions page](#) before your first use.
 
-- **Anxiety at higher doses.** If you accidentally take more than intended, you might feel anxious. Overwhelming anxiety or anpanick attack is uncommon at aborting doses, and always passes within 10–20 minutes. The [aborting protocol](06-aborting-protocol.md) is specifically designed to prevent this — you take tiny amounts, one puff at a time.
+- **Anxiety at higher doses.** If you accidentally take more than intended, you might feel anxious. Overwhelming anxiety or a panic attack is uncommon at aborting doses, and always passes within 10–20 minutes. The [aborting protocol](06-aborting-protocol.md) is specifically designed to prevent this — you take tiny amounts, one puff at a time. You are in control.
 
 - **Not recommended if you have a psychotic disorder** (e.g., schizophrenia) or a close family history of one.
+
+- **Mild cardiovascular effects.** DMT temporarily raises your heart rate and blood pressure — comparable to climbing a flight of stairs quickly. For healthy individuals, this is not a concern. If you have a heart condition or high blood pressure, talk to your doctor first.
 
 > **The bottom line:** DMT is not risk-free, but the risks are manageable and well-understood. The main thing you need to do is check your medications for interactions — especially lithium. If you're clear on interactions, the low doses used here carry very little risk.
 
@@ -84,7 +84,7 @@ That's usually it. Many people describe it as "pleasant but unremarkable." You r
 
 - **0–10 seconds:** You feel the first effects (body buzz, warmth).
 - **1–5 minutes:** Effects are at their strongest — still mild at these doses.
-- **10–20 minutes:** Effects fade.
+- **5–20 minutes:** Effects gradually fade.
 - **20–30 minutes:** Back to normal, with no or barely any lingering effects.
 
 ![Dose spectrum showing where aborting doses sit — at the low end, far from a full psychedelic experience](images/illustration-dose-spectrum.jpg)
@@ -118,13 +118,15 @@ At the small doses used for aborting attacks, it's very unlikely. You might see 
 DMT is illegal in most countries. This guide does not encourage breaking the law. We present the medical information so you can make informed decisions about your own health.
 
 **"Can I use it for every attack?"**
-Yes. DMT is cleared from your body within minutes. There's no buildup from repeated use, and no limit on how many times per day you can use it.
+Yes. Unless you take MAOIs, DMT is cleared from your body within minutes. Patients report using it multiple times per day.
 
 **"What if I'm on medication?"**
 You **must** check for drug interactions before trying DMT. This is not optional. Some combinations — especially lithium — are genuinely dangerous. See the [drug interactions page](#) for a complete list.
 
 **"Do I need someone with me?"**
-For your very first time, yes — you need a sober **sitter** (someone who stays with you while you use it). After you've practiced once and know how DMT feels, a sitter is recommended but not strictly required. The [aborting protocol](06-aborting-protocol.md) has full details on sitters.
+For your very first time, yes — you need a sober **sitter** (someone who stays with you while you use it).
+A sitter is recommended for the first several attacks afterward — but once you're comfortable with the technique, aborting solo is reasonable.
+The [aborting protocol](06-aborting-protocol.md) has full details on sitters.
 
 **"What about psilocybin (magic mushrooms)?"**
 You may have heard that psilocybin can also help with cluster headaches. That's true — psilocybin has shown promise for reducing the frequency of cluster cycles (a preventive effect). DMT is different: it's used to abort individual attacks as they happen. Some patients use both — psilocybin to reduce how often cycles occur, DMT to stop attacks when they break through. This guide focuses on DMT.

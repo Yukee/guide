@@ -25,7 +25,11 @@ A health and safety guide for cluster headache patients who use DMT to abort the
 
 ## Review process
 
-Claude Code can conduct reviews using the available agents. When asked to review a file:
-1. Claude switches to contractor mode and launches the available agents. Each agent is focusing on reviewing the file on a specific dimension
-   1. Maybe the Claude can launch several fact-checker agents on specific subsections, to speed things up
-2. Cluade reads the reviews, summarizes them to the user and suggests modifications accordingly
+Use `/review <filename.md>` to launch a full review of a guide section. This runs four agents in parallel:
+
+1. **Fact-Checker** — verifies every factual claim via web search (splits into sub-agents for long files)
+2. **Straight-to-Facts Editor** — flags redundancies, unnecessary detail, and structural issues
+3. **Visual Artist** — checks that illustrations match the text they accompany
+4. **Median User** — role-plays the target audience to find jargon, ambiguity, and missing info
+
+Agent definitions live in `.claude/agents/`. The review skill lives in `.claude/skills/review/`.
