@@ -71,14 +71,15 @@ This is the question most people are nervous about. Here's what to expect at the
 The protocol uses small puffs, added one at a time — you might need one, you might need a few. Most people feel some combination of:
 
 - A **warm, tingling sensation** spreading through the body — patients call this the "body buzz." It often starts in the chest.
-- A feeling of **heaviness**, like gravity just increased slightly.
-- Possibly some **mild closed-eye visuals** — soft patterns or colors if you close your eyes.
-- A sense of **calm**.
+- A feeling of **heaviness**, like gravity just increased.
+- Lightly **altered visual perceptions**, such as more vivid colors, or sharper-looking edges of objects.
+- **Closed-eye visuals** — patterns if you close your eyes.
+- Hearing **static or a high-pitched hum**.
 
-![Annotated human figure showing what you feel at aborting doses: warm tingling in the chest, mild closed-eye visuals, feeling of heaviness, and a sense of calm](images/illustration-what-youll-feel.jpg)
-*What most people feel at the low doses used for aborting attacks.*
+You will remain aware of where you are, who you are, and what's happening. You can talk, move, and think clearly.
 
-That's usually it. Many people describe it as "pleasant but unremarkable." You remain aware of where you are, who you are, and what's happening. You can talk, move, and think clearly.
+![Dose spectrum showing where aborting doses sit — at the low end, far from a full psychedelic experience](images/illustration-dose-spectrum.jpg)
+*Aborting doses are at the low end of the spectrum — nowhere near a full psychedelic experience.*
 
 ### How the timing works
 
@@ -86,9 +87,6 @@ That's usually it. Many people describe it as "pleasant but unremarkable." You r
 - **1–5 minutes:** Effects are at their strongest — still mild at these doses.
 - **5–20 minutes:** Effects gradually fade.
 - **20–30 minutes:** Back to normal, with no or barely any lingering effects.
-
-![Dose spectrum showing where aborting doses sit — at the low end, far from a full psychedelic experience](images/illustration-dose-spectrum.jpg)
-*Aborting doses are at the low end of the spectrum — nowhere near a full psychedelic experience.*
 
 ### What you won't experience at these doses
 
