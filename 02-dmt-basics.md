@@ -50,7 +50,7 @@ At the low doses used for aborting attacks, DMT is generally **low-risk**. Here 
 
 ### The real risks
 
-- **Drug interactions.** This is the biggest safety concern. Some medications combined with DMT can be dangerous. **If you take lithium, do not take DMT — the combination can cause seizures.** Other medications, especially MAOIs (such as phenelzine and tranylcypromine) and SNRIs / SSRIs (such as venlafaxine and fluoxetine) may also interact. You must check the [drug interactions page](#) before your first use.
+- **Drug interactions.** This is the biggest safety concern. Some medications combined with DMT can be dangerous. **If you take lithium, do not take DMT — the combination can cause seizures.** Other medications, especially MAOIs (such as phenelzine and tranylcypromine) and SNRIs / SSRIs (such as venlafaxine and fluoxetine) may also interact. You must check the [drug interactions page](03-safety-and-drug-interactions.md) before your first use.
 
 - **Anxiety at higher doses.** If you accidentally take more than intended, you might feel anxious. Overwhelming anxiety or a panic attack is uncommon at aborting doses, and always passes within 10–20 minutes. The [aborting protocol](06-aborting-protocol.md) is specifically designed to prevent this — you take tiny amounts, one puff at a time. You are in control.
 
@@ -119,7 +119,7 @@ DMT is illegal in most countries. This guide does not encourage breaking the law
 Yes. Unless you take MAOIs, DMT is cleared from your body within minutes. Patients report using it multiple times per day.
 
 **"What if I'm on medication?"**
-You **must** check for drug interactions before trying DMT. This is not optional. Some combinations — especially lithium — are genuinely dangerous. See the [drug interactions page](#) for a complete list.
+You **must** check for drug interactions before trying DMT. This is not optional. Some combinations — especially lithium — are genuinely dangerous. See the [drug interactions page](03-safety-and-drug-interactions.md) for a complete list.
 
 **"Do I need someone with me?"**
 For your very first time, yes — you need a sober **sitter** (someone who stays with you while you use it).
@@ -133,6 +133,6 @@ You may have heard that psilocybin can also help with cluster headaches. That's 
 
 ## Where to go next
 
-- **Check your medications first.** If you take any medication, supplement, or herbal remedy, read the [drug interactions page](#) before anything else.
+- **Check your medications first.** If you take any medication, supplement, or herbal remedy, read the [safety and drug interactions page](03-safety-and-drug-interactions.md) before anything else.
 - **Ready to prepare your equipment?** The [preparation page](05-what-youll-need.md) walks you through buying a vape pen and mixing the liquid — about 30 minutes of active work.
 - **Ready to use it?** The [aborting protocol](06-aborting-protocol.md) covers your first practice session and the step-by-step method for stopping attacks.
