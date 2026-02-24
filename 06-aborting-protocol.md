@@ -12,7 +12,7 @@ This page covers how to use your DMT vape pen to stop a cluster headache attack 
 
 Before you ever press the button on your pen, make sure you've completed every item on this list.
 
-- [ ] **Drug interactions checked.** If you take any medication, supplement, or herbal remedy, you've read the [drug interactions page](03-safety-and-drug-interactions.md) and confirmed it's safe to combine with DMT. **If you take lithium, stop here — do not take DMT.**
+- [ ] **Drug interactions checked.** If you take any medication, supplement, or herbal remedy, you've read the [safety page](03-safety.md#check-your-medications) and confirmed it's safe to combine with DMT. **If you take lithium, stop here — do not take DMT.**
 - [ ] **Heart health considered.** DMT temporarily raises your heart rate and blood pressure — similar to climbing a flight of stairs quickly. If you have high blood pressure, a heart condition, or a history of stroke, talk to your doctor before trying DMT. Triptans (sumatriptan, rizatriptan, etc.) narrow your blood vessels, putting additional strain on your heart. We recommend waiting at least 24 hours after your last triptan dose before taking DMT.
 - [ ] **Sitter present for your first time.** Your very first use of DMT must be a practice session (not during an attack), with a sober person present. After you've practiced successfully, a sitter is recommended but not required for subsequent uses. See the [sitter section](#your-sitter-what-they-need-to-know) below.
 - [ ] **Vape pen loaded, charged, and tested.** You've followed the [preparation page](05-what-youll-need.md) and your pen has been sitting upright for at least 30 minutes after filling.
@@ -266,7 +266,7 @@ The effects wear off within 10–20 minutes. They should be completely back to n
 - They have a **rapid, irregular heartbeat** combined with looking very unwell
 - Any symptom is **rapidly getting worse**
 
-These emergency situations are **extremely rare** at the doses used in this guide, but they are more likely if DMT is combined with certain medications (especially lithium or MAOIs). Make sure you've both checked the [drug interactions page](03-safety-and-drug-interactions.md).
+These emergency situations are **extremely rare** at the doses used in this guide, but they are more likely if DMT is combined with certain medications (especially lithium or MAOIs). Make sure you've both checked the [safety page](03-safety.md#check-your-medications).
 
 If they have taken MAOIs **stay with them for at least one hour** after they took DMT. MAOIs prolong the effect of DMT, and can delay the onset of serotonin syndrome.
 

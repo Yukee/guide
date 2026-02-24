@@ -25,11 +25,16 @@ A health and safety guide for cluster headache patients who use DMT to abort the
 
 ## Review process
 
-Use `/review <filename.md>` to launch a full review of a guide section. This runs four agents in parallel:
+### Editorial Review
 
-1. **Fact-Checker** — verifies every factual claim via web search (splits into sub-agents for long files)
-2. **Straight-to-Facts Editor** — flags redundancies, unnecessary detail, and structural issues
-3. **Visual Artist** — checks that illustrations match the text they accompany
-4. **Median User** — role-plays the target audience to find jargon, ambiguity, and missing info
+Use `/review <filename.md>` to launch an editorial review of a guide section. This runs three agents in parallel:
 
-Agent definitions live in `.claude/agents/`. The review skill lives in `.claude/skills/review/`.
+1. **Straight-to-Facts Editor** — flags redundancies, unnecessary detail, and structural issues
+2. **Visual Artist** — checks that illustrations match the text they accompany
+3. **Median User** — role-plays the target audience to find jargon, ambiguity, and missing info
+
+### Fact-Checking
+
+Use `/fact-check <filename.md>` to verify factual claims. This launches dedicated fact-checker agent(s) that use web search to verify every claim (splits into sub-agents for long files).
+
+Agent definitions live in `.claude/agents/`. Review skills live in `.claude/skills/review/` and `.claude/skills/fact-check/`.
