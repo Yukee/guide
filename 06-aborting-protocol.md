@@ -4,7 +4,7 @@ This page covers how to use your DMT vape pen to stop a cluster headache attack 
 
 **Time needed:** The abort itself takes 1–5 minutes. You may feel mild effects for up to 20 minutes afterward.
 
-**If you've never taken any drug before, that's completely fine.** The doses used here are small — much less than what recreational users take. This page will walk you through exactly what to do, step by step.
+**If you've never taken DMT or similar substances before, that's completely fine.** The doses used here are small — much less than what recreational users take. This page will walk you through exactly what to do, step by step.
 
 ---
 
@@ -15,7 +15,7 @@ Before you ever press the button on your pen, make sure you've completed every i
 - [ ] **Drug interactions checked.** If you take any medication, supplement, or herbal remedy, you've read the [safety page](03-safety.md#check-your-medications) and confirmed it's safe to combine with DMT. **If you take lithium, stop here — do not take DMT.**
 - [ ] **Heart health considered.** DMT temporarily raises your heart rate and blood pressure — similar to climbing a flight of stairs quickly. If you have high blood pressure, a heart condition, or a history of stroke, talk to your doctor before trying DMT. Triptans (sumatriptan, rizatriptan, etc.) narrow your blood vessels, putting additional strain on your heart. We recommend waiting at least 24 hours after your last triptan dose before taking DMT.
 - [ ] **Sitter present for your first time.** Your very first use of DMT must be a practice session (not during an attack), with a sober person present. After you've practiced successfully, a sitter is recommended but not required for subsequent uses. See the [sitter section](#your-sitter-what-they-need-to-know) below.
-- [ ] **Vape pen loaded, charged, and tested.** You've followed the [preparation page](05-what-youll-need.md) and your pen has been sitting upright for at least 30 minutes after filling.
+- [ ] **Vape pen loaded, charged, and tested.** You've followed the [preparation page](05-what-youll-need.md).
 - [ ] **Comfortable, familiar space.** You're somewhere you feel safe — your bedroom, living room, or another private, quiet place. Not in public, not driving, not operating machinery.
 - [ ] **Phone accessible.** In case of emergency, your phone (or your sitter's phone) should be within arm's reach.
 
@@ -67,7 +67,7 @@ Pick a time when you're feeling relaxed — an evening at home, a weekend aftern
 
 As soon as you feel an attack coming on, this is what to do. The entire process takes just a few minutes.
 
-The key idea is simple: **take a small dose, wait, and see if the attack is aborting. If not, take another. You do not need to take a large dose all at once.** Small puffs that you add one at a time let you use only as much DMT as you need.
+The key idea is simple: **take a small dose, wait, and see if the pain is gone. If not, take another. You do not need to take a large dose all at once.** Small puffs that you add one at a time let you use only as much DMT as you need.
 
 At first, you might need a couple puffs to abort your attack. Over time, you will find the best settings (vape temperature, how deep you inhale, etc.) to abort as quickly as possible without unnecessarily tripping.
 
@@ -95,20 +95,20 @@ Put the pen down. Breathe normally. DMT acts fast — if it's going to work, you
 
 ### Step 4: Assess
 
-- **Is the pain reducing?**. If you took enough DMT to act on your pain, you should notice it working. 
+- **Has the pain stopped?**. If you took enough DMT to abort the attack, the pain will be gone by now. 
 - **Do I feel the DMT acting?** You might feel a "body buzz": a warm, tingling sensation, especially in your chest or limbs. Some users report feeling the body buzz at about the dose they take to abort their attacks. 
     - Other common effects include feeling your heart racing, feeling cold, seeing visual patterns (especially with eyes closed), or a sense of bodily compression or pressure.
 
 ### Step 5: Repeat if needed
 
-- **If you felt little or nothing after 30 seconds**, take another puff. Same technique. Wait another 30 seconds and assess again. Repeat this cycle until the pain begins to break, **or** if you feel the effects are about to get too intense for you.
+- **If you felt little or nothing after 30 seconds**, take another puff. Same technique. Wait another 30 seconds and assess again. Repeat this cycle until the pain stops, **or** if you feel the effects are about to get too intense for you.
 
 ### Step 6: Document everything
 
 When you feel ready, take a moment to log the protocol you followed and the effects you felt.
 
 ![Protocol flowchart — visual decision tree for the puff-wait-repeat method](images/illustration-protocol-flowchart.jpg)
-*Visual summary: puff, wait 30 seconds, assess. If pain is receding, stop. If not, take another puff if you feel comfortable with it.*
+*Visual summary: puff, wait 30 seconds, assess. If the pain persists, take another puff if you feel comfortable with it.*
 
 ---
 

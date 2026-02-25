@@ -194,7 +194,7 @@ Now you need to get the liquid from the mixing bottle into the cartridge.
 2. **Unscrew the mouthpiece** from the top of the cartridge. It twists off to reveal the tank opening. You'll see a small hole in the very center — that's the airway (where air flows through when you inhale). **Don't put liquid into that center hole.**
 3. **Squeeze or drip the liquid** from your mixing bottle into the tank, aiming for the **sides** of the tank (not the center). Go slowly. Fill until the liquid is about 1 mm below the top rim — don't overfill, or it will gurgle and spit when you use it.
 4. **Screw the mouthpiece back on.**
-5. **Stand the pen upright and wait 30–60 minutes before using.**
+5. **Stand the pen upright and wait 15-30 minutes before using.** This gives the coil time to soak up the liquid.
 
 > **Why wait?** Inside the cartridge, the ceramic coil needs time to soak up (or "wick") the liquid — like a sponge absorbing water. If you press the button while the coil is still dry, you'll permanently burn it. The cartridge will taste like burnt rubber from that point on and you'll need a new one. An hour of patience saves you a cartridge.
 
@@ -204,7 +204,7 @@ Now you need to get the liquid from the mixing bottle into the cartridge.
 
 ### Storing your pen
 
-- Store your loaded pen **upright** (mouthpiece pointing up) at **room temperature**
+- Store your loaded pen upright, to make sure the coil stays soaked with liquid
 - Avoid cold environments — a cold car, basement, or garage can cause the DMT to turn back into crystals inside the liquid
 - A bedside drawer or medicine cabinet is fine
 - **Keep it out of reach of children and pets.** The loaded pen looks identical to a regular nicotine vape. Consider labeling it clearly (e.g., a piece of tape marked "DMT") so nobody mistakes it for an ordinary vape

@@ -15,7 +15,7 @@ Aborting means stopping an attack once it starts. Here's the procedure at a glan
 ![The abort at a glance — six panels: attack starts, grab your pen, puff, wait 30 seconds, repeat if needed, relief](images/illustration-abort-at-a-glance.jpg)
 *From attack to relief in under a minute.*
 
-You sit down, take a small puff from a vape pen (a small handheld device that heats the DMT into a vapor you inhale), and wait. Within moments, you feel a gentle warmth — and the attack begins to fade. If it doesn't, you wait 30 seconds and take one more puff. That's it. No needles, no oxygen tank, no waiting 20 minutes for a triptan to kick in.
+You sit down, take a small puff from a vape pen (a small handheld device that heats the DMT into a vapor you inhale), and wait. Within moments, you feel warm or buzzing sensation — and the pain stopping. If it doesn't, you wait 30 seconds and take one more puff. That's it. No bulky oxygen tank, no waiting for a triptan or oxygen to kick in.
 
 ---
 
