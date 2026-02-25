@@ -5,7 +5,7 @@
 The [basics page](02-dmt-basics.md) gave you the short version. Here's the fuller picture: at the low doses used to abort cluster headache attacks (5–10 mg), DMT's cardiovascular and psychological risks are very low for healthy people. The main concern — and the reason this page exists — is **drug interactions**, specifically with medications that affect serotonin.
 
 ![Safety profile summary — at aborting doses, drug interactions are the primary concern while cardiovascular and psychological risks are minimal for most people](images/illustration-safety-profile-summary.jpg)
-*At aborting doses, the overall safety profile is favorable. Drug interactions are the main concern. Cardiovascular and psychological risks are minimal for most people. If you're curious, you can read more about those minimal risks below.*
+*At aborting doses, the overall safety profile is favorable. Drug interactions are the main concern. [Cardiovascular](#cardiovascular-effects) and [psychological](#psychological-safety) risks are minimal for most people.*
 
 ---
 
@@ -32,7 +32,7 @@ Here's the quick summary:
 - **Triptans** need a timing gap (at least 24 hours; frovatriptan: 5 days).
 - **Everything else** — check with your doctor.
 
-The danger is not taking DMT while on these medications *per se* — it's doing so **without knowing about serotonin syndrome and what to do if it occurs**. If you take any serotonergic medication, the most important thing is to understand serotonin syndrome ([next section](#serotonin-syndrome-what-you-need-to-know)), know the signs, know what to do, and make sure your [sitter](06-aborting-protocol.md#your-sitter-what-they-need-to-know) knows too.
+> The danger is not taking DMT while on these medications *per se* — it's doing so **without knowing about serotonin syndrome and what to do if it occurs**. If you take any serotonergic medication, the most important thing is to understand serotonin syndrome ([next section](#serotonin-syndrome-what-you-need-to-know)), know the signs, know what to do, and make sure your [sitter](06-aborting-protocol.md#your-sitter-what-they-need-to-know) knows too.
 
 ![Drug interaction risk levels — visual summary showing lithium as a hard stop, MAOIs as medium-high risk, SSRIs and SNRIs as moderate risk, triptans as low-to-moderate risk, and other serotonergic drugs as variable risk](images/illustration-drug-interaction-risk.jpg)
 *Drug interaction risk levels at a glance.*
@@ -70,37 +70,34 @@ Serotonin syndrome happens when your brain is flooded with too much serotonin. I
 
 The risk increases with higher doses and more serotonergic drugs — but it's hard to predict in advance exactly which combination or dose will trigger it. That's why we recommend talking to your doctor, starting with low doses, and having a sitter.
 
-> **Normal DMT effects vs. serotonin syndrome:** A faster heartbeat, sweating, and dilated pupils are also normal effects of DMT. The key difference is **severity and combination**. A slightly faster heartbeat on its own is expected. But several of these symptoms together — especially if they're severe, or getting worse rather than fading — is what distinguishes serotonin syndrome from normal DMT effects. When in doubt, call for help.
+> **Normal DMT effects vs. serotonin syndrome:** A faster heartbeat, sweating, and dilated pupils are also normal effects of DMT. The key difference is **severity, combination and duration**. A faster heartbeat on its own is expected. But several of these symptoms together — especially if they're severe, or getting worse rather than fading — is what distinguishes serotonin syndrome from normal DMT effects. When in doubt, call for help.
 
 ### Symptoms
 
-**Call emergency services (911 / 112 / 999) immediately if you experience any of these:**
+**Call emergency services immediately if you experience any of these severe symptoms:**
 
 - Seizure (uncontrolled shaking, loss of consciousness)
 - High fever (above 38.5°C / 101.3°F)
 - Loss of consciousness or fainting
-- Severe muscle rigidity (your body feels locked up)
+- Severe muscle spasms, or muscle rigidity (your body feels locked up)
+- Uncontrollable side-to-side eye movements
 - Fast or irregular heartbeat combined with feeling very unwell
 - Any symptom that is rapidly getting worse
 
-**Call your doctor if you notice a combination of these milder symptoms:**
+**Call your doctor if you experience these milder symptoms:**
 
-- Agitation or unusual restlessness
-- Confusion
-- Dilated pupils
-- Rapid heartbeat (steady, not irregular)
-- Heavy sweating
-- Shivering or goosebumps
+- Any of the following normal DMT symptoms persisting after 30 minutes: rapid heartbeat, shivering, heavy sweating
 - Muscle twitching or jerking
-- Diarrhea
+- Nausea, diarrhea
+
+> **If you're on MAOIs:** Stay with your sitter for at least one hour after taking DMT. MAOIs can delay the onset of serotonin syndrome — you might feel fine at first, then develop symptoms later.
 
 ### What to Do
 
 1. **Stop taking DMT** (and any other serotonergic drugs).
 2. **Assess severity** using the symptom lists above.
 3. **If severe or worsening:** Call emergency services immediately. Tell them you took DMT and list all your medications. Accurate information helps them treat you correctly.
-4. **If mild and stable:** Call your doctor. Do not take more DMT until you've been cleared.
-5. **If you're on MAOIs:** Stay with your sitter for at least one hour after taking DMT. MAOIs can delay the onset of serotonin syndrome — you might feel fine at first, then develop symptoms later.
+4. **If mild and stable:** Do not take more DMT and have your sitter stay with you until you've been cleared. Call your doctor if you feel unwell.
 
 If you ever need emergency medical help after taking DMT, it's crucial that the medical team knows what you took. **Tell them you took DMT, and list every other medication.** Serotonin syndrome is treatable, but it needs to be correctly identified.
 
@@ -114,8 +111,8 @@ For more detailed information about serotonin syndrome:
 - [Serotonin Syndrome](https://my.clevelandclinic.org/health/diseases/17687-serotonin-syndrome) (Cleveland Clinic)
 - [Serotonin Syndrome](https://www.mayoclinic.org/diseases-conditions/serotonin-syndrome/symptoms-causes/syc-20354758) (Mayo Clinic)
 
-![Serotonin syndrome symptom spectrum — mild symptoms on the left, severe symptoms on the right, with a clear dividing line showing when to call emergency services](images/illustration-serotonin-syndrome-spectrum.jpg)
-*Serotonin syndrome symptoms range from mild (left) to severe (right). The red line marks when to call emergency services.*
+<!-- ![Serotonin syndrome symptom spectrum — mild symptoms on the left, severe symptoms on the right, with a clear dividing line showing when to call emergency services](images/illustration-serotonin-syndrome-spectrum.jpg)
+*Serotonin syndrome symptoms range from mild (left) to severe (right). The red line marks when to call emergency services.* -->
 
 ---
 
