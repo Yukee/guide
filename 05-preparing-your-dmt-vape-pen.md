@@ -1,4 +1,4 @@
-# What You'll Need: Preparing Your DMT Vape Pen
+# Preparing Your DMT Vape Pen
 
 Before you can use DMT to abort cluster headache attacks, you'll need to prepare a vape pen loaded with DMT liquid. This page walks you through everything — from buying the equipment to having a loaded pen ready to use.
 
@@ -10,56 +10,57 @@ Before you can use DMT to abort cluster headache attacks, you'll need to prepare
 
 ## Shopping list
 
-You need six things. Most can be ordered online and arrive within a few days.
+You need six things. Most can be ordered online and arrive within a few days. Everything except the DMT is standard, legal vaping equipment — you don't need to mention DMT when buying. Vape shops (online or in-person), Amazon, and eBay all carry these items.
 
 ![Everything you need — the six items laid out and labeled](images/illustration-equipment-flat-lay.jpg)
 *All six items you'll need to buy, at a glance. Details on each one below.*
 
+There are two ways to set up your vape pen:
+
+- **Option A: Battery + cartridge (recommended).** Buy a small pen-style battery and a separate cartridge. You fill the cartridge yourself with DMT liquid (explained below), or buy a pre-filled cartridge. 
+- **Option B: Complete kit.** Buy an all-in-one device like the [Coolfire Z60](https://www.innokin.com/coolfire-z60), which comes with a battery, a built-in tank, and a coil — everything except the liquid. You fill the tank yourself. These are bulkier but have more battery life and an easy-to-read screen. Some patients prefer these.
+
+The rest of this guide works with either option. The instructions below cover Option A in detail; if you're using a complete kit, the mixing steps are identical — you just fill your kit's tank instead of a cartridge.
+
 ### 1. Vape pen battery (~$25–50)
 
-**What it is:** The bottom half of your vape pen — a small rechargeable battery with a button and a charging port. Think of it like the handle of an electric toothbrush.
+*Skip this if you're buying a complete kit (Option B) — it comes with a battery.*
 
-**What to look for:** You need one with **variable voltage** (sometimes called "variable wattage"). This means you can turn the temperature up or down with a button or dial. This matters because:
-- Too low → the liquid doesn't vaporize properly, so you don't inhale enough DMT
-- Too high → the DMT molecule gets destroyed by the heat
+**What it is:** The bottom half of your vape pen — a small rechargeable battery with a button and a charging port.
+
+**What to look for:** You need one with **variable voltage** — this means you can turn the temperature up or down with a button or dial. This matters because too low and the liquid doesn't vaporize properly, too high and the DMT gets destroyed by heat. You'll want to start at around **2.5 volts** and adjust upward if needed — most people find the right setting between **2.5–3.5 volts**. The right setting produces smooth, visible vapor without any burnt taste.
 
 **Recommended models:**
+- [Yocan Uni Pro](https://www.yocan.com/featured_item/uni-pro) — popular, compact, precise voltage control
 - [CCell Fino](https://www.ccell.com/battery/fino) — simple, compact, reliable
-- [Coolfire Z60](https://www.innokin.com/coolfire-z60) — more battery life, easy-to-read screen
 
-**Where to buy:** Any vape shop (online or in-person). These are standard, legal items — you don't need to mention DMT when buying.
+**Make sure the battery is fully charged before you need it.** A dead battery during a cluster attack is the last thing you want. Charge it as soon as it arrives.
 
 ### 2. Ceramic coil cartridge (~$5–15)
 
+*Skip this if you're buying a complete kit (Option B) — it comes with a tank and coil.*
+
 **What it is:** The top half of your vape pen — a small transparent tank that holds the liquid, with a built-in heating element (called a "coil") at the bottom.
 
-**What to look for:** Get one with a **ceramic** coil. Ceramic heats more evenly than metal, which means the DMT turns into vapor (a fine mist you inhale) smoothly instead of burning. Look for cartridges labeled "ceramic" — CCELL is a popular brand that uses ceramic, but any ceramic cartridge will work. Make sure it fits your battery: most vape parts use a standard screw-on fitting called "510 thread" (like how most garden hoses use the same connector). When in doubt, ask the shop for a "510 thread ceramic cartridge."
-
-**Where to buy:** Same vape shop as the battery. Often sold together.
+**What to look for:** Get one with a **ceramic** coil. Ceramic heats more evenly than metal, which means the DMT turns into vapor smoothly instead of burning. Look for cartridges labeled "ceramic" — CCELL is a popular brand that uses ceramic, but any ceramic cartridge will work. Make sure it fits your battery: most vape parts use a standard screw-on fitting called "510 thread." When in doubt, ask the shop for a "510 thread ceramic cartridge."
 
 ### 3. Nicotine-free vape juice (~$5–10)
 
-**What it is:** A flavored liquid that you'll use as a base to dissolve the DMT into. It's the same liquid that regular vapers use, but **without nicotine** (you don't want nicotine — the label should say "0mg," meaning zero milligrams of nicotine).
+**What it is:** A flavored liquid that you'll use as a base to dissolve the DMT into. It's the same liquid that regular vapers use, but **without nicotine** (the label should say "0mg," meaning zero milligrams of nicotine).
 
-**What to look for:** Vape juice is made from two ingredients — propylene glycol (PG) and vegetable glycerin (VG). Both are common, food-safe substances. Get a bottle labeled **50/50** (meaning half of each). This ratio dissolves DMT well and produces smooth vapor. The flavor doesn't matter much — pick whatever you like or a simple flavor.
+**What to look for:** Vape juice is made from two ingredients — propylene glycol (PG) and vegetable glycerin (VG). Get a bottle labeled **50/50** (meaning half of each). This ratio dissolves DMT well and produces smooth vapor. The flavor doesn't matter — pick whatever you like.
 
 > **Example:** The photos in this guide use "Mad King Vimtoz" 50VG/50PG, 0mg nicotine — but any 50/50 nicotine-free vape juice will work.
 
-**Where to buy:** Any vape shop or online vape retailer.
-
 ### 4. DMT powder (~varies)
 
-**What it is:** The active ingredient. DMT in its pure form looks like a white-to-yellowish crystalline powder. You may hear it called "freebase DMT" — "freebase" just means it's the pure, smokable form of the molecule (as opposed to a salt form, which can't be vaporized). The powder may range from white to deep yellow/amber depending on the extraction method — all of these are fine.
-
-**Where to get it:** This guide does not cover sourcing. If you have access to DMT, it should be in powder/crystal form for this method to work.
+**What it is:** The active ingredient. DMT in its pure form looks like a white-to-yellowish crystalline powder. You need the **freebase** form — that just means the pure, vaporizable form of the molecule (as opposed to a salt form, which doesn't vaporize efficiently).
 
 ### 5. Milligram scale (~$10–20)
 
 **What it is:** A small digital scale that measures in increments of 0.01 grams (that's one hundredth of a gram). You need this to weigh the DMT accurately. Eyeballing it is not safe — too much or too little will affect your dose.
 
-**What to look for:** Any digital scale that reads to 0.01g (sometimes labeled "0.01g precision" or "centigram scale"). They're about the size of a smartphone.
-
-**Where to buy:** Amazon, eBay, or kitchen supply stores. They're commonly sold as jewelry scales or kitchen precision scales.
+**What to look for:** Any digital scale that reads to 0.01g (sometimes labeled "0.01g precision" or "centigram scale"). They're about the size of a smartphone. Commonly sold as jewelry scales or kitchen precision scales.
 
 ### 6. Small mixing bottle (~$1–5)
 
@@ -67,33 +68,13 @@ You need six things. Most can be ordered online and arrive within a few days.
 
 **What to look for:** It should be sealable (screw cap or dropper top) and heat-resistant. Glass is ideal. The bottle in our photos is a 10 ml plastic dropper bottle, which also works fine.
 
-**Where to buy:** Amazon, pharmacies, or craft supply stores. Search for "10ml dropper bottle."
-
 ### You'll also need (from around the house)
 
-- A **kettle** or way to heat water (not boiling — just very hot)
+- A **kettle** or way to heat water
 - A **mug** or small bowl to hold the hot water
 - **Clear tape** or cling film (to waterproof the bottle)
-- A piece of **aluminum foil** (for weighing)
+- A piece of **aluminum foil** (for weighing DMT powder)
 - A piece of **paper** rolled into a funnel (for pouring powder)
-
----
-
-## Understanding your vape pen
-
-![Vape pen anatomy — exploded diagram showing mouthpiece, cartridge/tank, ceramic coil, 510 thread connection, button, and battery](images/illustration-vape-anatomy.jpg)
-*A vape pen taken apart to show its pieces. In practice, the cartridge screws onto the battery and the mouthpiece sits on top — you only handle it as one assembled unit.*
-
-A vape pen has two parts that screw together:
-
-1. **Battery** (the bottom part) — powers the device. Has a button to activate it and a way to adjust the voltage/temperature.
-2. **Cartridge** (the top part) — holds the liquid. Inside it is a small ceramic coil that heats up when you press the button, turning the liquid into vapor that you inhale through the mouthpiece (the tip at the very top that you put your lips on).
-
-**That's it.** You press the button, the coil heats the liquid, you breathe in the vapor. The same principle as a kettle turning water into steam — just smaller.
-
-### What "variable voltage" means
-
-The voltage setting controls how hot the coil gets. Your device will show a number on its screen or near a dial — that's your voltage. You'll want to start at a **low setting** (around **2.5 volts**) and adjust upward if needed — most people find the right setting between **2.5–3.5 volts**. The right setting produces a smooth, visible vapor without any burnt taste. If you taste burning, turn it down.
 
 ---
 
@@ -101,20 +82,24 @@ The voltage setting controls how hot the coil gets. Your device will show a numb
 
 This is the main preparation step: dissolving DMT powder into vape juice so it can be vaporized. We're using the **bottle method** — you mix everything in a small bottle using hot water to help the powder dissolve.
 
-**The ratio:** We use **1 gram of DMT per 1 milliliter of vape juice** (written as 1:1). This is the standard starting concentration.
+**The ratio:** We use **1 gram of DMT per 3 milliliters of vape juice** (written as 1:3). This concentration dissolves fully and won't clog your cartridge.
+
+> **If you have more or less than 1 gram:** Scale the liquid proportionally. For example, 0.5g of DMT needs 1.5 ml of juice. 2g of DMT needs 6 ml. The ratio is always 1 part DMT to 3 parts liquid by weight.
 
 ### Step 1: Weigh your DMT
 
 Place a piece of aluminum foil on your scale and zero it out (press the "tare" or "T" button so the scale reads 0.00 with the foil on it). Then carefully add DMT powder until the scale reads **1.00 g** (1 gram).
+
+> **Handling tip:** DMT powder won't make you trip through skin contact in these amounts, but you want the DMT in the bottle, not on your hands. Work in a calm spot without drafts — the powder is fine and can become airborne. If you get any on your skin, just wash with soap and water.
 
 ![Step 1 — DMT powder on a digital scale, showing 1 gram weighed on aluminum foil](images/01-dmt-on-scale.jpg)
 *1 gram of DMT powder on a CHWARES digital scale. The aluminum foil makes it easy to pour the powder afterward.*
 
 ### Step 2: Measure vape juice into the mixing bottle
 
-Pour **1 ml** (1 milliliter) of your nicotine-free vape juice into the small mixing bottle. If your vape juice bottle has measurement markings, use those. Otherwise, 1 ml is about 20 drops from a standard dropper.
+You need **3 ml** (3 milliliters) of vape juice. The easiest way to measure this is by weight using your scale: place your mixing bottle on the scale, tare it to zero, then add vape juice until the scale reads **3.00 g** (vape juice has roughly the same density as water, so 3 grams ≈ 3 ml).
 
-> **Note about the photos:** Don't worry that the photos show more liquid than 1 ml — the person who took these was making a larger batch (5g of DMT in 5 ml of juice). The ratio is the same (1:1). For your first time, 1g in 1 ml is plenty and will fill several cartridges.
+> **Note about the photos:** The photos show a different DMT to vape juice ratio than the guide. The method is identical.
 
 ![Step 2a — The vape juice bottle, showing "50VG 50PG" and "0mg" (nicotine-free) on the label](images/02-vape-juice-bottle.jpg)
 *Nicotine-free (0mg) vape juice with a 50/50 PG/VG ratio. Any brand with these specs works.*
@@ -125,8 +110,6 @@ Pour **1 ml** (1 milliliter) of your nicotine-free vape juice into the small mix
 ### Step 3: Add the DMT powder to the bottle
 
 Roll a small piece of paper into a cone/funnel shape and use it to carefully pour the DMT powder from the foil into the mixing bottle. Go slowly — the powder is fine and you don't want to spill any.
-
-> **Handling tip:** Work in a calm spot without drafts — the powder is light and can become airborne. If you get any on your hands, wash them with soap and water. It won't harm you in small amounts, but you want the DMT in the bottle, not on your skin.
 
 ![Step 3 — Using a paper funnel to add DMT powder into the small mixing bottle](images/04-adding-dmt-to-bottle.jpg)
 *A rolled piece of paper makes a simple funnel. Tilt the foil gently to slide the powder in.*
@@ -152,11 +135,7 @@ Screw the cap on tightly. Shake the bottle vigorously for about 1 minute.
 **Then**, boil your kettle and pour the hot water into a mug. Place the sealed, taped bottle into the mug of hot water. Let it sit for **10–15 minutes**.
 
 ![Step 5b — The taped bottle sitting in a mug of hot water](images/06-hot-water-bath.jpg)
-*The bottle sits in hot (not boiling) water in a mug. The heat helps the DMT dissolve into the liquid. Make sure the water level doesn't go above the taped seal.*
-
-> **Important:** Use very hot water from a recently boiled kettle — but don't put the bottle directly into boiling water on the stove. Pour the hot water into a mug first.
-
-> **Careful with the hot water.** When removing the bottle from the mug, it will be very hot. Let it cool for 30 seconds before shaking, or use a towel or oven mitt to grip it.
+*The bottle sits in hot water in a mug. The heat helps the DMT dissolve into the liquid. Make sure the water level doesn't go above the taped seal.*
 
 ### Step 6: Remove, shake, and repeat
 
@@ -194,9 +173,7 @@ Now you need to get the liquid from the mixing bottle into the cartridge.
 2. **Unscrew the mouthpiece** from the top of the cartridge. It twists off to reveal the tank opening. You'll see a small hole in the very center — that's the airway (where air flows through when you inhale). **Don't put liquid into that center hole.**
 3. **Squeeze or drip the liquid** from your mixing bottle into the tank, aiming for the **sides** of the tank (not the center). Go slowly. Fill until the liquid is about 1 mm below the top rim — don't overfill, or it will gurgle and spit when you use it.
 4. **Screw the mouthpiece back on.**
-5. **Stand the pen upright and wait 15-30 minutes before using.** This gives the coil time to soak up the liquid.
-
-> **Why wait?** Inside the cartridge, the ceramic coil needs time to soak up (or "wick") the liquid — like a sponge absorbing water. If you press the button while the coil is still dry, you'll permanently burn it. The cartridge will taste like burnt rubber from that point on and you'll need a new one. An hour of patience saves you a cartridge.
+5. **Stand the pen upright and wait 30 minutes before using.** This gives the ceramic coil time to soak up (or "wick") the liquid. If you fire the coil while it's still dry, you'll permanently burn it and need a new cartridge.
 
 ---
 
@@ -204,7 +181,7 @@ Now you need to get the liquid from the mixing bottle into the cartridge.
 
 ### Storing your pen
 
-- Store your loaded pen upright, to make sure the coil stays soaked with liquid
+- Ideally store your loaded pen upright, to make sure the coil stays soaked with liquid
 - Avoid cold environments — a cold car, basement, or garage can cause the DMT to turn back into crystals inside the liquid
 - A bedside drawer or medicine cabinet is fine
 - **Keep it out of reach of children and pets.** The loaded pen looks identical to a regular nicotine vape. Consider labeling it clearly (e.g., a piece of tape marked "DMT") so nobody mistakes it for an ordinary vape
@@ -241,23 +218,23 @@ Turn the voltage **down**. A burnt taste means the temperature is too high and t
 ### Shopping list
 | Item | What to ask for | Approx. cost |
 |---|---|---|
-| Vape pen battery | "Variable voltage, 510 thread battery" | $25–50 |
-| Cartridge | "510 thread ceramic coil cartridge" | $5–15 |
+| Vape pen battery | "Variable voltage, 510 thread battery" (or complete kit) | $25–50 |
+| Cartridge | "510 thread ceramic coil cartridge" (skip if using kit) | $5–15 |
 | Vape juice | "50/50 nicotine-free vape juice" | $5–10 |
-| DMT powder | Pure powder/crystal form | Varies |
+| DMT powder | Pure freebase powder/crystal form | Varies |
 | Digital scale | Reads to 0.01 grams | $10–20 |
-| Small mixing bottle | 10 ml, sealable | $1–5 |
+| Small mixing bottle | 10 ml, sealable, temperature-resistant | $1–5 |
 
-### Mixing steps (1:1 ratio = 1g DMT per 1ml juice)
+### Mixing steps (1:3 ratio = 1g DMT per 3ml juice)
 1. **Weigh** 1g DMT on scale
-2. **Measure** 1ml vape juice into small bottle
+2. **Measure** 3ml vape juice into small bottle (3g by weight)
 3. **Add** DMT powder to bottle (paper funnel helps)
 4. **Seal and shake** vigorously for 1 minute
 5. **Tape** bottle, place in mug of hot water for 10–15 min
 6. **Remove and shake** 1 minute — repeat hot water cycle 3–4 times total
 7. **Check:** should be clear amber, no cloudiness
 8. **Fill** cartridge, avoiding center tube
-9. **Wait** 30–60 min before first use (let coil soak)
+9. **Wait** 30 min before first use (let coil soak)
 
 ### Storage
 - Upright, room temperature

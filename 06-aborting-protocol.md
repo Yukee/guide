@@ -95,7 +95,7 @@ Put the pen down. Breathe normally. DMT acts fast — if it's going to work, you
 
 ### Step 4: Assess
 
-- **Has the pain stopped?**. If you took enough DMT to abort the attack, the pain will be gone by now. 
+- **Has the pain stopped?** When DMT aborts an attack, the pain typically vanishes sharply.
 - **Do I feel the DMT acting?** You might feel a "body buzz": a warm, tingling sensation, especially in your chest or limbs. Some users report feeling the body buzz at about the dose they take to abort their attacks. 
     - Other common effects include feeling your heart racing, feeling cold, seeing visual patterns (especially with eyes closed), or a sense of bodily compression or pressure.
 
@@ -117,7 +117,7 @@ When you feel ready, take a moment to log the protocol you followed and the effe
 This section describes what most people experience at the low doses used for aborting attacks. **Every person is different** — you may feel all, some, or none of these.
 
 ![Effects timeline — what to expect from 0 to 30 minutes](images/illustration-effects-timeline.jpg)
-*Approximate timeline of effects after inhaling DMT. Most people feel completely normal again within 20–30 minutes.*
+*Approximate timeline of effects after inhaling DMT. Pain relief is typically sharp and sudden (within seconds), while the mild DMT side effects (body buzz, visual changes) fade gradually over 20–30 minutes.*
 
 ### In the first 10 seconds
 - A **warm, tingling sensation** spreading through your body — this is the "body buzz." It often starts in the chest and moves outward.
@@ -135,7 +135,7 @@ This section describes what most people experience at the low doses used for abo
 - Any visual effects stop.
 - By 20–30 minutes, you should feel **back to normal**, with no, or barely any lingering effects.
 
-> **How do you know it worked?** If the DMT successfully aborts your attack, the headache pain will reduce noticeably — sometimes within seconds, sometimes over a few minutes. Many people describe the pain as "dissolving" or "melting away." The attack doesn't always vanish instantly; sometimes it fades over 2–5 minutes.
+> **How do you know it worked?** If the DMT successfully aborts your attack, the pain will drop away sharply — often within seconds. This is not a gradual fade; when the dose is sufficient, the relief is unmistakable.
 
 ---
 
@@ -190,7 +190,7 @@ This log is invaluable. Over time, you'll dial in the exact settings that work f
 5. **If no effect → take another puff.** Wait 30 sec, assess again.
 
 ### Signs it's working
-- Pain reduces or dissolves (seconds to a few minutes)
+- Pain drops away sharply
 - Warm tingling ("body buzz") in chest/limbs
 
 ### If things feel wrong
