@@ -1,8 +1,9 @@
-# There Is Something That Can Stop Your Attack in Seconds
+# Using DMT to Abort Cluster Headache Attacks
+### A small inhalation of this substance could stop your attacks in seconds.
 
-A small inhaled dose of **DMT** can abort a cluster headache attack — often before it fully takes hold. It acts almost instantly, wears off in minutes, and carries minimal health risks at the doses used — provided you first check for [drug interactions](03-safety.md).
+It acts almost instantly, wears off in minutes, and carries minimal health risks at the doses used (provided you first check for [drug interactions](03-safety.md)).
 
-DMT is not a miracle cure. It's illegal in most countries, it's not FDA-approved for cluster headaches, and it won't work for everyone. But for a growing community of patients who have tried everything else, it has become an indispensable tool — sometimes the only thing that reliably stops the pain.
+DMT is not a miracle cure. It's illegal in most countries, it's not FDA-approved for cluster headaches, and it won't work for everyone. But for a growing community of patients who have tried everything else, it has become an indispensable tool; sometimes the only thing that reliably stops the pain.
 
 This guide was written for you: someone in serious pain, probably unfamiliar with drugs, looking for clear and honest information.
 
@@ -15,25 +16,23 @@ Aborting means stopping an attack once it starts. Here's the procedure at a glan
 ![The abort at a glance — six panels: attack starts, grab your pen, puff, wait 30 seconds, repeat if needed, relief](images/illustration-abort-at-a-glance.jpg)
 *From attack to relief in under a minute.*
 
-You sit down, take a small puff from a vape pen (a small handheld device that heats the DMT into a vapor you inhale), and wait. Within moments, you feel warm or buzzing sensation — and the pain stopping. If it doesn't, you wait 30 seconds and take one more puff. That's it. No bulky oxygen tank, no waiting for a triptan or oxygen to kick in.
+You sit down, take a small puff from a vape pen (a small handheld device that heats the DMT into a vapor you inhale), and wait. Within moments, you feel a warm or buzzing sensation, and the pain stopping. If it doesn't, you wait 30 seconds and take one more puff. That's it. No bulky oxygen tank, no waiting for a triptan or oxygen to kick in.
 
 ---
 
 ## What this guide covers
 
-1. **[DMT Basics](02-dmt-basics.md)** — What DMT is, why it works for cluster headaches, and what it feels like at low doses.
-2. **[Safety and Drug Interactions](03-safety.md)** — Which medications are dangerous to combine with DMT, and how to minimize risks.
-3. **[Preparing Your Vape Pen](05-what-youll-need.md)** — Everything you need to buy and how to set it up, from scratch.
-4. **[Aborting an Attack](06-aborting-protocol.md)** — The step-by-step protocol: how to inhale, how much to take, and what to expect.
+1. **[DMT Basics](02-dmt-basics.md)**: What DMT is, why it works for cluster headaches, and what it feels like at low doses.
+2. **[Safety and Drug Interactions](03-safety.md)**: Which medications are dangerous to combine with DMT, and how to minimize risks.
+3. **[Preparing Your Vape Pen](05-what-youll-need.md)**: Everything you need to buy and how to set it up, from scratch.
+4. **[Aborting an Attack](06-aborting-protocol.md)**: The step-by-step protocol: how to inhale, how much to take, and what to expect.
 
 ---
 
 ## Hear from patients
 
-<!-- VIDEO CAROUSEL: 3-5 short clips (30-60s each) of cluster headache patients describing their experience using DMT to abort attacks. Horizontal scroll, autoplay-off, captions enabled. -->
-
-*Video testimonials coming soon — real patients sharing how DMT changed their experience with cluster headaches.*
+<!-- VIDEO CAROUSEL: 3-5 short clips (30-60s each) of cluster headache patients describing their experience using DMT to abort attacks. Horizontal scroll, autoplay-off, captions enabled. For now, let's use the John Fletcher video and a few of the text testimonials, including the patient headshots where available: https://clusterfree.org/testimonials -->
 
 ---
 
-*This guide is for informational and harm-reduction purposes only. It does not constitute medical advice. DMT is a controlled substance — illegal to possess, manufacture, or distribute in most countries, including the United States (Schedule I) and most of Europe. The authors of this guide do not encourage or condone illegal activity. Consult a qualified healthcare professional before making any changes to your treatment.*
+*This guide is for informational and harm-reduction purposes only. It does not constitute medical advice. DMT is a controlled substance: illegal to possess, manufacture, or distribute in most countries, including the United States (Schedule I) and most of Europe. The authors of this guide do not encourage or condone illegal activity. Consult a qualified healthcare professional before making any changes to your treatment.*
