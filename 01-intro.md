@@ -13,7 +13,7 @@ This guide was written for you: someone in serious pain, probably unfamiliar wit
 
 Aborting means stopping an attack once it starts. Here's the procedure at a glance.
 
-![The abort at a glance — six panels: attack starts, grab your pen, puff, wait 30 seconds, repeat if needed, relief](images/illustration-abort-at-a-glance.jpg)
+![The abort at a glance - six panels: attack starts, grab your pen, puff, wait 30 seconds, repeat if needed, relief](images/illustration-abort-at-a-glance.jpg)
 *From attack to relief in under a minute.*
 
 You sit down, take a small puff from a vape pen (a small handheld device that heats the DMT into a vapor you inhale), and wait. Within moments, you feel a warm or buzzing sensation, and the pain stopping. If it doesn't, you wait 30 seconds and take one more puff. That's it. No bulky oxygen tank, no waiting for a triptan or oxygen to kick in.
@@ -24,8 +24,9 @@ You sit down, take a small puff from a vape pen (a small handheld device that he
 
 1. **[DMT Basics](02-dmt-basics.md)**: What DMT is, why it works for cluster headaches, and what it feels like at low doses.
 2. **[Safety and Drug Interactions](03-safety.md)**: Which medications are dangerous to combine with DMT, and how to minimize risks.
-3. **[Preparing Your Vape Pen](05-what-youll-need.md)**: Everything you need to buy and how to set it up, from scratch.
-4. **[Aborting an Attack](06-aborting-protocol.md)**: The step-by-step protocol: how to inhale, how much to take, and what to expect.
+3. **[FAQ](04-faq.md)**: Quick answers to the most common questions.
+4. **[Preparing Your Vape Pen](05-preparing-your-dmt-vape-pen.md)**: Everything you need to buy and how to set it up, from scratch.
+5. **[Aborting an Attack](06-aborting-protocol.md)**: The step-by-step protocol: how to inhale, how much to take, and what to expect.
 
 ---
 

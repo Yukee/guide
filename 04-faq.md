@@ -13,7 +13,7 @@ DMT is illegal in most countries. This guide does not encourage breaking the law
 Yes. Unless you take MAOIs, DMT is cleared from your body within minutes. Patients report using it multiple times per day.
 
 **"What if I'm on medication?"**
-You **must** check for drug interactions before trying DMT. This is not optional. Some combinations (especially lithium) are genuinely dangerous. See the [drug interactions page](#) for a complete list.
+You **must** check for drug interactions before trying DMT. This is not optional. Some combinations (especially lithium) are genuinely dangerous. See the [drug interactions page](03-safety.md#check-your-medications) for a complete list.
 
 **"Do I need someone with me?"**
 For your very first time, yes.
@@ -29,8 +29,8 @@ DMT vapor has a noticeable smell.
 It's often described as floral, plasticky, or mothball-like. It's distinct enough that someone in the same room would likely notice. However, it dissipates within a few minutes, and it doesn't linger on clothes or furniture the way cigarette smoke does.
 
 **"How long until I can drive or go back to normal?"**
-At aborting doses, most people feel back to normal within 20–30 minutes. To be safe, don't drive for at least 30 minutes after your last puff. 
-**Important exception:** If you take MAOIs, DMT's effects are much stronger and can last 2–4 hours. In that case, wait significantly longer before driving or operating machinery.
+At aborting doses, most people feel back to normal within 20-30 minutes. To be safe, don't drive for at least 30 minutes after your last puff. 
+**Important exception:** If you take MAOIs, DMT's effects are much stronger and can last 2-4 hours. In that case, wait significantly longer before driving or operating machinery.
 
 **"What if it doesn't work for me?"**
 If your first few attempts don't relieve the pain, try adjusting your protocol before giving up: experiment with voltage, inhaling technique, or the DMT-to-liquid ratio. 
