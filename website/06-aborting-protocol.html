@@ -1,0 +1,756 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang xml:lang>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Aborting an Attack with DMT</title>
+  <style>
+
+html {
+color: #1a1a1a;
+background-color: #fdfdfd;
+}
+body {
+margin: 0 auto;
+max-width: 36em;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 80px;
+padding-bottom: 50px;
+hyphens: auto;
+overflow-wrap: break-word;
+text-rendering: optimizeLegibility;
+font-kerning: normal;
+}
+@media (max-width: 600px) {
+body {
+font-size: 0.9em;
+padding: 12px;
+padding-top: 70px;
+}
+h1 {
+font-size: 1.8em;
+}
+}
+@media print {
+html {
+background-color: white;
+}
+body {
+background-color: transparent;
+color: black;
+font-size: 12pt;
+padding-top: 50px;
+}
+.site-nav, .back-to-top, .page-nav {
+display: none;
+}
+p, h2, h3 {
+orphans: 3;
+widows: 3;
+}
+h2, h3, h4 {
+page-break-after: avoid;
+}
+}
+p {
+margin: 1em 0;
+}
+a {
+color: #1a6fa8;
+}
+a:visited {
+color: #5a4a9a;
+}
+img {
+max-width: 100%;
+border-radius: 6px;
+}
+h1, h2, h3, h4, h5, h6 {
+margin-top: 1.4em;
+}
+ol, ul {
+padding-left: 1.7em;
+margin-top: 1em;
+}
+li > ol, li > ul {
+margin-top: 0;
+}
+blockquote {
+margin: 1em 0 1em 1.7em;
+padding-left: 1em;
+border-left: 3px solid #d0d7de;
+color: #505860;
+background-color: #f6f8fa;
+padding: 0.8em 1em;
+border-radius: 4px;
+}
+blockquote p:first-child {
+margin-top: 0;
+}
+blockquote p:last-child {
+margin-bottom: 0;
+}
+hr {
+border: none;
+border-top: 1px solid #d0d7de;
+height: 1px;
+margin: 2em 0;
+}
+table {
+margin: 1em 0;
+border-collapse: collapse;
+width: 100%;
+font-variant-numeric: lining-nums tabular-nums;
+}
+tbody {
+border-top: 1px solid #1a1a1a;
+border-bottom: 1px solid #1a1a1a;
+}
+th {
+border-top: 1px solid #1a1a1a;
+padding: 0.4em 0.6em;
+text-align: left;
+}
+td {
+padding: 0.3em 0.6em;
+}
+figure {
+margin: 1.5em 0;
+text-align: center;
+}
+figure img {
+display: block;
+margin: 0 auto;
+}
+figcaption {
+font-size: 0.9em;
+color: #606060;
+font-style: italic;
+margin-top: 0.5em;
+text-align: center;
+}
+/* Navigation */
+.site-nav {
+position: fixed;
+top: 0;
+left: 0;
+right: 0;
+z-index: 100;
+background: rgba(253,253,253,0.97);
+backdrop-filter: blur(8px);
+-webkit-backdrop-filter: blur(8px);
+border-bottom: 1px solid #d0d7de;
+padding: 0.5em 1em;
+display: flex;
+align-items: center;
+justify-content: space-between;
+font-size: 0.95em;
+}
+.site-title {
+font-weight: 700;
+color: #1a1a1a;
+text-decoration: none;
+white-space: nowrap;
+}
+.site-title:visited {
+color: #1a1a1a;
+}
+.nav-toggle {
+display: none;
+background: none;
+border: 1px solid #d0d7de;
+border-radius: 4px;
+font-size: 1.3em;
+cursor: pointer;
+padding: 0.1em 0.4em;
+color: #1a1a1a;
+}
+.nav-links {
+display: flex;
+gap: 0.2em;
+}
+.nav-links a {
+color: #505860;
+text-decoration: none;
+padding: 0.3em 0.6em;
+border-radius: 4px;
+font-size: 0.9em;
+}
+.nav-links a:visited {
+color: #505860;
+}
+.nav-links a:hover {
+background: #f6f8fa;
+color: #1a1a1a;
+}
+.nav-links a.active {
+background: #f0f7f0;
+color: #1a6fa8;
+font-weight: 600;
+}
+@media (max-width: 600px) {
+.nav-toggle {
+display: block;
+}
+.nav-links {
+display: none;
+position: absolute;
+top: 100%;
+left: 0;
+right: 0;
+background: rgba(253,253,253,0.98);
+border-bottom: 1px solid #d0d7de;
+flex-direction: column;
+padding: 0.5em;
+}
+.nav-links.open {
+display: flex;
+}
+.nav-links a {
+padding: 0.6em 1em;
+font-size: 1em;
+}
+}
+/* Prev/next footer */
+.page-nav {
+display: flex;
+justify-content: space-between;
+margin: 2em 0 1em;
+padding-top: 1em;
+border-top: 1px solid #d0d7de;
+}
+.page-nav a {
+color: #1a6fa8;
+text-decoration: none;
+font-weight: 600;
+}
+.page-nav a:hover {
+text-decoration: underline;
+}
+/* Back to top */
+.back-to-top {
+position: fixed;
+bottom: 2em;
+right: 2em;
+background: #1a6fa8;
+color: white;
+border: none;
+border-radius: 50%;
+width: 2.8em;
+height: 2.8em;
+font-size: 1.2em;
+cursor: pointer;
+opacity: 0;
+transition: opacity 0.3s;
+box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+.back-to-top.visible {
+opacity: 0.85;
+}
+.back-to-top:hover {
+opacity: 1;
+}
+/* Component classes */
+.illustration figure img {
+max-width: 100%;
+}
+.intro-box {
+background-color: #f0f7f0;
+border: 1px solid #c3dcc3;
+border-radius: 8px;
+padding: 1.2em 1.5em;
+margin: 1.5em 0;
+}
+.intro-box p:first-child {
+margin-top: 0;
+}
+.intro-box p:last-child {
+margin-bottom: 0;
+}
+.safety-checklist {
+list-style: none;
+padding-left: 0;
+}
+.safety-checklist li {
+padding: 0.5em 0 0.5em 2em;
+position: relative;
+border-bottom: 1px solid #eee;
+}
+.safety-checklist li:last-child {
+border-bottom: none;
+}
+.safety-checklist li::before {
+content: "\2610";
+position: absolute;
+left: 0;
+font-size: 1.3em;
+line-height: 1;
+top: 0.5em;
+}
+.warning-box {
+background-color: #fff8e1;
+border: 1px solid #ffe082;
+border-left: 4px solid #ffa000;
+border-radius: 6px;
+padding: 1.2em 1.5em;
+margin: 1.5em 0;
+}
+.warning-box p:first-child {
+margin-top: 0;
+}
+.warning-box p:last-child {
+margin-bottom: 0;
+}
+.sitter-section {
+background-color: #f6f8fa;
+border: 1px solid #d0d7de;
+border-radius: 8px;
+padding: 1.5em;
+margin: 1.5em 0;
+}
+.sitter-section h3 {
+margin-top: 1em;
+}
+.sitter-section h3:first-child {
+margin-top: 0;
+}
+.quick-ref {
+background-color: #f0f7f0;
+border: 2px solid #c3dcc3;
+border-radius: 8px;
+padding: 1.5em;
+margin: 1.5em 0;
+}
+.quick-ref h3 {
+margin-top: 1em;
+}
+.quick-ref h3:first-child {
+margin-top: 0;
+}
+.quick-ref ol, .quick-ref ul {
+margin-top: 0.5em;
+}
+  </style>
+</head>
+<body>
+
+<nav class="site-nav">
+  <a href="index.html" class="site-title">DMT for Cluster Headaches</a>
+  <button class="nav-toggle" aria-label="Menu" onclick="document.querySelector('.nav-links').classList.toggle('open')">&#9776;</button>
+  <div class="nav-links">
+    <a href="index.html">Home</a>
+    <a href="02-dmt-basics.html">Basics</a>
+    <a href="03-safety.html">Safety</a>
+    <a href="04-faq.html">FAQ</a>
+    <a href="05-preparing-your-dmt-vape-pen.html">Vape Prep</a>
+    <a href="06-aborting-protocol.html" class="active">Aborting</a>
+  </div>
+</nav>
+
+<h1>Aborting an Attack with DMT</h1>
+
+<div class="intro-box">
+<p>This page covers how to use your DMT vape pen to stop a cluster headache attack, and how to practice beforehand so you&rsquo;re confident when an attack hits.</p>
+<p><strong>Time needed:</strong> The abort itself takes 1&ndash;5 minutes. You may feel mild effects for up to 20 minutes afterward.</p>
+<p><strong>If you&rsquo;ve never taken DMT or similar substances before, that&rsquo;s completely fine.</strong> The doses used here are small, much less than what recreational users take. This page will walk you through exactly what to do, step by step.</p>
+</div>
+
+<hr>
+
+<h2 id="before-your-first-time-safety-checklist">Before your first time: safety checklist</h2>
+
+<p>Before you ever press the button on your pen, make sure you&rsquo;ve completed every item on this list.</p>
+
+<ul class="safety-checklist">
+<li><strong>Drug interactions checked.</strong> If you take any medication, supplement, or herbal remedy, you&rsquo;ve read the <a href="03-safety.html#check-your-medications">safety page</a> and confirmed it&rsquo;s safe to combine with DMT. <strong>If you take lithium, stop here: do not take DMT.</strong></li>
+<li><strong>Heart health considered.</strong> DMT temporarily raises your heart rate and blood pressure, similar to climbing a flight of stairs quickly. If you have high blood pressure, a heart condition, or a history of stroke, talk to your doctor before trying DMT. Triptans (sumatriptan, rizatriptan, etc.) narrow your blood vessels, putting additional strain on your heart. We recommend waiting at least 24 hours after your last triptan dose before taking DMT.</li>
+<li><strong>Sitter present for your first time.</strong> Your very first use of DMT must be a practice session (not during an attack), with a sober person present. After you&rsquo;ve practiced successfully, a sitter is recommended but not required for subsequent uses. See the <a href="#your-sitter-what-they-need-to-know">sitter section</a> below.</li>
+<li><strong>Vape pen loaded, charged, and tested.</strong> You&rsquo;ve followed the <a href="05-preparing-your-dmt-vape-pen.html">preparation page</a>.</li>
+<li><strong>Comfortable, familiar space.</strong> You&rsquo;re somewhere you feel safe: your bedroom, living room, or another private, quiet place. Not in public, not driving, not operating machinery.</li>
+<li><strong>Phone accessible.</strong> In case of emergency, your phone (or your sitter&rsquo;s phone) should be within arm&rsquo;s reach.</li>
+</ul>
+
+<hr>
+
+<h2 id="how-to-inhale">How to inhale (for people who have never vaped)</h2>
+
+<p>This is the most important technique to learn. It&rsquo;s not hard, but it&rsquo;s different from just breathing normally.</p>
+
+<div class="illustration">
+<figure>
+<img src="images/illustration-inhaling-technique.jpg" alt="Inhaling technique &mdash; four panels showing draw, breathe in, hold, and exhale">
+<figcaption>Four steps: (1) Draw vapor into your mouth for 2&ndash;3 seconds, (2) Remove pen and breathe fresh air deep into your lungs, (3) Hold for 5&ndash;7 seconds, (4) Exhale slowly.</figcaption>
+</figure>
+</div>
+
+<h3>Step by step:</h3>
+
+<ol>
+<li><strong>Hold the pen to your lips</strong> like a straw. Press and hold the button.</li>
+<li><strong>Draw gently for 2&ndash;3 seconds.</strong> Suck the vapor into your <em>mouth</em>. Don&rsquo;t try to breathe it straight into your lungs yet. Think of it like sipping a thick milkshake through a straw: slow, steady, gentle. You should feel warm vapor filling your mouth.</li>
+<li><strong>Remove the pen from your lips.</strong> Now breathe in deeply through your mouth. This pulls the vapor from your mouth down into your lungs, along with fresh air. Your lungs should feel full.</li>
+<li><strong>Hold your breath for 5&ndash;7 seconds.</strong> You don&rsquo;t need to count precisely. Just a comfortable pause.</li>
+<li><strong>Exhale slowly</strong> through your mouth. You should see a visible cloud of vapor. If you see nothing, you may not have drawn enough; try a slightly longer draw next time.</li>
+</ol>
+
+<blockquote>
+<p><strong>What you should taste:</strong> A mildly chemical or plastic-like taste is normal. If you taste something harsh or burnt, your temperature is too high. Turn it down. The vapor should feel smooth, not irritating.</p>
+</blockquote>
+
+<blockquote>
+<p><strong>If it makes you cough:</strong> That&rsquo;s common the first time. Try a shorter, gentler draw (1&ndash;2 seconds instead of 3). You&rsquo;ll get used to it quickly.</p>
+</blockquote>
+
+<hr>
+
+<h2 id="your-first-time-the-practice-session">Your first time: the practice session</h2>
+
+<p><strong>We do not recommend using DMT for the first time during an attack.</strong> Instead, practice when you&rsquo;re calm and pain-free.</p>
+
+<h3>Practice session steps</h3>
+
+<p>Pick a time when you&rsquo;re feeling relaxed: an evening at home, a weekend afternoon. Have your sitter with you.</p>
+
+<ol>
+<li><strong>Sit down somewhere comfortable.</strong> A couch or recliner is ideal. Have a glass of water nearby.</li>
+<li><strong>Tell your sitter you&rsquo;re starting.</strong> They should be in the same room, relaxed. If you want, you can ask your sitter to record their observations, as this might help you document the protocol you followed.</li>
+<li><strong>Set your vape pen to a low voltage:</strong> start at <strong>2.5V</strong>. If your device shows temperature instead of voltage, start around 200&ndash;220&deg;C (392&ndash;428&deg;F).</li>
+<li><strong>Take one puff</strong> using the inhaling technique described above.</li>
+<li><strong>Wait 30 seconds.</strong> Pay attention to how your body feels. You might notice a warm or tingling sensation (&ldquo;body buzz&rdquo;), or you might feel nothing at all.</li>
+<li><strong>If you felt nothing</strong>, turn the voltage up slightly (to about <strong>3.0V</strong> / 210&deg;C) and try one more puff. Wait another 30 seconds.</li>
+<li><strong>If you felt a gentle warmth or tingling</strong>, that&rsquo;s the DMT. Sit with it for a few minutes. Notice how it feels. It will fade within 10&ndash;20 minutes.</li>
+<li><strong>Talk to your sitter</strong> about what you noticed. They should note what settings you used and how it felt. This information will help during a real attack.</li>
+</ol>
+
+<blockquote>
+<p><strong>Don&rsquo;t chase a big effect.</strong> The goal of the practice session is just to feel a mild buzz. One or two small puffs is enough.</p>
+</blockquote>
+
+<hr>
+
+<h2 id="the-aborting-protocol">The aborting protocol</h2>
+
+<p>As soon as you feel an attack coming on, this is what to do. The entire process takes just a few minutes.</p>
+
+<p>The key idea is simple: <strong>take a small dose, wait, and see if the pain is gone. If not, take another. You do not need to take a large dose all at once.</strong> Small puffs that you add one at a time let you use only as much DMT as you need.</p>
+
+<p>At first, you might need a couple puffs to abort your attack. Over time, you will find the best settings (vape temperature, how deep you inhale, etc.) to abort as quickly as possible without unnecessarily tripping.</p>
+
+<p><strong>You can use this protocol for every attack,</strong> including multiple attacks in the same day. Unless you take MAOIs, DMT leaves your body within minutes, so there is no buildup from repeated use.</p>
+
+<blockquote>
+<p><strong>Can I accidentally have an intense trip?</strong> At these low doses, it&rsquo;s very unlikely. DMT acts within seconds, so you&rsquo;ll feel the effects of each puff before you take the next one. The aborting protocol gives you full control: you stop as soon as you feel the DMT working, well before anything intense could happen.</p>
+</blockquote>
+
+<h3 id="step-1-prepare">Step 1: Prepare</h3>
+
+<ul>
+<li><strong>Sit or lie down.</strong> Do not stand. DMT can make you feel dizzy or heavy.</li>
+<li><strong>Grab your pen.</strong> Make sure it&rsquo;s on and set to the voltage that worked during your practice session (typically <strong>2.5&ndash;3.5V</strong> / 200&ndash;220&deg;C). If the pen doesn&rsquo;t produce vapor, it may be clogged. Warm it in your hands or under your arm for a minute and try again.</li>
+<li><strong>Tell your sitter</strong> (if present): &ldquo;I&rsquo;m going to use the pen now.&rdquo; Optionally tell them to log their observations too.</li>
+</ul>
+
+<h3 id="step-2-take-a-puff">Step 2: Take a puff</h3>
+
+<p>Inhale using the technique you practiced:</p>
+<ul>
+<li>Press the button, draw gently for 2&ndash;3 seconds</li>
+<li>Remove pen, breathe in deeply</li>
+<li>Hold for 5&ndash;7 seconds</li>
+<li>Exhale</li>
+</ul>
+
+<h3 id="step-3-wait-30-seconds">Step 3: Wait 30 seconds</h3>
+
+<p>Put the pen down. Breathe normally. DMT acts fast. If it&rsquo;s going to work, you&rsquo;ll start to feel something within seconds.</p>
+
+<h3 id="step-4-assess">Step 4: Assess</h3>
+
+<ul>
+<li><strong>Has the pain stopped?</strong> When DMT aborts an attack, the pain typically vanishes sharply.</li>
+<li><strong>Do I feel the DMT acting?</strong> You might feel a &ldquo;body buzz&rdquo;: a warm, tingling sensation, especially in your chest or limbs. Some users report feeling the body buzz at about the dose they take to abort their attacks.
+  <ul>
+  <li>Other common effects include feeling your heart racing, feeling cold, seeing visual patterns (especially with eyes closed), or a sense of bodily compression or pressure.</li>
+  </ul>
+</li>
+</ul>
+
+<h3 id="step-5-repeat-if-needed">Step 5: Repeat if needed</h3>
+
+<ul>
+<li><strong>If you felt little or nothing after 30 seconds</strong>, take another puff. Same technique. Wait another 30 seconds and assess again. Repeat this cycle until the pain stops, <strong>or</strong> if you feel the effects are about to get too intense for you.</li>
+</ul>
+
+<h3 id="step-6-document-everything">Step 6: Document everything</h3>
+
+<p>When you feel ready, take a moment to log the protocol you followed and the effects you felt.</p>
+
+<div class="illustration">
+<figure>
+<img src="images/illustration-protocol-flowchart.jpg" alt="Protocol flowchart &mdash; visual decision tree for the aborting protocol">
+<figcaption>Visual summary: puff, wait 30 seconds, assess. If the pain persists, take another puff if you feel comfortable with it.</figcaption>
+</figure>
+</div>
+
+<hr>
+
+<h2 id="what-you-might-feel">What you might feel</h2>
+
+<p>This section describes what most people experience at the low doses used for aborting attacks. <strong>Every person is different;</strong> you may feel all, some, or none of these.</p>
+
+<div class="illustration">
+<figure>
+<img src="images/illustration-what-youll-feel.jpg" alt="What you will feel at aborting doses &mdash; body map showing warm tingling starting in chest, mild closed-eye visuals, feeling of heaviness, and sense of calm">
+<figcaption>The most common sensations at aborting doses.</figcaption>
+</figure>
+</div>
+
+<div class="illustration">
+<figure>
+<img src="images/illustration-effects-timeline.jpg" alt="Effects timeline &mdash; what to expect from 0 to 30 minutes">
+<figcaption>Approximate timeline of effects after inhaling DMT. Pain relief is typically sharp and sudden (within seconds), while the mild DMT side effects (body buzz, visual changes) fade gradually over 20&ndash;30 minutes.</figcaption>
+</figure>
+</div>
+
+<h3>In the first 10 seconds</h3>
+<ul>
+<li>A <strong>warm, tingling sensation</strong> spreading through your body: the &ldquo;body buzz.&rdquo; It often starts in the chest and moves outward.</li>
+<li>A feeling of <strong>heaviness</strong>, like gravity just increased. Your arms and legs may feel heavier than usual.</li>
+<li>Your <strong>heart may beat faster.</strong> This is normal and not dangerous. It&rsquo;s similar to climbing a flight of stairs quickly.</li>
+</ul>
+
+<h3>Over the next 1&ndash;5 minutes</h3>
+<ul>
+<li>Mild <strong>visual changes</strong> with your eyes closed: soft patterns, colors, or geometric shapes. If you&rsquo;ve never experienced altered perception before, this can feel strange, but it&rsquo;s a completely normal effect of the substance, not a sign that anything is wrong with your brain. It will stop on its own.</li>
+<li>You might feel <strong>cold</strong> or notice slight <strong>sweating</strong>.</li>
+<li>A feeling of <strong>calm</strong> or mild <strong>euphoria,</strong> which many people describe as pleasant.</li>
+<li>Less commonly: mild <strong>dizziness</strong>, slight <strong>nausea</strong>, or a <strong>high-pitched ringing</strong> sound.</li>
+</ul>
+
+<h3>At 5&ndash;30 minutes</h3>
+<ul>
+<li>Effects gradually fade. The body buzz reduces, your heartbeat returns to normal.</li>
+<li>Any visual effects stop.</li>
+<li>By 20&ndash;30 minutes, you should feel <strong>back to normal</strong>, with no, or barely any lingering effects.</li>
+</ul>
+
+<blockquote>
+<p><strong>How do you know it worked?</strong> If the DMT successfully aborts your attack, the pain will drop away sharply, often within seconds. This is not a gradual fade; when the dose is sufficient, the relief is unmistakable.</p>
+</blockquote>
+
+<hr>
+
+<h2 id="if-you-have-a-bad-experience">If you have a bad experience</h2>
+
+<p>It&rsquo;s possible, especially if you accidentally take a larger dose, that you feel anxious, scared, or overwhelmed. This is uncommon at the small doses used for aborting attacks, but it can happen, and it&rsquo;s important to be prepared.</p>
+
+<p><strong>The single most important thing to remember:</strong></p>
+
+<div class="warning-box">
+<p><strong>&ldquo;This is a normal effect of the drug, and I accept the experience. It will be completely over in 10&ndash;20 minutes.&rdquo;</strong></p>
+</div>
+
+<h3>What to do</h3>
+
+<ol>
+<li><strong>Focus on your body.</strong> Feel the weight of your body on the chair or bed. Press your feet into the floor.</li>
+<li><strong>Breathe slowly.</strong> In for 4 counts, out for 4 counts. Focus on the counting.</li>
+<li><strong>Don&rsquo;t resist, accept the experience.</strong> This is counterintuitive, but trying to push the experience away often makes it worse. Instead, let the sensations be there. You don&rsquo;t have to enjoy them; just let them pass, like waves. They will pass.</li>
+<li><strong>Talk to your sitter.</strong> Saying &ldquo;I feel anxious&rdquo; or &ldquo;I don&rsquo;t like this&rdquo; out loud can be surprisingly helpful. Your sitter can remind you that you&rsquo;re safe and that it will end soon.</li>
+</ol>
+
+<p>If your sitter is with you, they should follow the guidance in the <a href="#your-sitter-what-they-need-to-know">sitter section</a> below. The key points are: stay calm, speak in a low steady voice, don&rsquo;t touch without asking, and give gentle time updates.</p>
+
+<hr>
+
+<h2 id="after-the-attack">After the attack</h2>
+
+<h3>Recovery time</h3>
+
+<ul>
+<li><strong>Do not drive</strong> for at least 30 minutes after your last puff, preferably longer if you took multiple puffs or felt significant effects.</li>
+<li><strong>Drink some water.</strong> Some people feel mildly dehydrated afterward.</li>
+</ul>
+
+<h3>Logging</h3>
+
+<p>After you&rsquo;ve recovered, take a few minutes to write down:</p>
+<ul>
+<li><strong>What settings</strong> you used (voltage or temperature)</li>
+<li><strong>How many puffs</strong> you took</li>
+<li><strong>How quickly</strong> the pain responded (seconds? minutes? not at all?)</li>
+<li><strong>What you felt</strong> (body buzz, visuals, anxiety, nothing?)</li>
+<li><strong>Anything else</strong> you&rsquo;d do differently next time</li>
+</ul>
+
+<p>This log is invaluable. Over time, you&rsquo;ll dial in the exact settings that work for your attacks.</p>
+
+<hr>
+
+<h2 id="quick-reference-card">Quick reference card</h2>
+
+<p><em>Save a screenshot of this section, or print it and keep it with your pen.</em></p>
+
+<div class="quick-ref">
+
+<h3>Aborting protocol</h3>
+<ol>
+<li><strong>Sit or lie down.</strong> Tell your sitter (or text someone).</li>
+<li><strong>Set pen</strong> to your usual voltage (<strong>2.5&ndash;3.5V</strong> / 200&ndash;220&deg;C).</li>
+<li><strong>Puff:</strong> Draw 2&ndash;3 sec &rarr; breathe in deep &rarr; hold 5&ndash;7 sec &rarr; exhale.</li>
+<li><strong>Wait 30 seconds.</strong> Is pain reducing? Do you feel a body buzz?</li>
+<li><strong>If no effect &rarr; take another puff.</strong> Wait 30 sec, assess again.</li>
+</ol>
+
+<h3>Signs it&rsquo;s working</h3>
+<ul>
+<li>Pain drops away sharply</li>
+<li>Warm tingling (&ldquo;body buzz&rdquo;) in chest/limbs</li>
+</ul>
+
+<h3>If things feel wrong</h3>
+<ul>
+<li>Put the pen down</li>
+<li>Breathe: in for 4, out for 4</li>
+<li>Remember: <strong>over in 10&ndash;20 minutes</strong></li>
+<li>Sitter: stay calm, provide grounding if needed, don&rsquo;t over-interact.</li>
+</ul>
+
+<h3>Pen not working?</h3>
+<ul>
+<li>No vapor: check it&rsquo;s turned on, try a higher voltage setting</li>
+<li>Clogged: warm the pen in your hands or under your arm for a minute</li>
+</ul>
+
+<h3>Sitter: call emergency services if</h3>
+<ul>
+<li>Seizure</li>
+<li>High fever</li>
+<li>Loss of consciousness</li>
+<li>Rapid irregular heartbeat + very unwell</li>
+<li>Symptoms rapidly worsening</li>
+</ul>
+
+</div>
+
+<hr>
+
+<h2 id="your-sitter-what-they-need-to-know">Your sitter: what they need to know</h2>
+
+<p>A sitter is a sober person who stays with you while you use DMT. For your very first time (the practice session), a sitter is required. After that, a sitter is recommended but not strictly necessary. See <a href="#if-youre-on-your-own">If you&rsquo;re on your own</a> below.</p>
+
+<h3>Give this page to your sitter</h3>
+
+<p>The information below is written directly to the sitter.</p>
+
+<hr>
+
+<div class="sitter-section">
+
+<p><strong>To the sitter:</strong> Someone you care about is using a small amount of DMT to try to stop a severe headache attack. Your job is simple and important: be present, stay calm, and know when to get help.</p>
+
+<h3>What will happen</h3>
+
+<p>The person will inhale vapor from a small pen (like an e-cigarette). The DMT takes effect within seconds. At the low doses used here, they will likely:</p>
+
+<ul>
+<li>Seem quiet or still for a few minutes</li>
+<li>Report feeling warm or tingly</li>
+<li>Maybe close their eyes</li>
+<li>Possibly look slightly flushed</li>
+</ul>
+
+<p>The effects wear off within 10&ndash;20 minutes. They should be completely back to normal within 30 minutes.</p>
+
+<h3>Your responsibilities</h3>
+
+<ol>
+<li><strong>Be in the room</strong> while they use the pen. You don&rsquo;t need to hover; just be nearby.</li>
+<li><strong>Keep track.</strong> Note when they take each puff, and how they do it. This might be useful later to log the protocol.</li>
+<li><strong>Stay calm no matter what.</strong> If they seem anxious or say they&rsquo;re scared, your calm presence is the most important thing. Say: &ldquo;You&rsquo;re safe. This is temporary. I&rsquo;m right here.&rdquo;</li>
+<li><strong>Don&rsquo;t leave the room</strong> until they tell you they feel normal again.</li>
+</ol>
+
+<h3>If they have a bad experience</h3>
+
+<ul>
+<li><strong>Stay calm and present.</strong> Don&rsquo;t panic. Your calm demeanor is their anchor.</li>
+<li><strong>Speak in a low, steady voice.</strong> &ldquo;You&rsquo;re safe. This is normal. It&rsquo;ll be over in a few minutes.&rdquo;</li>
+<li><strong>Don&rsquo;t touch them without asking.</strong> Some people find touch comforting; others find it overwhelming.</li>
+<li><strong>Don&rsquo;t try to talk them out of it</strong> or reason with them. Just be there.</li>
+<li><strong>Keep track of time</strong> and give gentle updates: &ldquo;It&rsquo;s been 5 minutes. You&rsquo;re doing great. About 10 more minutes.&rdquo;</li>
+</ul>
+
+<h3>What NOT to do</h3>
+
+<ul>
+<li><strong>Don&rsquo;t take DMT yourself</strong> during this time. You need to be sober and clearheaded.</li>
+<li><strong>Don&rsquo;t shake them, shout, or try to &ldquo;snap them out of it.&rdquo;</strong> The experience passes on its own.</li>
+<li><strong>Don&rsquo;t play loud music or turn on bright lights.</strong> Keep the environment calm.</li>
+</ul>
+
+<h3>When to call for help</h3>
+
+<p><strong>Call emergency services (911 / 112 / 999) if:</strong></p>
+
+<ul>
+<li>They have a <strong>seizure</strong> (uncontrolled shaking, loss of consciousness)</li>
+<li>They have a <strong>high fever</strong> (hot to the touch, sweating profusely, confused)</li>
+<li>They <strong>pass out</strong> and you cannot wake them</li>
+<li>They have a <strong>rapid, irregular heartbeat</strong> combined with looking very unwell</li>
+<li>Any symptom is <strong>rapidly getting worse</strong></li>
+</ul>
+
+<p>These emergency situations are <strong>extremely rare</strong> at the doses used in this guide, but they are more likely if DMT is combined with certain medications (especially lithium or MAOIs). Make sure you&rsquo;ve both checked the <a href="03-safety.html#check-your-medications">safety page</a>.</p>
+
+<div class="illustration">
+<figure>
+<img src="images/illustration-sitter-emergency-flowchart.jpg" alt="Sitter emergency flowchart &mdash; three-tier decision tree: Call 911 immediately for seizures, high fever, unconsciousness; Call doctor for agitation, dilated pupils, muscle twitching; Wait it out for anxiety, discomfort, mild effects">
+<figcaption>Quick reference for sitters: how to assess symptoms and decide what to do.</figcaption>
+</figure>
+</div>
+
+<p>If they have taken MAOIs <strong>stay with them for at least one hour</strong> after they took DMT. MAOIs prolong the effect of DMT, and can delay the onset of serotonin syndrome.</p>
+
+<blockquote>
+<p><strong>What to tell the dispatcher:</strong> Be honest: tell them the person inhaled DMT and describe the symptoms. Medical professionals need accurate information to treat correctly. Their job is to help, not to judge.</p>
+</blockquote>
+
+<p><strong>For non-emergencies</strong> (they feel anxious, they don&rsquo;t like the sensation, they feel nauseous): stay with them, reassure them, and wait. It will pass within 10&ndash;20 minutes.</p>
+
+</div>
+
+<hr>
+
+<h2 id="if-youre-on-your-own">If you&rsquo;re on your own</h2>
+
+<p>The reality of cluster headaches is that attacks often strike at 2 or 3 in the morning, when your sitter is asleep or unavailable. A sitter is required for your first time (the practice session) and recommended for the first several attacks afterward, but once you&rsquo;re comfortable with the technique, aborting solo is reasonable.</p>
+
+<p>A few extra precautions:</p>
+
+<ul>
+<li><strong>Text someone before you start.</strong> A quick &ldquo;Using my pen now, will check in shortly&rdquo; to a partner, friend, or family member. This way, someone knows.</li>
+<li><strong>Keep your phone within arm&rsquo;s reach.</strong> Unlocked, with the emergency number visible.</li>
+<li><strong>Stay seated or lying down.</strong> This matters even more without a sitter. If you feel dizzy, you don&rsquo;t want to be standing.</li>
+<li><strong>Follow the same protocol.</strong> Puff, wait, assess. The protocol doesn&rsquo;t change.</li>
+<li><strong>If you feel anxious</strong>, remember: it will be over in 10&ndash;20 minutes. Focus on slow breathing (in for 4, out for 4). You&rsquo;ve done this before.</li>
+</ul>
+
+<div class="page-nav">
+  <a href="05-preparing-your-dmt-vape-pen.html">&larr; Vape Prep</a>
+  <span></span>
+</div>
+
+<button class="back-to-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">&uarr;</button>
+<script>
+(function(){
+  var btn = document.querySelector('.back-to-top');
+  window.addEventListener('scroll', function() {
+    btn.classList.toggle('visible', window.scrollY > 400);
+  });
+})();
+</script>
+
+</body>
+</html>

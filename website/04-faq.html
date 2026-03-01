@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang xml:lang>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Frequently Asked Questions</title>
+  <style>
+
+html {
+color: #1a1a1a;
+background-color: #fdfdfd;
+}
+body {
+margin: 0 auto;
+max-width: 36em;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 80px;
+padding-bottom: 50px;
+hyphens: auto;
+overflow-wrap: break-word;
+text-rendering: optimizeLegibility;
+font-kerning: normal;
+}
+@media (max-width: 600px) {
+body {
+font-size: 0.9em;
+padding: 12px;
+padding-top: 70px;
+}
+h1 {
+font-size: 1.8em;
+}
+}
+@media print {
+html {
+background-color: white;
+}
+body {
+background-color: transparent;
+color: black;
+font-size: 12pt;
+padding-top: 50px;
+}
+.site-nav, .back-to-top, .page-nav {
+display: none;
+}
+p, h2, h3 {
+orphans: 3;
+widows: 3;
+}
+h2, h3, h4 {
+page-break-after: avoid;
+}
+}
+p {
+margin: 1em 0;
+}
+a {
+color: #1a6fa8;
+}
+a:visited {
+color: #5a4a9a;
+}
+img {
+max-width: 100%;
+border-radius: 6px;
+}
+h1, h2, h3, h4, h5, h6 {
+margin-top: 1.4em;
+}
+ol, ul {
+padding-left: 1.7em;
+margin-top: 1em;
+}
+li > ol, li > ul {
+margin-top: 0;
+}
+blockquote {
+margin: 1em 0 1em 1.7em;
+padding-left: 1em;
+border-left: 3px solid #d0d7de;
+color: #505860;
+background-color: #f6f8fa;
+padding: 0.8em 1em;
+border-radius: 4px;
+}
+blockquote p:first-child {
+margin-top: 0;
+}
+blockquote p:last-child {
+margin-bottom: 0;
+}
+hr {
+border: none;
+border-top: 1px solid #d0d7de;
+height: 1px;
+margin: 2em 0;
+}
+table {
+margin: 1em 0;
+border-collapse: collapse;
+width: 100%;
+font-variant-numeric: lining-nums tabular-nums;
+}
+tbody {
+border-top: 1px solid #1a1a1a;
+border-bottom: 1px solid #1a1a1a;
+}
+th {
+border-top: 1px solid #1a1a1a;
+padding: 0.4em 0.6em;
+text-align: left;
+}
+td {
+padding: 0.3em 0.6em;
+}
+figure {
+margin: 1.5em 0;
+text-align: center;
+}
+figure img {
+display: block;
+margin: 0 auto;
+}
+figcaption {
+font-size: 0.9em;
+color: #606060;
+font-style: italic;
+margin-top: 0.5em;
+text-align: center;
+}
+/* Navigation */
+.site-nav {
+position: fixed;
+top: 0;
+left: 0;
+right: 0;
+z-index: 100;
+background: rgba(253,253,253,0.97);
+backdrop-filter: blur(8px);
+-webkit-backdrop-filter: blur(8px);
+border-bottom: 1px solid #d0d7de;
+padding: 0.5em 1em;
+display: flex;
+align-items: center;
+justify-content: space-between;
+font-size: 0.95em;
+}
+.site-title {
+font-weight: 700;
+color: #1a1a1a;
+text-decoration: none;
+white-space: nowrap;
+}
+.site-title:visited {
+color: #1a1a1a;
+}
+.nav-toggle {
+display: none;
+background: none;
+border: 1px solid #d0d7de;
+border-radius: 4px;
+font-size: 1.3em;
+cursor: pointer;
+padding: 0.1em 0.4em;
+color: #1a1a1a;
+}
+.nav-links {
+display: flex;
+gap: 0.2em;
+}
+.nav-links a {
+color: #505860;
+text-decoration: none;
+padding: 0.3em 0.6em;
+border-radius: 4px;
+font-size: 0.9em;
+}
+.nav-links a:visited {
+color: #505860;
+}
+.nav-links a:hover {
+background: #f6f8fa;
+color: #1a1a1a;
+}
+.nav-links a.active {
+background: #f0f7f0;
+color: #1a6fa8;
+font-weight: 600;
+}
+@media (max-width: 600px) {
+.nav-toggle {
+display: block;
+}
+.nav-links {
+display: none;
+position: absolute;
+top: 100%;
+left: 0;
+right: 0;
+background: rgba(253,253,253,0.98);
+border-bottom: 1px solid #d0d7de;
+flex-direction: column;
+padding: 0.5em;
+}
+.nav-links.open {
+display: flex;
+}
+.nav-links a {
+padding: 0.6em 1em;
+font-size: 1em;
+}
+}
+/* Prev/next footer */
+.page-nav {
+display: flex;
+justify-content: space-between;
+margin: 2em 0 1em;
+padding-top: 1em;
+border-top: 1px solid #d0d7de;
+}
+.page-nav a {
+color: #1a6fa8;
+text-decoration: none;
+font-weight: 600;
+}
+.page-nav a:hover {
+text-decoration: underline;
+}
+/* Back to top */
+.back-to-top {
+position: fixed;
+bottom: 2em;
+right: 2em;
+background: #1a6fa8;
+color: white;
+border: none;
+border-radius: 50%;
+width: 2.8em;
+height: 2.8em;
+font-size: 1.2em;
+cursor: pointer;
+opacity: 0;
+transition: opacity 0.3s;
+box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+.back-to-top.visible {
+opacity: 0.85;
+}
+.back-to-top:hover {
+opacity: 1;
+}
+/* Component classes */
+.intro-box {
+background-color: #f0f7f0;
+border: 1px solid #c3dcc3;
+border-radius: 8px;
+padding: 1.2em 1.5em;
+margin: 1.5em 0;
+}
+.intro-box p:first-child {
+margin-top: 0;
+}
+.intro-box p:last-child {
+margin-bottom: 0;
+}
+/* Collapsible sections */
+details {
+margin: 0.8em 0;
+border: 1px solid #d0d7de;
+border-radius: 6px;
+padding: 0;
+}
+details[open] {
+padding-bottom: 0.8em;
+}
+summary {
+font-weight: 600;
+cursor: pointer;
+padding: 0.8em 1em;
+list-style: none;
+}
+summary::-webkit-details-marker {
+display: none;
+}
+summary::before {
+content: "\25B6\00a0";
+font-size: 0.7em;
+vertical-align: middle;
+}
+details[open] > summary::before {
+content: "\25BC\00a0";
+}
+details > *:not(summary) {
+padding-left: 1em;
+padding-right: 1em;
+}
+details > p:last-child {
+margin-bottom: 0;
+}
+  </style>
+</head>
+<body>
+
+<nav class="site-nav">
+  <a href="index.html" class="site-title">DMT for Cluster Headaches</a>
+  <button class="nav-toggle" aria-label="Menu" onclick="document.querySelector('.nav-links').classList.toggle('open')">&#9776;</button>
+  <div class="nav-links">
+    <a href="index.html">Home</a>
+    <a href="02-dmt-basics.html">Basics</a>
+    <a href="03-safety.html">Safety</a>
+    <a href="04-faq.html" class="active">FAQ</a>
+    <a href="05-preparing-your-dmt-vape-pen.html">Vape Prep</a>
+    <a href="06-aborting-protocol.html">Aborting</a>
+  </div>
+</nav>
+
+<h1>Frequently asked questions</h1>
+
+<details>
+<summary>Will I get addicted?</summary>
+<p>No. DMT is not addictive. It doesn&rsquo;t create cravings or physical dependence.</p>
+</details>
+
+<details>
+<summary>Will I hallucinate?</summary>
+<p>At the small doses used for aborting attacks, it&rsquo;s very unlikely. You might see mild patterns with your eyes closed; that&rsquo;s the most common visual effect. With eyes open, things will look normal.</p>
+</details>
+
+<details>
+<summary>Is it legal?</summary>
+<p>DMT is illegal in most countries. This guide does not encourage breaking the law. We present the medical information so you can make informed decisions about your own health.</p>
+</details>
+
+<details>
+<summary>Can I use it for every attack?</summary>
+<p>Yes. Unless you take MAOIs, DMT is cleared from your body within minutes. Patients report using it multiple times per day.</p>
+</details>
+
+<details>
+<summary>What if I&rsquo;m on medication?</summary>
+<p>You <strong>must</strong> check for drug interactions before trying DMT. This is not optional. Some combinations (especially lithium) are genuinely dangerous. See the <a href="03-safety.html#check-your-medications">drug interactions page</a> for a complete list.</p>
+</details>
+
+<details>
+<summary>Do I need someone with me?</summary>
+<p>For your very first time, yes.
+You need a sober <strong>sitter</strong> (someone who stays with you while you use it).
+A sitter is recommended for the first several attacks afterward, but once you&rsquo;re comfortable with the technique, aborting on your own is reasonable.
+The <a href="06-aborting-protocol.html">aborting protocol</a> has full details on sitters.</p>
+</details>
+
+<details>
+<summary>Will it show up on a drug test?</summary>
+<p>Standard workplace drug tests (5-panel, 10-panel) do not test for DMT. Only highly specialized tests can detect it, and DMT is cleared from your body within minutes of use. A routine drug screening will not flag it.</p>
+</details>
+
+<details>
+<summary>Does the vapor smell? Will people around me notice?</summary>
+<p>DMT vapor has a noticeable smell.
+It&rsquo;s often described as floral, plasticky, or mothball-like. It&rsquo;s distinct enough that someone in the same room would likely notice. However, it dissipates within a few minutes, and it doesn&rsquo;t linger on clothes or furniture the way cigarette smoke does.</p>
+</details>
+
+<details>
+<summary>How long until I can drive or go back to normal?</summary>
+<p>At aborting doses, most people feel back to normal within 20&ndash;30 minutes. To be safe, don&rsquo;t drive for at least 30 minutes after your last puff.</p>
+<p><strong>Important exception:</strong> If you take MAOIs, DMT&rsquo;s effects are much stronger and can last 2&ndash;4 hours. In that case, wait significantly longer before driving or operating machinery.</p>
+</details>
+
+<details>
+<summary>What if it doesn&rsquo;t work for me?</summary>
+<p>If your first few attempts don&rsquo;t relieve the pain, try adjusting your protocol before giving up: experiment with voltage, inhaling technique, or the DMT-to-liquid ratio.</p>
+<p>The <a href="06-aborting-protocol.html">aborting protocol</a> has guidance on dialing in your settings.</p>
+<p>If DMT isn&rsquo;t effective for you, oxygen and triptans remain proven aborting options.</p>
+</details>
+
+<details>
+<summary>Can I use DMT and oxygen together?</summary>
+<p>Yes. There is no known interaction between inhaled DMT and supplemental oxygen. Some patients use oxygen as their first-line abortive and switch to DMT when oxygen isn&rsquo;t available or isn&rsquo;t working fast enough.</p>
+</details>
+
+<details>
+<summary>Can I use it at work or in public?</summary>
+<p>The vape pen is small and discreet.
+It looks like a regular e-cigarette.
+At aborting doses, the effects are subtle enough that you could use it in a restroom or private space without anyone noticing your behavior.</p>
+<p>However, the vapor does have a <a href="#does-the-vapor-smell-will-people-around-me-notice">noticeable smell</a>, and there&rsquo;s the legal risk of carrying a controlled substance. Use your judgment.</p>
+</details>
+
+<details>
+<summary>How do I explain this to my family or partner?</summary>
+<p>This can feel like a difficult conversation, especially because of the stigma around illegal substances.</p>
+<p>It may help to frame it the way it is: a medical tool you&rsquo;re using to manage severe pain, similar to how you&rsquo;d explain any other treatment. Show them this guide.</p>
+<p>If they&rsquo;re going to be your <a href="06-aborting-protocol.html#your-sitter-what-they-need-to-know">sitter</a>, the sitter section explains exactly what to expect and what to do.</p>
+<p>For tips on talking to your doctor, see the <a href="03-safety.html#check-your-medications">safety page</a>.</p>
+</details>
+
+<details>
+<summary>What about psilocybin (magic mushrooms), LSD or MeO-DALT?</summary>
+<p>You may have heard that psilocybin, LSD or MeO-DALT can also help with cluster headaches. That&rsquo;s true. They all have shown promise for reducing the frequency of cluster cycles (a preventive effect).</p>
+<p>DMT is different: it&rsquo;s used to abort individual attacks as they happen.</p>
+<p>Some patients use both: psilocybin, LSD or MeO-DALT to reduce how often cycles occur, and DMT to stop attacks when they break through. This guide focuses on DMT.</p>
+</details>
+
+<div class="page-nav">
+  <a href="03-safety.html">&larr; Safety</a>
+  <a href="05-preparing-your-dmt-vape-pen.html">Vape Prep &rarr;</a>
+</div>
+
+<button class="back-to-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">&uarr;</button>
+<script>
+(function(){
+  var btn = document.querySelector('.back-to-top');
+  window.addEventListener('scroll', function() {
+    btn.classList.toggle('visible', window.scrollY > 400);
+  });
+})();
+</script>
+
+</body>
+</html>
