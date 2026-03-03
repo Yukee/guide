@@ -255,241 +255,64 @@ opacity: 1;
 .illustration figure img {
 max-width: 100%;
 }
-.intro-box {
-background-color: #f0f7f0;
-border: 1px solid #c3dcc3;
-border-radius: 8px;
-padding: 1.2em 1.5em;
-margin: 1.5em 0;
-}
-.intro-box p:first-child {
-margin-top: 0;
-}
-.intro-box p:last-child {
-margin-bottom: 0;
-}
-/* Safety checklist */
 .safety-checklist {
-background-color: #fffbeb;
-border: 1px solid #e0d5a0;
+background-color: #fff8f0;
+border: 1px solid #e0c8a0;
 border-radius: 8px;
 padding: 1.2em 1.5em;
-margin: 1.5em 0;
-}
-.safety-checklist h3 {
-margin-top: 0;
 }
 .safety-checklist ul {
 list-style: none;
 padding-left: 0;
 }
 .safety-checklist li {
-padding: 0.4em 0;
-padding-left: 1.8em;
+padding: 0.5em 0 0.5em 2em;
 position: relative;
+border-bottom: 1px solid #eee;
+}
+.safety-checklist li:last-child {
+border-bottom: none;
 }
 .safety-checklist li::before {
-content: "";
+content: "\2610";
 position: absolute;
 left: 0;
-top: 0.55em;
-width: 1.1em;
-height: 1.1em;
-border: 2px solid #888;
-border-radius: 3px;
-background: white;
+font-size: 1.3em;
+line-height: 1;
+top: 0.5em;
 }
-/* Warning box */
-.warning-box {
-background-color: #fff5f5;
-border-left: 4px solid #d32f2f;
-border-radius: 4px;
-padding: 0.8em 1em;
-margin: 1em 0;
-color: #1a1a1a;
-}
-.warning-box p:first-child {
-margin-top: 0;
-}
-.warning-box p:last-child {
-margin-bottom: 0;
-}
-/* Collapsible details */
 details {
-margin: 1em 0;
+margin: 0.8em 0;
 border: 1px solid #d0d7de;
 border-radius: 6px;
 padding: 0;
 }
-details summary {
+details[open] {
+padding-bottom: 0.8em;
+}
+summary {
+font-weight: 600;
 cursor: pointer;
 padding: 0.8em 1em;
-font-weight: 700;
-font-size: 1.1em;
-background: #f6f8fa;
-border-radius: 6px;
 list-style: none;
 }
-details summary::-webkit-details-marker {
+summary::-webkit-details-marker {
 display: none;
 }
-details summary::before {
+summary::before {
 content: "\25B6\00a0";
 font-size: 0.7em;
 vertical-align: middle;
 }
-details[open] summary::before {
+details[open] > summary::before {
 content: "\25BC\00a0";
 }
-details[open] summary {
-border-bottom: 1px solid #d0d7de;
-border-radius: 6px 6px 0 0;
-}
-details > :not(summary) {
+details > *:not(summary) {
 padding-left: 1em;
 padding-right: 1em;
 }
-details > p:last-child,
-details > ul:last-child,
-details > blockquote:last-child {
-margin-bottom: 1em;
-}
-/* Safety checker */
-.checker-box {
-background: #f0f7f0;
-border: 2px solid #c3dcc3;
-border-radius: 10px;
-padding: 1.5em;
-margin: 1.5em 0;
-}
-.checker-box h2 {
-margin-top: 0;
-margin-bottom: 0.3em;
-}
-.checker-input-row {
-display: flex;
-gap: 0.5em;
-margin: 0.8em 0;
-}
-.checker-input-row input {
-flex: 1;
-padding: 0.6em 0.8em;
-border: 1px solid #c3dcc3;
-border-radius: 6px;
-font-size: 1em;
-}
-.checker-input-row input:focus {
-outline: 2px solid #1a6fa8;
-border-color: #1a6fa8;
-}
-.checker-input-row button {
-padding: 0.6em 1.2em;
-background: #1a6fa8;
-color: white;
-border: none;
-border-radius: 6px;
-cursor: pointer;
-font-size: 1em;
-font-weight: 600;
-}
-.checker-input-row button:hover {
-background: #155a8a;
-}
-#med-chips {
-display: flex;
-flex-wrap: wrap;
-gap: 0.4em;
-margin: 0.5em 0;
-}
-.med-chip {
-display: inline-flex;
-align-items: center;
-background: white;
-border: 1px solid #c3dcc3;
-border-radius: 20px;
-padding: 0.3em 0.5em 0.3em 0.8em;
-font-size: 0.9em;
-}
-.med-chip button {
-background: none;
-border: none;
-color: #888;
-cursor: pointer;
-font-size: 1.1em;
-padding: 0 0.3em;
-line-height: 1;
-}
-.med-chip button:hover {
-color: #d32f2f;
-}
-.checker-cardio {
-display: block;
-margin: 0.8em 0;
-cursor: pointer;
-}
-.checker-cardio input {
-margin-right: 0.5em;
-}
-.checker-btn {
-display: block;
-width: 100%;
-padding: 0.7em;
-background: #1a6fa8;
-color: white;
-border: none;
-border-radius: 6px;
-cursor: pointer;
-font-size: 1.05em;
-font-weight: 600;
-margin-top: 0.8em;
-}
-.checker-btn:hover {
-background: #155a8a;
-}
-.result-card {
-border-radius: 8px;
-padding: 1em 1.2em;
-margin-top: 1em;
-}
-.result-card h3 {
-margin: 0 0 0.4em;
-}
-.result-card p {
-margin: 0.3em 0;
-}
-.result-card a {
-color: inherit;
-font-weight: 600;
-}
-.result-high {
-background: #fde8e8;
-border: 1px solid #e0a0a0;
-color: #7f1d1d;
-}
-.result-moderate {
-background: #fff3e0;
-border: 1px solid #e0c8a0;
-color: #7c4700;
-}
-.result-low {
-background: #fffde7;
-border: 1px solid #e0d5a0;
-color: #5d4e00;
-}
-.result-cardio {
-background: #e3f2fd;
-border: 1px solid #90caf9;
-color: #0d47a1;
-}
-.result-safe {
-background: #e8f5e9;
-border: 1px solid #a5d6a7;
-color: #1b5e20;
-}
-.result-unknown {
-background: #f5f5f5;
-border: 1px solid #d0d0d0;
-color: #424242;
+details > p:last-child {
+margin-bottom: 0;
 }
   </style>
 </head>
@@ -510,9 +333,9 @@ color: #424242;
 
 <h1>Safety and Drug Interactions</h1>
 
-<div class="intro-box">
+<h2 id="how-safe-is-dmt">How Safe Is DMT?</h2>
+
 <p>The <a href="02-dmt-basics.html">basics page</a> gave you the short version. Here&rsquo;s the fuller picture: at the low doses used to abort cluster headache attacks (5&ndash;10 mg), DMT&rsquo;s cardiovascular and psychological risks are very low for healthy people. The main concern, and the reason this page exists, is <strong>drug interactions</strong>, specifically with medications that affect serotonin.</p>
-</div>
 
 <div class="illustration">
 <figure>
@@ -521,24 +344,13 @@ color: #424242;
 </figure>
 </div>
 
-<div id="safety-checker" class="checker-box">
-<h2>Check Your Medications</h2>
-<p>Type a medication, supplement, or drug below to check for interactions with DMT.</p>
-<div class="checker-input-row">
-  <input type="text" id="med-input" placeholder="e.g. Prozac, lithium, ibuprofen&hellip;" autocomplete="off">
-  <button id="med-add" type="button">Add</button>
-</div>
-<div id="med-chips"></div>
-<label class="checker-cardio"><input type="checkbox" id="cardio-check"> I have a heart condition, high blood pressure, or history of stroke.</label>
-<button id="med-check" type="button" class="checker-btn">Check Safety</button>
-<div id="checker-results"></div>
-</div>
-
 <hr>
 
-<div class="safety-checklist">
-<h3>Safety Checklist</h3>
+<p><strong>Safety Checklist</strong></p>
+
 <p>Complete every item on this list before your first use of DMT.</p>
+
+<div class="safety-checklist">
 <ul>
 <li><strong>Medications listed.</strong> I have written down all medications, supplements, and herbal remedies I take.</li>
 <li><strong>Interactions checked.</strong> I have checked each one against the <a href="#check-your-medications">drug interactions table</a> below.</li>
@@ -563,9 +375,9 @@ color: #424242;
 <li><strong>Everything else:</strong> check with your doctor.</li>
 </ul>
 
-<div class="warning-box">
+<blockquote>
 <p>The danger is not taking DMT while on these medications <em>per se</em>. It&rsquo;s doing so <strong>without knowing about serotonin syndrome and what to do if it occurs</strong>. If you take any serotonergic medication, the most important thing is to understand serotonin syndrome (<a href="#serotonin-syndrome-what-you-need-to-know">next section</a>), know the signs, know what to do, and make sure your <a href="06-aborting-protocol.html#your-sitter-what-they-need-to-know">sitter</a> knows too.</p>
-</div>
+</blockquote>
 
 <div class="illustration">
 <figure>
@@ -649,13 +461,13 @@ color: #424242;
 <p>The risk increases with higher doses and more serotonergic drugs, but it&rsquo;s hard to predict in advance exactly which combination or dose will trigger it. That&rsquo;s why we recommend talking to your doctor, starting with low doses, and having a sitter.</p>
 
 <blockquote>
-<p><strong>Normal DMT effects vs. serotonin syndrome:</strong> A faster heartbeat, sweating, and dilated pupils are also normal effects of DMT. The key difference is <strong>severity, combination, and duration</strong>. A faster heartbeat on its own is expected. But several of these symptoms together, especially if they&rsquo;re severe or getting worse rather than fading&mdash;that&rsquo;s what distinguishes serotonin syndrome from normal DMT effects. When in doubt, call for help.</p>
+<p><strong>Normal DMT effects vs. serotonin syndrome:</strong> A faster heartbeat, sweating, and dilated pupils are also normal effects of DMT. The key difference is <strong>severity, combination and duration</strong>. A faster heartbeat on its own is expected. But several of these symptoms together, especially if they&rsquo;re severe, or getting worse rather than fading. That&rsquo;s what distinguishes serotonin syndrome from normal DMT effects. When in doubt, call for help.</p>
 </blockquote>
 
 <h3 id="symptoms">Symptoms</h3>
 
-<div class="warning-box">
 <p><strong>Call emergency services immediately if you experience any of these severe symptoms:</strong></p>
+
 <ul>
 <li>Seizure (uncontrolled shaking, loss of consciousness)</li>
 <li>High fever (above 38.5&deg;C / 101.3&deg;F)</li>
@@ -665,7 +477,6 @@ color: #424242;
 <li>Fast or irregular heartbeat combined with feeling very unwell</li>
 <li>Any symptom that is rapidly getting worse</li>
 </ul>
-</div>
 
 <p><strong>Call your doctor if you experience these milder symptoms:</strong></p>
 
@@ -718,13 +529,13 @@ color: #424242;
 <p>This section explains each drug category from the <a href="#check-your-medications">table above</a> in more depth. Read the parts that apply to you.</p>
 
 <details>
-<summary>Lithium &mdash; High risk</summary>
+<summary>Lithium</summary>
 <p>Lithium is a mood stabilizer prescribed for bipolar disorder and also used as a preventative treatment for cluster headaches. <strong>The combination of lithium and DMT can cause seizures.</strong> This risk is based on reports primarily involving related psychedelics like LSD and psilocybin.</p>
 <p>If you take lithium, do not attempt to take DMT.</p>
 </details>
 
 <details>
-<summary>MAOIs &mdash; Medium-high risk</summary>
+<summary>MAOIs</summary>
 <p>MAOIs (monoamine oxidase inhibitors) are medications that slow down the body&rsquo;s ability to break down serotonin. This creates two distinct concerns when combined with DMT:</p>
 <ol>
 <li><strong>Serotonin syndrome.</strong> Because MAOIs prevent your body from clearing serotonin normally, serotonin can build up to dangerous levels. Symptoms may develop during or even hours after taking DMT (because the MAOI keeps serotonin elevated for a long time). See the <a href="#serotonin-syndrome-what-you-need-to-know">serotonin syndrome section</a> above.</li>
@@ -740,7 +551,7 @@ color: #424242;
 </details>
 
 <details>
-<summary>SSRIs and SNRIs &mdash; Medium-low risk</summary>
+<summary>SSRIs and SNRIs</summary>
 <p>SSRIs and SNRIs are the most commonly prescribed antidepressants. They work by increasing serotonin levels in the brain. When combined with DMT (which also activates serotonin receptors), the effects can stack.</p>
 <p>The risk of serotonin syndrome from DMT combined with a single SSRI or SNRI is generally considered <strong>low</strong>, but it is not zero, especially if you&rsquo;re also taking other medications that affect serotonin.</p>
 <p>Common SSRIs: citalopram (Celexa), escitalopram (Lexapro), fluoxetine (Prozac), fluvoxamine (Luvox), paroxetine (Paxil), sertraline (Zoloft).</p>
@@ -750,7 +561,7 @@ color: #424242;
 </details>
 
 <details>
-<summary>Triptans &mdash; Low risk with timing</summary>
+<summary>Triptans</summary>
 <p>There are two concerns with combining triptans and DMT:</p>
 <ol>
 <li><strong>Serotonin syndrome:</strong> Triptans interact with the serotonin system, but <a href="https://en.wikipedia.org/wiki/Triptan#Interactions">current</a> <a href="https://www.cfp.ca/content/64/10/720">evidence</a> suggests they are unlikely to contribute meaningfully to serotonin syndrome. Caution is still advised.</li>
@@ -760,7 +571,7 @@ color: #424242;
 </details>
 
 <details>
-<summary>Other serotonergic drugs &mdash; Variable risk</summary>
+<summary>Other Serotonergic Drugs</summary>
 <p>Many common medications affect serotonin, even if that&rsquo;s not their primary purpose. On their own, most of these have a low interaction risk with DMT. But <strong>multiple serotonergic drugs taken together can stack up</strong> to a significant risk, even if each one alone seems safe.</p>
 <p>Drugs in this category include:</p>
 <ul>
@@ -801,15 +612,15 @@ color: #424242;
 
 <p>At the low doses used for aborting attacks, DMT has mild psychological effects. You will remain aware of where you are, who you&rsquo;re with, and what is happening.</p>
 
-<h3 id="at-aborting-doses">At Aborting Doses (5&ndash;10 mg)</h3>
+<h3 id="at-aborting-doses-5-10-mg">At Aborting Doses (5&ndash;10 mg)</h3>
 
 <p>You might feel a warm buzz in your body, see gentle patterns with your eyes closed, or hear a faint hum. You will remain aware and in control. Fear or anxiety is possible but uncommon at these doses, and it <strong>always passes within 10&ndash;20 minutes</strong>.</p>
 
-<p>An overwhelming or traumatic experience is very unlikely at aborting doses. The <a href="06-aborting-protocol.html">aborting protocol</a> (where you take one tiny puff, wait to see the effect, and only take more if needed) is specifically designed to prevent this: you take tiny amounts, one puff at a time, and stop as soon as the headache starts to ease. For a detailed description of what to expect physically, see <a href="06-aborting-protocol.html#what-you-might-feel">what you might feel</a> on the aborting protocol page.</p>
+<p>An overwhelming or traumatic experience is very unlikely at aborting doses. The <a href="06-aborting-protocol.html">aborting protocol</a> is specifically designed to prevent this: you take tiny amounts, one puff at a time, and stop as soon as the headache starts to ease. For a detailed description of what to expect physically, see <a href="06-aborting-protocol.html#what-you-might-feel">what you might feel</a> on the aborting protocol page.</p>
 
 <h3 id="at-higher-doses">At Higher Doses</h3>
 
-<p>At 10&ndash;25 mg (rarely necessary to abort attacks), you might experience vivid visual patterns even with your eyes open, and a sense of time distortion. Above 25 mg (almost never necessary), the experience can become very intense: the room may seem to disappear, you may feel strong emotions, or feel a presence or &ldquo;entity,&rdquo; a sense that someone or something else is there with you. This is a well-known effect of high-dose DMT, it is not real, and it passes completely within minutes. These experiences can be positive or negative.</p>
+<p>At 10&ndash;25 mg (rarely necessary to abort attacks), you might experience vivid visual patterns even with your eyes open, and a sense of time distortion. Above 25 mg (almost never necessary), the experience can become very intense: the room may seem to disappear, you may feel strong emotions, or even meet &ldquo;entities&rdquo;: seemingly autonomous beings that feel vividly real. This is a well-known effect of high-dose DMT, and it passes completely within minutes. These experiences can be positive or negative.</p>
 
 <p>The aborting protocol makes accidentally taking a high dose unlikely. But if it does happen, remember: <strong>the experience will be completely over in 10&ndash;20 minutes.</strong></p>
 
@@ -823,7 +634,7 @@ color: #424242;
 <li><strong>Dose context:</strong> Clinical safety studies often test doses far higher than the 5&ndash;10 mg typically needed to abort attacks.</li>
 </ul>
 
-<p><strong>Important exception:</strong> If you have a <strong>psychotic disorder</strong> (such as schizophrenia or schizoaffective disorder) or a <strong>close family history</strong> (a parent or sibling) of one, exercise extreme caution. People with psychotic disorders are usually excluded from clinical trials, so we have very little data on the risks for them. Talk to your doctor, and don&rsquo;t take DMT unless you&rsquo;re confident it&rsquo;s safe for you.</p>
+<p><strong>Important exception:</strong> If you have a <strong>psychotic disorder</strong> (such as schizophrenia or schizoaffective disorder) or a <strong>close family history</strong> (a parent or sibling) of one, exercise extreme caution. People with psychotic disorders are usually excluded from psychedelics clinical trials, so we have very little data on the risks for them. Talk to your doctor, and don&rsquo;t take DMT unless you&rsquo;re confident it&rsquo;s safe for you.</p>
 
 <hr>
 
@@ -847,181 +658,6 @@ color: #424242;
   window.addEventListener('scroll', function() {
     btn.classList.toggle('visible', window.scrollY > 400);
   });
-})();
-</script>
-<script>
-(function(){
-  var meds = {
-    "lithium":["high","lithium",["lithobid","eskalith"]],
-    "phenelzine":["moderate-high","maoi",["nardil"]],
-    "tranylcypromine":["moderate-high","maoi",["parnate"]],
-    "isocarboxazid":["moderate-high","maoi",["marplan"]],
-    "moclobemide":["moderate-high","maoi",["manerix"]],
-    "linezolid":["moderate-high","maoi",[]],
-    "selegiline":["moderate-high","maoi",["emsam","zelapar"]],
-    "rasagiline":["moderate-high","maoi",["azilect"]],
-    "safinamide":["moderate-high","maoi",["xadago"]],
-    "fluoxetine":["moderate-low","ssri",["prozac"]],
-    "sertraline":["moderate-low","ssri",["zoloft"]],
-    "paroxetine":["moderate-low","ssri",["paxil"]],
-    "citalopram":["moderate-low","ssri",["celexa"]],
-    "escitalopram":["moderate-low","ssri",["lexapro"]],
-    "fluvoxamine":["moderate-low","ssri",["luvox"]],
-    "venlafaxine":["moderate-low","snri",["effexor"]],
-    "duloxetine":["moderate-low","snri",["cymbalta"]],
-    "desvenlafaxine":["moderate-low","snri",["pristiq"]],
-    "sumatriptan":["low-moderate","triptan",["imitrex"]],
-    "rizatriptan":["low-moderate","triptan",["maxalt"]],
-    "zolmitriptan":["low-moderate","triptan",["zomig"]],
-    "eletriptan":["low-moderate","triptan",["relpax"]],
-    "naratriptan":["low-moderate","triptan",["amerge"]],
-    "almotriptan":["low-moderate","triptan",["axert"]],
-    "frovatriptan":["low-moderate","triptan-long",["frova"]],
-    "clomipramine":["variable","other",["anafranil"]],
-    "imipramine":["variable","other",["tofranil"]],
-    "amitriptyline":["variable","other",["elavil"]],
-    "nortriptyline":["variable","other",["pamelor"]],
-    "tramadol":["variable","other",[]],
-    "methadone":["variable","other",[]],
-    "meperidine":["variable","other",["demerol"]],
-    "fentanyl":["variable","other",[]],
-    "dextromethorphan":["variable","other",["dxm"]],
-    "st. john's wort":["variable","other",["st johns wort","saint johns wort"]],
-    "amphetamine":["variable","other",["adderall","vyvanse"]],
-    "mdma":["variable","other",["ecstasy","molly"]],
-    "chlorpheniramine":["variable","other",[]],
-    "brompheniramine":["variable","other",[]],
-    "ibuprofen":["none","safe",["advil","motrin"]],
-    "acetaminophen":["none","safe",["tylenol","paracetamol"]],
-    "naproxen":["none","safe",["aleve"]],
-    "aspirin":["none","safe",[]],
-    "omeprazole":["none","safe",["prilosec"]],
-    "pantoprazole":["none","safe",["protonix"]],
-    "metformin":["none","safe",[]],
-    "lisinopril":["none","safe",[]],
-    "amlodipine":["none","safe",["norvasc"]],
-    "atorvastatin":["none","safe",["lipitor"]],
-    "levothyroxine":["none","safe",["synthroid"]],
-    "losartan":["none","safe",["cozaar"]],
-    "metoprolol":["none","safe",["lopressor"]],
-    "gabapentin":["none","safe",["neurontin"]],
-    "pregabalin":["none","safe",["lyrica"]],
-    "verapamil":["none","safe",[]],
-    "prednisone":["none","safe",[]],
-    "melatonin":["none","safe",[]],
-    "vitamin d":["none","safe",[]],
-    "magnesium":["none","safe",[]],
-    "cannabis":["none","safe",["marijuana","thc","cbd"]],
-    "caffeine":["none","safe",[]],
-    "morphine":["none","safe",[]]
-  };
-
-  function lookup(name) {
-    var n = name.toLowerCase().trim();
-    if (meds[n]) return {name: n, risk: meds[n][0], cat: meds[n][1]};
-    for (var key in meds) {
-      var brands = meds[key][2];
-      for (var i = 0; i < brands.length; i++) {
-        if (brands[i] === n) return {name: key, risk: meds[key][0], cat: meds[key][1]};
-      }
-    }
-    return null;
-  }
-
-  var chips = [];
-  var input = document.getElementById('med-input');
-  var chipsEl = document.getElementById('med-chips');
-  var resultsEl = document.getElementById('checker-results');
-
-  function renderChips() {
-    chipsEl.innerHTML = '';
-    chips.forEach(function(c, i) {
-      var span = document.createElement('span');
-      span.className = 'med-chip';
-      span.innerHTML = c + '<button type="button" aria-label="Remove">&times;</button>';
-      span.querySelector('button').onclick = function() { chips.splice(i, 1); renderChips(); };
-      chipsEl.appendChild(span);
-    });
-  }
-
-  function addMed() {
-    var v = input.value.trim();
-    if (v && chips.indexOf(v) === -1) { chips.push(v); renderChips(); }
-    input.value = '';
-    input.focus();
-  }
-
-  document.getElementById('med-add').onclick = addMed;
-  input.addEventListener('keydown', function(e) { if (e.key === 'Enter') { e.preventDefault(); addMed(); } });
-
-  document.getElementById('med-check').onclick = function() {
-    resultsEl.innerHTML = '';
-    var hasCardio = document.getElementById('cardio-check').checked;
-    var found = [];
-
-    chips.forEach(function(c) {
-      var r = lookup(c);
-      if (r) { found.push({input: c, data: r}); }
-      else { found.push({input: c, data: null}); }
-    });
-
-    if (chips.length === 0 && !hasCardio) {
-      resultsEl.innerHTML = '<div class="result-card result-safe"><h3>Nothing to check</h3><p>Add at least one medication above, or check the cardiovascular box.</p></div>';
-      return;
-    }
-
-    var highRisk = found.filter(function(f) { return f.data && f.data.risk === 'high'; });
-    var modHigh = found.filter(function(f) { return f.data && f.data.risk === 'moderate-high'; });
-    var modLow = found.filter(function(f) { return f.data && f.data.risk === 'moderate-low'; });
-    var lowMod = found.filter(function(f) { return f.data && f.data.risk === 'low-moderate'; });
-    var variable = found.filter(function(f) { return f.data && f.data.risk === 'variable'; });
-    var safe = found.filter(function(f) { return f.data && f.data.risk === 'none'; });
-    var unknown = found.filter(function(f) { return !f.data; });
-
-    var html = '';
-
-    highRisk.forEach(function(f) {
-      html += '<div class="result-card result-high"><h3>STOP &mdash; Do not take DMT</h3><p><strong>' + f.input + '</strong> (lithium) combined with DMT can cause seizures. There is no safe workaround.</p></div>';
-    });
-
-    modHigh.forEach(function(f) {
-      html += '<div class="result-card result-moderate"><h3>High caution &mdash; MAOI detected</h3><p><strong>' + f.input + '</strong> is an MAOI. You <em>must</em> talk to your doctor before trying DMT. If you proceed, always have a <a href="06-aborting-protocol.html#your-sitter-what-they-need-to-know">sitter</a> and stay with them for at least one hour afterward.</p><p>Read about <a href="#serotonin-syndrome-what-you-need-to-know">serotonin syndrome</a> &mdash; MAOIs can delay onset of symptoms.</p></div>';
-    });
-
-    modLow.forEach(function(f) {
-      var type = f.data.cat === 'snri' ? 'SNRI' : 'SSRI';
-      html += '<div class="result-card result-low"><h3>Caution &mdash; ' + type + ' detected</h3><p><strong>' + f.input + '</strong> is an ' + type + '. The risk of serotonin syndrome with a single ' + type + ' is generally low, but not zero. Talk to your doctor.</p><p>Read about <a href="#serotonin-syndrome-what-you-need-to-know">serotonin syndrome</a> and have a <a href="06-aborting-protocol.html#your-sitter-what-they-need-to-know">sitter</a> for your first few uses.</p></div>';
-    });
-
-    lowMod.forEach(function(f) {
-      var extra = f.data.cat === 'triptan-long'
-        ? 'Frovatriptan has a long half-life &mdash; wait at least <strong>5 days</strong> after your last dose.'
-        : 'Wait at least <strong>24 hours</strong> after your last dose before using DMT.';
-      html += '<div class="result-card result-low"><h3>Timing required &mdash; triptan detected</h3><p><strong>' + f.input + '</strong> is a triptan. ' + extra + '</p><p>The main concern is cardiovascular strain, not serotonin syndrome. See <a href="#triptans">triptans</a> for details.</p></div>';
-    });
-
-    variable.forEach(function(f) {
-      html += '<div class="result-card result-low"><h3>Caution &mdash; serotonergic drug detected</h3><p><strong>' + f.input + '</strong> affects serotonin. On its own the risk is usually low, but it can stack with other serotonergic drugs. Talk to your doctor.</p><p>Read about <a href="#serotonin-syndrome-what-you-need-to-know">serotonin syndrome</a>.</p></div>';
-    });
-
-    if (hasCardio) {
-      html += '<div class="result-card result-cardio"><h3>Cardiovascular &mdash; talk to your doctor</h3><p>DMT temporarily raises heart rate and blood pressure. With a heart condition, high blood pressure, or history of stroke, talk to your doctor before trying DMT.</p><p>See <a href="#cardiovascular-effects">cardiovascular effects</a> for details.</p></div>';
-    }
-
-    safe.forEach(function(f) {
-      html += '<div class="result-card result-safe"><h3>No known interaction</h3><p><strong>' + f.input + '</strong> has no known interaction with DMT.</p></div>';
-    });
-
-    unknown.forEach(function(f) {
-      html += '<div class="result-card result-unknown"><h3>Not in our database</h3><p>We don&rsquo;t have information about <strong>' + f.input + '</strong>. Search online for &ldquo;' + f.input + ' serotonin interaction&rdquo; or ask your doctor or pharmacist.</p></div>';
-    });
-
-    if (found.length > 0 || hasCardio) {
-      html += '<p style="font-size:0.85em;color:#606060;margin-top:1em;">This tool is a convenience aid, not medical advice. Always read the <a href="#check-your-medications">full medication table</a> and <a href="#serotonin-syndrome-what-you-need-to-know">serotonin syndrome section</a> below.</p>';
-    }
-
-    resultsEl.innerHTML = html;
-  };
 })();
 </script>
 

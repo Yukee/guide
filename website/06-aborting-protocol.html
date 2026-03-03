@@ -269,30 +269,34 @@ margin-top: 0;
 margin-bottom: 0;
 }
 .safety-checklist {
+background-color: #fff8f0;
+border: 1px solid #e0c8a0;
+border-radius: 8px;
+padding: 1.2em 1.5em;
+margin: 1.5em 0;
+}
+.safety-checklist ul {
 list-style: none;
 padding-left: 0;
 }
 .safety-checklist li {
-padding: 0.5em 0 0.5em 2em;
+padding-left: 1.8em;
 position: relative;
-border-bottom: 1px solid #eee;
+margin-bottom: 0.8em;
 }
 .safety-checklist li:last-child {
-border-bottom: none;
+margin-bottom: 0;
 }
 .safety-checklist li::before {
 content: "\2610";
 position: absolute;
 left: 0;
-font-size: 1.3em;
-line-height: 1;
-top: 0.5em;
+font-size: 1.2em;
 }
 .warning-box {
-background-color: #fff8e1;
-border: 1px solid #ffe082;
-border-left: 4px solid #ffa000;
-border-radius: 6px;
+background-color: #fff3f3;
+border: 1px solid #e0a0a0;
+border-radius: 8px;
 padding: 1.2em 1.5em;
 margin: 1.5em 0;
 }
@@ -303,33 +307,27 @@ margin-top: 0;
 margin-bottom: 0;
 }
 .sitter-section {
-background-color: #f6f8fa;
-border: 1px solid #d0d7de;
+background-color: #f0f4f8;
+border: 1px solid #b0c4d8;
 border-radius: 8px;
-padding: 1.5em;
+padding: 1.2em 1.5em;
 margin: 1.5em 0;
-}
-.sitter-section h3 {
-margin-top: 1em;
 }
 .sitter-section h3:first-child {
 margin-top: 0;
 }
 .quick-ref {
-background-color: #f0f7f0;
-border: 2px solid #c3dcc3;
+background-color: #f6f8fa;
+border: 2px solid #d0d7de;
 border-radius: 8px;
-padding: 1.5em;
+padding: 1.2em 1.5em;
 margin: 1.5em 0;
 }
-.quick-ref h3 {
-margin-top: 1em;
+.quick-ref h2 {
+margin-top: 0;
 }
 .quick-ref h3:first-child {
 margin-top: 0;
-}
-.quick-ref ol, .quick-ref ul {
-margin-top: 0.5em;
 }
   </style>
 </head>
@@ -351,7 +349,7 @@ margin-top: 0.5em;
 <h1>Aborting an Attack with DMT</h1>
 
 <div class="intro-box">
-<p>This page covers how to use your DMT vape pen to stop a cluster headache attack, and how to practice beforehand so you&rsquo;re confident when an attack hits.</p>
+<p>This page covers how to use your DMT vape pen to stop a cluster headache attack, and how to practice beforehand so you feel confident when an attack hits.</p>
 <p><strong>Time needed:</strong> The abort itself takes 1&ndash;5 minutes. You may feel mild effects for up to 20 minutes afterward.</p>
 <p><strong>If you&rsquo;ve never taken DMT or similar substances before, that&rsquo;s completely fine.</strong> The doses used here are small, much less than what recreational users take. This page will walk you through exactly what to do, step by step.</p>
 </div>
@@ -362,7 +360,8 @@ margin-top: 0.5em;
 
 <p>Before you ever press the button on your pen, make sure you&rsquo;ve completed every item on this list.</p>
 
-<ul class="safety-checklist">
+<div class="safety-checklist">
+<ul>
 <li><strong>Drug interactions checked.</strong> If you take any medication, supplement, or herbal remedy, you&rsquo;ve read the <a href="03-safety.html#check-your-medications">safety page</a> and confirmed it&rsquo;s safe to combine with DMT. <strong>If you take lithium, stop here: do not take DMT.</strong></li>
 <li><strong>Heart health considered.</strong> DMT temporarily raises your heart rate and blood pressure, similar to climbing a flight of stairs quickly. If you have high blood pressure, a heart condition, or a history of stroke, talk to your doctor before trying DMT. Triptans (sumatriptan, rizatriptan, etc.) narrow your blood vessels, putting additional strain on your heart. We recommend waiting at least 24 hours after your last triptan dose before taking DMT.</li>
 <li><strong>Sitter present for your first time.</strong> Your very first use of DMT must be a practice session (not during an attack), with a sober person present. After you&rsquo;ve practiced successfully, a sitter is recommended but not required for subsequent uses. See the <a href="#your-sitter-what-they-need-to-know">sitter section</a> below.</li>
@@ -370,10 +369,11 @@ margin-top: 0.5em;
 <li><strong>Comfortable, familiar space.</strong> You&rsquo;re somewhere you feel safe: your bedroom, living room, or another private, quiet place. Not in public, not driving, not operating machinery.</li>
 <li><strong>Phone accessible.</strong> In case of emergency, your phone (or your sitter&rsquo;s phone) should be within arm&rsquo;s reach.</li>
 </ul>
+</div>
 
 <hr>
 
-<h2 id="how-to-inhale">How to inhale (for people who have never vaped)</h2>
+<h2 id="how-to-inhale-for-people-who-have-never-vaped">How to inhale (for people who have never vaped)</h2>
 
 <p>This is the most important technique to learn. It&rsquo;s not hard, but it&rsquo;s different from just breathing normally.</p>
 
@@ -384,7 +384,7 @@ margin-top: 0.5em;
 </figure>
 </div>
 
-<h3>Step by step:</h3>
+<h3 id="step-by-step">Step by step:</h3>
 
 <ol>
 <li><strong>Hold the pen to your lips</strong> like a straw. Press and hold the button.</li>
@@ -408,7 +408,7 @@ margin-top: 0.5em;
 
 <p><strong>We do not recommend using DMT for the first time during an attack.</strong> Instead, practice when you&rsquo;re calm and pain-free.</p>
 
-<h3>Practice session steps</h3>
+<h3 id="practice-session-steps">Practice session steps</h3>
 
 <p>Pick a time when you&rsquo;re feeling relaxed: an evening at home, a weekend afternoon. Have your sitter with you.</p>
 
@@ -479,7 +479,7 @@ margin-top: 0.5em;
 <h3 id="step-5-repeat-if-needed">Step 5: Repeat if needed</h3>
 
 <ul>
-<li><strong>If you felt little or nothing after 30 seconds</strong>, take another puff. Same technique. Wait another 30 seconds and assess again. Repeat this cycle until the pain stops, <strong>or</strong> if you feel the effects are about to get too intense for you.</li>
+<li><strong>If the pain is not gone after 30 seconds</strong>, take another puff. Same technique. Wait another 30 seconds and assess again. Repeat this cycle until the pain stops, <strong>or</strong> if you feel the effects are about to get too intense for you.</li>
 </ul>
 
 <h3 id="step-6-document-everything">Step 6: Document everything</h3>
@@ -513,22 +513,22 @@ margin-top: 0.5em;
 </figure>
 </div>
 
-<h3>In the first 10 seconds</h3>
+<h3 id="in-the-first-10-seconds">In the first 10 seconds</h3>
 <ul>
 <li>A <strong>warm, tingling sensation</strong> spreading through your body: the &ldquo;body buzz.&rdquo; It often starts in the chest and moves outward.</li>
 <li>A feeling of <strong>heaviness</strong>, like gravity just increased. Your arms and legs may feel heavier than usual.</li>
 <li>Your <strong>heart may beat faster.</strong> This is normal and not dangerous. It&rsquo;s similar to climbing a flight of stairs quickly.</li>
 </ul>
 
-<h3>Over the next 1&ndash;5 minutes</h3>
+<h3 id="over-the-next-1-5-minutes">Over the next 1&ndash;5 minutes</h3>
 <ul>
-<li>Mild <strong>visual changes</strong> with your eyes closed: soft patterns, colors, or geometric shapes. If you&rsquo;ve never experienced altered perception before, this can feel strange, but it&rsquo;s a completely normal effect of the substance, not a sign that anything is wrong with your brain. It will stop on its own.</li>
+<li>Mild <strong>visual changes</strong> (especially with your eyes closed): patterns, colors, or geometric shapes. If you&rsquo;ve never experienced altered perception before, this can feel strange, but it&rsquo;s a completely normal effect of the substance, not a sign that anything is wrong with your brain. It will stop on its own.</li>
 <li>You might feel <strong>cold</strong> or notice slight <strong>sweating</strong>.</li>
 <li>A feeling of <strong>calm</strong> or mild <strong>euphoria,</strong> which many people describe as pleasant.</li>
 <li>Less commonly: mild <strong>dizziness</strong>, slight <strong>nausea</strong>, or a <strong>high-pitched ringing</strong> sound.</li>
 </ul>
 
-<h3>At 5&ndash;30 minutes</h3>
+<h3 id="at-5-30-minutes">At 5&ndash;30 minutes</h3>
 <ul>
 <li>Effects gradually fade. The body buzz reduces, your heartbeat returns to normal.</li>
 <li>Any visual effects stop.</li>
@@ -551,7 +551,7 @@ margin-top: 0.5em;
 <p><strong>&ldquo;This is a normal effect of the drug, and I accept the experience. It will be completely over in 10&ndash;20 minutes.&rdquo;</strong></p>
 </div>
 
-<h3>What to do</h3>
+<h3 id="what-to-do">What to do</h3>
 
 <ol>
 <li><strong>Focus on your body.</strong> Feel the weight of your body on the chair or bed. Press your feet into the floor.</li>
@@ -560,20 +560,20 @@ margin-top: 0.5em;
 <li><strong>Talk to your sitter.</strong> Saying &ldquo;I feel anxious&rdquo; or &ldquo;I don&rsquo;t like this&rdquo; out loud can be surprisingly helpful. Your sitter can remind you that you&rsquo;re safe and that it will end soon.</li>
 </ol>
 
-<p>If your sitter is with you, they should follow the guidance in the <a href="#your-sitter-what-they-need-to-know">sitter section</a> below. The key points are: stay calm, speak in a low steady voice, don&rsquo;t touch without asking, and give gentle time updates.</p>
+<p>If your sitter is with you, they should follow the guidance in the <a href="#your-sitter-what-they-need-to-know">sitter section</a> below. The key points for the sitter are: stay calm, speak in a low steady voice, don&rsquo;t touch without asking, and give gentle time updates.</p>
 
 <hr>
 
 <h2 id="after-the-attack">After the attack</h2>
 
-<h3>Recovery time</h3>
+<h3 id="recovery-time">Recovery time</h3>
 
 <ul>
 <li><strong>Do not drive</strong> for at least 30 minutes after your last puff, preferably longer if you took multiple puffs or felt significant effects.</li>
 <li><strong>Drink some water.</strong> Some people feel mildly dehydrated afterward.</li>
 </ul>
 
-<h3>Logging</h3>
+<h3 id="logging">Logging</h3>
 
 <p>After you&rsquo;ve recovered, take a few minutes to write down:</p>
 <ul>
@@ -588,11 +588,10 @@ margin-top: 0.5em;
 
 <hr>
 
-<h2 id="quick-reference-card">Quick reference card</h2>
+<div class="quick-ref">
+<h2>Quick reference card</h2>
 
 <p><em>Save a screenshot of this section, or print it and keep it with your pen.</em></p>
-
-<div class="quick-ref">
 
 <h3>Aborting protocol</h3>
 <ol>
@@ -631,7 +630,6 @@ margin-top: 0.5em;
 <li>Rapid irregular heartbeat + very unwell</li>
 <li>Symptoms rapidly worsening</li>
 </ul>
-
 </div>
 
 <hr>
@@ -640,7 +638,7 @@ margin-top: 0.5em;
 
 <p>A sitter is a sober person who stays with you while you use DMT. For your very first time (the practice session), a sitter is required. After that, a sitter is recommended but not strictly necessary. See <a href="#if-youre-on-your-own">If you&rsquo;re on your own</a> below.</p>
 
-<h3>Give this page to your sitter</h3>
+<h3 id="give-this-page-to-your-sitter">Give this page to your sitter</h3>
 
 <p>The information below is written directly to the sitter.</p>
 
@@ -650,7 +648,7 @@ margin-top: 0.5em;
 
 <p><strong>To the sitter:</strong> Someone you care about is using a small amount of DMT to try to stop a severe headache attack. Your job is simple and important: be present, stay calm, and know when to get help.</p>
 
-<h3>What will happen</h3>
+<h3 id="what-will-happen">What will happen</h3>
 
 <p>The person will inhale vapor from a small pen (like an e-cigarette). The DMT takes effect within seconds. At the low doses used here, they will likely:</p>
 
@@ -663,7 +661,7 @@ margin-top: 0.5em;
 
 <p>The effects wear off within 10&ndash;20 minutes. They should be completely back to normal within 30 minutes.</p>
 
-<h3>Your responsibilities</h3>
+<h3 id="your-responsibilities">Your responsibilities</h3>
 
 <ol>
 <li><strong>Be in the room</strong> while they use the pen. You don&rsquo;t need to hover; just be nearby.</li>
@@ -672,7 +670,7 @@ margin-top: 0.5em;
 <li><strong>Don&rsquo;t leave the room</strong> until they tell you they feel normal again.</li>
 </ol>
 
-<h3>If they have a bad experience</h3>
+<h3 id="if-they-have-a-bad-experience">If they have a bad experience</h3>
 
 <ul>
 <li><strong>Stay calm and present.</strong> Don&rsquo;t panic. Your calm demeanor is their anchor.</li>
@@ -682,7 +680,7 @@ margin-top: 0.5em;
 <li><strong>Keep track of time</strong> and give gentle updates: &ldquo;It&rsquo;s been 5 minutes. You&rsquo;re doing great. About 10 more minutes.&rdquo;</li>
 </ul>
 
-<h3>What NOT to do</h3>
+<h3 id="what-not-to-do">What NOT to do</h3>
 
 <ul>
 <li><strong>Don&rsquo;t take DMT yourself</strong> during this time. You need to be sober and clearheaded.</li>
@@ -690,7 +688,7 @@ margin-top: 0.5em;
 <li><strong>Don&rsquo;t play loud music or turn on bright lights.</strong> Keep the environment calm.</li>
 </ul>
 
-<h3>When to call for help</h3>
+<h3 id="when-to-call-for-help">When to call for help</h3>
 
 <p><strong>Call emergency services (911 / 112 / 999) if:</strong></p>
 
@@ -720,8 +718,6 @@ margin-top: 0.5em;
 <p><strong>For non-emergencies</strong> (they feel anxious, they don&rsquo;t like the sensation, they feel nauseous): stay with them, reassure them, and wait. It will pass within 10&ndash;20 minutes.</p>
 
 </div>
-
-<hr>
 
 <h2 id="if-youre-on-your-own">If you&rsquo;re on your own</h2>
 
