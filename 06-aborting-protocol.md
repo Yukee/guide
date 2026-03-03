@@ -1,10 +1,11 @@
 # Aborting an Attack with DMT
 
-This page covers how to use your DMT vape pen to stop a cluster headache attack, and how to practice beforehand so you're confident when an attack hits.
+This page covers how to use your DMT vape pen to stop a cluster headache attack, and how to practice beforehand so you feel confident when an attack hits.
 
 **Time needed:** The abort itself takes 1-5 minutes. You may feel mild effects for up to 20 minutes afterward.
 
-**If you've never taken DMT or similar substances before, that's completely fine.** The doses used here are small, much less than what recreational users take. This page will walk you through exactly what to do, step by step.
+**If you've never taken DMT or similar substances before, that's completely fine.** The doses used here are small, much less than what recreational users take. 
+This page will walk you through exactly what to do, step by step.
 
 ---
 
@@ -101,7 +102,7 @@ Put the pen down. Breathe normally. DMT acts fast. If it's going to work, you'll
 
 ### Step 5: Repeat if needed
 
-- **If you felt little or nothing after 30 seconds**, take another puff. Same technique. Wait another 30 seconds and assess again. Repeat this cycle until the pain stops, **or** if you feel the effects are about to get too intense for you.
+- **If the pain is not gone after 30 seconds**, take another puff. Same technique. Wait another 30 seconds and assess again. Repeat this cycle until the pain stops, **or** if you feel the effects are about to get too intense for you.
 
 ### Step 6: Document everything
 
@@ -128,9 +129,9 @@ This section describes what most people experience at the low doses used for abo
 - Your **heart may beat faster.** This is normal and not dangerous. It's similar to climbing a flight of stairs quickly.
 
 ### Over the next 1-5 minutes
-- Mild **visual changes** with your eyes closed: soft patterns, colors, or geometric shapes. If you've never experienced altered perception before, this can feel strange, but it's a completely normal effect of the substance, not a sign that anything is wrong with your brain. It will stop on its own.
+- Mild **visual changes** (especially with your eyes closed): patterns, colors, or geometric shapes. If you've never experienced altered perception before, this can feel strange, but it's a completely normal effect of the substance, not a sign that anything is wrong with your brain. It will stop on its own.
 - You might feel **cold** or notice slight **sweating**.
-- A feeling of **calm** or mild **euphoria,** which many people describe it as pleasant.
+- A feeling of **calm** or mild **euphoria,** which many people describe as pleasant.
 - Less commonly: mild **dizziness**, slight **nausea**, or a **high-pitched ringing** sound.
 
 ### At 5-30 minutes
@@ -157,7 +158,8 @@ It's possible, especially if you accidentally take a larger dose, that you feel 
 3. **Don't resist, accept the experience.** This is counterintuitive, but trying to push the experience away often makes it worse. Instead, let the sensations be there. You don't have to enjoy them; just let them pass, like waves. They will pass.
 4. **Talk to your sitter.** Saying "I feel anxious" or "I don't like this" out loud can be surprisingly helpful. Your sitter can remind you that you're safe and that it will end soon.
 
-If your sitter is with you, they should follow the guidance in the [sitter section](#your-sitter-what-they-need-to-know) below. The key points are: stay calm, speak in a low steady voice, don't touch without asking, and give gentle time updates.
+If your sitter is with you, they should follow the guidance in the [sitter section](#your-sitter-what-they-need-to-know) below. 
+The key points for the sitter are: stay calm, speak in a low steady voice, don't touch without asking, and give gentle time updates.
 
 ---
 

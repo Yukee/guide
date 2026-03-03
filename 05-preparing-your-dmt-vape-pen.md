@@ -17,7 +17,7 @@ You need six things. Most can be ordered online and arrive within a few days. Ev
 
 There are two ways to set up your vape pen:
 
-- **Option A: Battery + cartridge (recommended).** Buy a small pen-style battery and a separate cartridge. You fill the cartridge yourself with DMT liquid (explained below), or buy a pre-filled cartridge. 
+- **Option A: Battery + cartridge (recommended).** Buy a small pen-style battery and a separate cartridge. You fill the cartridge yourself with DMT liquid (explained below), or buy a cartridge pre-filled with DMT liquid. 
 - **Option B: Complete kit.** Buy an all-in-one device like the [Coolfire Z60](https://www.innokin.com/coolfire-z60), which comes with a battery, a built-in tank, and a coil: everything except the liquid. You fill the tank yourself. These are bulkier but have more battery life and an easy-to-read screen. Some patients prefer these.
 
 The rest of this guide works with either option. The instructions below cover Option A in detail; if you're using a complete kit, the mixing steps are identical: you just fill your kit's tank instead of a cartridge.
@@ -28,9 +28,9 @@ The rest of this guide works with either option. The instructions below cover Op
 
 **What it is:** The bottom half of your vape pen: a small rechargeable battery with a button and a charging port.
 
-**What to look for:** You need one with **variable voltage.** This means you can turn the temperature up or down with a button or dial. This matters because too low and the liquid doesn't vaporize properly, too high and the DMT gets destroyed by heat. You'll want to start at around **2.5 volts** and adjust upward if needed. Most people find the right setting between **2.5-3.5 volts**. The right setting produces smooth, visible vapor without any burnt taste.
+**What to look for:** You need a battery with **variable voltage.** This means you can turn the temperature up or down with a button or dial. This matters because too low and the liquid doesn't vaporize properly, too high and the DMT gets destroyed by heat. You'll want to start at around **2.5 volts** and adjust upward if needed. Most people find the right setting between **2.5-3.5 volts**. The right setting produces smooth, visible vapor without any burnt taste.
 
-**Recommended models:**
+**Some recommended models:**
 - [Yocan Uni Pro](https://www.yocan.com/featured_item/uni-pro). Popular, compact, precise voltage control.
 - [CCell Fino](https://www.ccell.com/battery/fino). Simple, compact, reliable.
 
@@ -53,8 +53,6 @@ The rest of this guide works with either option. The instructions below cover Op
 
 **What to look for:** Vape juice is made from two ingredients: propylene glycol (PG) and vegetable glycerin (VG). Get a bottle labeled **50/50** (meaning half of each). This ratio dissolves DMT well and produces smooth vapor. The flavor doesn't matter; pick whatever you like.
 
-> **Example:** The photos in this guide use "Mad King Vimtoz" 50VG/50PG, 0mg nicotine, but any 50/50 nicotine-free vape juice will work.
-
 ### 4. DMT powder (~varies)
 
 **What it is:** The active ingredient. DMT in its pure form looks like a white-to-yellowish crystalline powder. You need the **freebase** form, which just means the pure, vaporizable form of the molecule (as opposed to a salt form, which doesn't vaporize efficiently).
@@ -69,7 +67,7 @@ The rest of this guide works with either option. The instructions below cover Op
 
 **What it is:** A small empty bottle (about 10 ml) to mix the DMT and vape juice in. A small glass bottle with a dropper (a squeeze-top that lets you dispense liquid drop by drop) works well. You can also use a small empty vape juice bottle.
 
-**What to look for:** It should be sealable (screw cap or dropper top) and heat-resistant. Glass is ideal. The bottle in our photos is a 10 ml plastic dropper bottle, which also works fine.
+**What to look for:** It should be sealable (screw cap or dropper top) and heat-resistant. Glass is ideal. The bottle in our photos is a plastic dropper bottle, which also works fine.
 
 ### You'll also need (from around the house)
 
@@ -93,22 +91,20 @@ This is the main preparation step: dissolving DMT powder into vape juice so it c
 
 Place a piece of aluminum foil on your scale and zero it out (press the "tare" or "T" button so the scale reads 0.00 with the foil on it). Then carefully add DMT powder until the scale reads **1.00 g** (1 gram).
 
-> **Handling tip:** DMT powder won't make you trip through skin contact in these amounts, but you want the DMT in the bottle, not on your hands. Work in a calm spot without drafts. The powder is fine and can become airborne. If you get any on your skin, just wash with soap and water.
+> **Handling tip:** DMT powder won't make you trip through skin contact in these amounts, but you want the DMT in the bottle, not on your hands. Work in a calm spot without wind drafts. The powder is fine and can become airborne. If you get any on your skin, just wash with soap and water.
 
 ![Step 1 - DMT powder on a digital scale, showing 1 gram weighed on aluminum foil](images/01-dmt-on-scale.jpg)
-*1 gram of DMT powder on a CHWARES digital scale. The aluminum foil makes it easy to pour the powder afterward.*
+*1 gram of DMT powder on a digital scale. The aluminum foil makes it easy to pour the powder afterward.*
 
 ### Step 2: Measure vape juice into the mixing bottle
 
 You need **3 ml** (3 milliliters) of vape juice. The easiest way to measure this is by weight using your scale: place your mixing bottle on the scale, tare it to zero, then add vape juice until the scale reads **3.00 g** (vape juice has roughly the same density as water, so 3 grams ≈ 3 ml).
 
-> **Note about the photos:** The photos show a different DMT to vape juice ratio than the guide. The method is identical.
-
 ![Step 2a - The vape juice bottle, showing "50VG 50PG" and "0mg" (nicotine-free) on the label](images/02-vape-juice-bottle.jpg)
 *Nicotine-free (0mg) vape juice with a 50/50 PG/VG ratio. Any brand with these specs works.*
 
 ![Step 2b - Vape juice measured into a small mixing bottle, about half full](images/03-juice-in-small-bottle.jpg)
-*Vape juice measured into a 10 ml mixing bottle. The large bottle in the background is just the source. You mix in the small one.*
+*3 ml of vape juice measured into the small mixing bottle.*
 
 ### Step 3: Add the DMT powder to the bottle
 
@@ -124,9 +120,9 @@ Roll a small piece of paper into a cone/funnel shape and use it to carefully pou
 Screw the cap on tightly. Shake the bottle vigorously for about 1 minute.
 
 ![Step 4 - The bottle after shaking, showing a cloudy/opaque mixture](images/05-shake-mixture.jpg)
-*After shaking for 1 minute, the mixture will look cloudy and murky like this. That's normal. It hasn't dissolved yet.*
+*After shaking for 1 minute, the mixture will look cloudy and murky like this. That's normal. The DMT hasn't fully dissolved yet.*
 
-**What to look for:** The liquid should be uniformly cloudy. If you see dry powder stuck to the sides, shake harder or tap the bottle to knock it loose.
+**What to look for:** The liquid should be uniformly cloudy.
 
 ### Step 5: Waterproof the bottle, then hot water bath
 
@@ -135,7 +131,8 @@ Screw the cap on tightly. Shake the bottle vigorously for about 1 minute.
 ![Step 5a - The bottle wrapped in clear tape to make it watertight](images/07-taped-bottle.jpg)
 *Wrap the cap and top of the bottle in tape so that no water can seep in during the hot water bath.*
 
-**Then**, boil your kettle and pour the hot water into a mug. Place the sealed, taped bottle into the mug of hot water. Let it sit for **10-15 minutes**.
+**Then**, heat up water. The water should be very hot but not boiling. 
+Pour the hot water into a mug. Place the sealed, taped bottle into the mug of hot water. Let it sit for **10-15 minutes**.
 
 ![Step 5b - The taped bottle sitting in a mug of hot water](images/06-hot-water-bath.jpg)
 *The bottle sits in hot water in a mug. The heat helps the DMT dissolve into the liquid. Make sure the water level doesn't go above the taped seal.*
@@ -144,7 +141,7 @@ Screw the cap on tightly. Shake the bottle vigorously for about 1 minute.
 
 After 10-15 minutes, take the bottle out of the water. **Shake it vigorously for 1 minute** again. Then:
 
-1. Empty the mug and refill with fresh hot water
+1. Empty the mug and refill with fresh hot water (again, not boiling)
 2. Put the bottle back in
 3. Wait another 10-15 minutes
 4. Take it out and shake again
@@ -170,7 +167,7 @@ After 3-4 hot water cycles, the mixture should be a **clear amber/golden liquid,
 
 ## Filling the cartridge
 
-Now you need to get the liquid from the mixing bottle into the cartridge.
+Now you need to get the liquid from the mixing bottle into your vape pen's cartridge.
 
 1. **Screw the cartridge onto the battery** if you haven't already. This gives you something to hold onto.
 2. **Unscrew the mouthpiece** from the top of the cartridge. It twists off to reveal the tank opening. You'll see a small hole in the very center: that's the airway (where air flows through when you inhale). **Don't put liquid into that center hole.**
@@ -224,16 +221,16 @@ Turn the voltage **down**. A burnt taste means the temperature is too high and t
 | Vape pen battery | "Variable voltage, 510 thread battery" (or complete kit) | $25-50 |
 | Cartridge | "510 thread ceramic coil cartridge" (skip if using kit) | $5-15 |
 | Vape juice | "50/50 nicotine-free vape juice" | $5-10 |
-| DMT powder | Pure freebase powder/crystal form | Varies |
+| DMT powder | Pure freebase powder/crystal form | $80–$250 per gram. |
 | Digital scale | Reads to 0.01 grams | $10-20 |
-| Small mixing bottle | 10 ml, sealable, temperature-resistant | $1-5 |
+| Small mixing bottle | about 10 ml, sealable, temperature-resistant | $1-5 |
 
 ### Mixing steps (1:3 ratio = 1g DMT per 3ml juice)
 1. **Weigh** 1g DMT on scale
 2. **Measure** 3ml vape juice into small bottle (3g by weight)
 3. **Add** DMT powder to bottle (paper funnel helps)
 4. **Seal and shake** vigorously for 1 minute
-5. **Tape** bottle, place in mug of hot water for 10-15 min
+5. **Tape** bottle, place in mug of hot (not boiling) water for 10-15 min
 6. **Remove and shake** 1 minute. Repeat hot water cycle 3-4 times total
 7. **Check:** should be clear amber, no cloudiness
 8. **Fill** cartridge, avoiding center tube

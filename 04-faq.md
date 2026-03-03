@@ -4,7 +4,7 @@
 No. DMT is not addictive. It doesn't create cravings or physical dependence.
 
 **"Will I hallucinate?"**
-At the small doses used for aborting attacks, it's very unlikely. You might see mild patterns with your eyes closed; that's the most common visual effect. With eyes open, things will look normal.
+At the small doses used for aborting attacks, you will at most experience mild visual alterations, such as colors looking slightly different or seeing geometric patterns.
 
 **"Is it legal?"**
 DMT is illegal in most countries. This guide does not encourage breaking the law. We present the medical information so you can make informed decisions about your own health.
@@ -35,7 +35,7 @@ At aborting doses, most people feel back to normal within 20-30 minutes. To be s
 **"What if it doesn't work for me?"**
 If your first few attempts don't relieve the pain, try adjusting your protocol before giving up: experiment with voltage, inhaling technique, or the DMT-to-liquid ratio. 
 The [aborting protocol](06-aborting-protocol.md) has guidance on dialing in your settings. 
-If DMT isn't effective for you, oxygen and triptans remain proven aborting options.
+If DMT isn't effective for you, oxygen remains the top choice for aborting.
 
 **"Can I use DMT and oxygen together?"**
 Yes. There is no known interaction between inhaled DMT and supplemental oxygen. Some patients use oxygen as their first-line abortive and switch to DMT when oxygen isn't available or isn't working fast enough.
@@ -52,7 +52,7 @@ It may help to frame it the way it is: a medical tool you're using to manage sev
 If they're going to be your [sitter](06-aborting-protocol.md#your-sitter-what-they-need-to-know), the sitter section explains exactly what to expect and what to do. 
 For tips on talking to your doctor, see the [safety page](03-safety.md#check-your-medications).
 
-**"What about psilocybin (magic mushrooms), LSD or MeO-DALT?"**
-You may have heard that psilocybin, LSD or MeO-DALT can also help with cluster headaches. That's true. They all have shown promise for reducing the frequency of cluster cycles (a preventive effect).
+**"What about psilocybin (magic mushrooms), LSD or 5-MeO-DALT?"**
+You may have heard that psilocybin, LSD or 5-MeO-DALT can also help with cluster headaches. That's true. They all have shown promise for reducing the frequency of cluster cycles (a preventive effect).
 DMT is different: it's used to abort individual attacks as they happen.
-Some patients use both: psilocybin, LSD or MeO-DALT to reduce how often cycles occur, and DMT to stop attacks when they break through. This guide focuses on DMT.
+Some patients use both: psilocybin, LSD or 5-MeO-DALT to reduce how often cycles occur, and DMT to stop attacks when they break through. This guide focuses on DMT.

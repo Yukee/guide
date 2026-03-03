@@ -1,6 +1,6 @@
 # Safety and Drug Interactions
 
-## How Safe Is This?
+## How Safe Is DMT?
 
 The [basics page](02-dmt-basics.md) gave you the short version. Here's the fuller picture: at the low doses used to abort cluster headache attacks (5-10 mg), DMT's cardiovascular and psychological risks are very low for healthy people. The main concern, and the reason this page exists, is **drug interactions**, specifically with medications that affect serotonin.
 
@@ -206,11 +206,12 @@ At the low doses used for aborting attacks, DMT has mild psychological effects. 
 
 You might feel a warm buzz in your body, see gentle patterns with your eyes closed, or hear a faint hum. You will remain aware and in control. Fear or anxiety is possible but uncommon at these doses, and it **always passes within 10-20 minutes**.
 
-An overwhelming or traumatic experience is very unlikely at aborting doses. The [aborting protocol](06-aborting-protocol.md) (where you take one tiny puff, wait to see the effect, and only take more if needed) is specifically designed to prevent this: you take tiny amounts, one puff at a time, and stop as soon as the headache starts to ease. For a detailed description of what to expect physically, see [what you might feel](06-aborting-protocol.md#what-you-might-feel) on the aborting protocol page.
+An overwhelming or traumatic experience is very unlikely at aborting doses. The [aborting protocol](06-aborting-protocol.md) is specifically designed to prevent this: you take tiny amounts, one puff at a time, and stop as soon as the headache starts to ease. For a detailed description of what to expect physically, see [what you might feel](06-aborting-protocol.md#what-you-might-feel) on the aborting protocol page.
 
 ### At Higher Doses
 
-At 10-25 mg (rarely necessary to abort attacks), you might experience vivid visual patterns even with your eyes open, and a sense of time distortion. Above 25 mg (almost never necessary), the experience can become very intense: the room may seem to disappear, you may feel strong emotions, or feel a presence or "entity," a sense that someone or something else is there with you. This is a well-known effect of high-dose DMT, it is not real, and it passes completely within minutes. These experiences can be positive or negative.
+At 10-25 mg (rarely necessary to abort attacks), you might experience vivid visual patterns even with your eyes open, and a sense of time distortion. Above 25 mg (almost never necessary), the experience can become very intense: the room may seem to disappear, you may feel strong emotions, or even meet "entities": seemingly autonomous beings that feel vividly real.
+This is a well-known effect of high-dose DMT, and it passes completely within minutes. These experiences can be positive or negative.
 
 The aborting protocol makes accidentally taking a high dose unlikely. But if it does happen, remember: **the experience will be completely over in 10-20 minutes.**
 
@@ -222,7 +223,9 @@ The scientific evidence points to a **safe psychological profile** for DMT:
 - **In population studies of ayahuasca users:** Persistent psychotic problems were estimated at roughly 1 in 50,000. Similar rates were found for peyote (a different psychedelic).
 - **Dose context:** Clinical safety studies often test doses far higher than the 5-10 mg typically needed to abort attacks.
 
-**Important exception:** If you have a **psychotic disorder** (such as schizophrenia or schizoaffective disorder) or a **close family history** (a parent or sibling) of one, exercise extreme caution. People with psychotic disorders are usually excluded from clinical trials, so we have very little data on the risks for them. Talk to your doctor, and don't take DMT unless you're confident it's safe for you.
+**Important exception:** If you have a **psychotic disorder** (such as schizophrenia or schizoaffective disorder) or a **close family history** (a parent or sibling) of one, exercise extreme caution. 
+People with psychotic disorders are usually excluded from psychedelics clinical trials, so we have very little data on the risks for them. 
+Talk to your doctor, and don't take DMT unless you're confident it's safe for you.
 
 ---
 
