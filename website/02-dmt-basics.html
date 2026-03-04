@@ -97,24 +97,6 @@ border-top: 1px solid #d0d7de;
 height: 1px;
 margin: 2em 0;
 }
-table {
-margin: 1em 0;
-border-collapse: collapse;
-width: 100%;
-font-variant-numeric: lining-nums tabular-nums;
-}
-tbody {
-border-top: 1px solid #1a1a1a;
-border-bottom: 1px solid #1a1a1a;
-}
-th {
-border-top: 1px solid #1a1a1a;
-padding: 0.4em 0.6em;
-text-align: left;
-}
-td {
-padding: 0.3em 0.6em;
-}
 figure {
 margin: 1.5em 0;
 text-align: center;
@@ -268,6 +250,45 @@ margin-top: 0;
 .intro-box p:last-child {
 margin-bottom: 0;
 }
+/* Collapsible details/summary */
+details {
+margin: 0.8em 0;
+border: 1px solid #d0d7de;
+border-radius: 6px;
+padding: 0;
+}
+details[open] {
+padding-bottom: 0.8em;
+}
+summary {
+font-weight: 600;
+cursor: pointer;
+padding: 0.8em 1em;
+list-style: none;
+}
+summary::-webkit-details-marker {
+display: none;
+}
+summary::before {
+content: "\25B6\00a0";
+font-size: 0.7em;
+vertical-align: middle;
+}
+details[open] > summary::before {
+content: "\25BC\00a0";
+}
+details > *:not(summary) {
+padding-left: 1em;
+padding-right: 1em;
+}
+details > p:last-child {
+margin-bottom: 0;
+}
+details > ul:last-child,
+details > ol:last-child {
+margin-bottom: 0;
+padding-bottom: 0;
+}
   </style>
 </head>
 <body>
@@ -299,7 +320,7 @@ margin-bottom: 0;
 
 <p>When DMT is vaped (inhaled as a vapor from a small pen-like device), it acts within <strong>seconds</strong> and the effects are completely gone within <strong>10&ndash;20 minutes</strong>. This fast on, fast off profile makes it remarkably useful for aborting cluster headache attacks.</p>
 
-<p>If you&rsquo;ve never vaped before, don&rsquo;t worry. It&rsquo;s simpler than it looks. You press a button, breathe in gently, and breathe out. The <a href="05-preparing-your-dmt-vape-pen.html">preparation page</a> walks you through every step.</p>
+<p>If you&rsquo;ve never vaped before, don&rsquo;t worry. It&rsquo;s simpler than it looks. You press a button, breathe in gently, and breathe out. The <a href="05-preparing-your-dmt-vape-pen.html">preparation page</a> and <a href="06-aborting-protocol.html">aborting protocol</a> walk you through every step.</p>
 
 <p>DMT is not a &ldquo;street drug&rdquo; in the way most people imagine. Users do not become addicted to it, and it is generally safe for the body, particularly at the low doses used to abort attacks. That said, it is a <strong>psychedelic</strong>: a substance that can temporarily change how you perceive the world around you. At higher doses, it can profoundly alter your perception. The doses used for aborting attacks are much lower than recreational doses, so the effects are mild. More on that below.</p>
 
@@ -327,8 +348,8 @@ margin-bottom: 0;
 <p>At the low doses used for aborting attacks, DMT is generally <strong>low-risk</strong>. Here are the key facts:</p>
 
 <ul>
-  <li><strong>Not addictive.</strong> DMT does not cause physical dependence, and people don&rsquo;t develop cravings for it.</li>
-  <li><strong>No tolerance buildup.</strong> Using DMT repeatedly doesn&rsquo;t make it less effective.</li>
+  <li><strong>Not addictive.</strong> There is no scientific evidence for DMT causing physical dependence or cravings. Like other classic psychedelics such as LSD and psilocybin, DMT is generally considered to have no potential for addiction.</li>
+  <li><strong>No tolerance buildup.</strong> Patients report using DMT repeatedly without it becoming less effective.</li>
   <li><strong>Not toxic.</strong> Unlike alcohol or many medications, DMT isn&rsquo;t taxing for the body.</li>
   <li><strong>Short-acting.</strong> Effects usually fade within 10&ndash;20 minutes.</li>
 </ul>
@@ -336,7 +357,7 @@ margin-bottom: 0;
 <h3>The real risks</h3>
 
 <ul>
-  <li><p><strong>Drug interactions.</strong> This is the biggest safety concern. Some medications combined with DMT can be dangerous. <strong>If you take lithium, do not take DMT. The combination can cause seizures.</strong> Other medications, especially MAOIs (such as phenelzine and tranylcypromine) and SNRIs / SSRIs (such as venlafaxine and fluoxetine) may also interact. You must check the <a href="03-safety.html#check-your-medications">safety and drug interactions page</a> before your first use.</p></li>
+  <li><p><strong>Drug interactions.</strong> This is the biggest safety concern. Some medications combined with DMT can be dangerous. <strong>If you take lithium, do not take DMT. The combination can cause seizures.</strong> Other medications, especially MAOIs (such as phenelzine and tranylcypromine) and SNRIs&thinsp;/&thinsp;SSRIs (such as venlafaxine and fluoxetine) may also interact. You must check the <a href="03-safety.html#check-your-medications">safety and drug interactions page</a> before your first use.</p></li>
   <li><p><strong>Anxiety at higher doses.</strong> If you accidentally take more than intended, you might feel anxious. Overwhelming anxiety or a panic attack is uncommon at the low doses needed to abort attacks, and always passes within 10&ndash;20 minutes. The <a href="06-aborting-protocol.html">aborting protocol</a> is specifically designed to prevent this: you take tiny amounts, one puff at a time. You are in control.</p></li>
   <li><p><strong>Not recommended if you have a psychotic disorder</strong> (e.g., schizophrenia) or a close family history of one.</p></li>
   <li><p><strong>Mild cardiovascular effects.</strong> DMT temporarily raises your heart rate and blood pressure (comparable to climbing a flight of stairs quickly). For healthy individuals, this is not a concern. If you have a heart condition or high blood pressure, talk to your doctor first.</p></li>
@@ -350,51 +371,48 @@ margin-bottom: 0;
 
 <h2 id="what-will-it-feel-like">What will it feel like?</h2>
 
-<p>This is the question most people are nervous about. Here&rsquo;s what to expect at the low doses used for aborting attacks.</p>
+<p>This is the question most people are nervous about. At the low doses used for aborting attacks, the effects are mild and brief. Expand the sections below for a detailed picture.</p>
 
-<h3>At aborting doses</h3>
-
-<p>The protocol uses small puffs, added one at a time. You might need one, you might need a few. Most people feel some combination of:</p>
-
+<details>
+<summary>At aborting doses: what to expect</summary>
+<p>The protocol uses small puffs, added one at a time. You might need one, you might need a few. After one to three puffs, most people feel some combination of:</p>
 <ul>
   <li>A <strong>warm, tingling sensation</strong> spreading through the body, often called the &ldquo;body buzz.&rdquo; It usually starts in the chest.</li>
   <li>A feeling of <strong>heaviness</strong>, like gravity just increased.</li>
-  <li>Lightly <strong>altered visual perceptions</strong>, such as more vivid colors, or sharper-looking edges of objects.</li>
-  <li><strong>Closed-eye visuals</strong>: patterns if you close your eyes.</li>
+  <li>Lightly <strong>altered visual perceptions</strong>, such as more vivid colors, sharper-looking edges of objects, or geometric patterns (especially with eyes closed).</li>
   <li>Hearing <strong>static or a high-pitched hum</strong>.</li>
 </ul>
-
 <p>You will remain aware of where you are, who you are, and what&rsquo;s happening. You can talk, move, and think clearly.</p>
 
 <div class="illustration">
 <figure>
-<img src="images/illustration-dose-spectrum.jpg" alt="Dose spectrum showing where aborting doses sit, and are at the low end, far from a full psychedelic experience">
+<img src="images/illustration-dose-spectrum.jpg" alt="Dose spectrum showing where aborting doses sit at the low end, far from a full psychedelic experience">
 <figcaption>Aborting doses are at the low end of the spectrum, nowhere near a full psychedelic experience.</figcaption>
 </figure>
 </div>
 
-<h3>How the timing works</h3>
-
+<p><strong>How the timing works:</strong></p>
 <ul>
   <li><strong>0&ndash;10 seconds:</strong> You feel the first effects (body buzz, warmth).</li>
-  <li><strong>1&ndash;5 minutes:</strong> Effects are at their strongest, but still mild at these doses.</li>
+  <li><strong>10 seconds&ndash;5 minutes:</strong> Effects are at their strongest, but still mild at these doses.</li>
   <li><strong>5&ndash;20 minutes:</strong> Effects gradually fade.</li>
   <li><strong>20&ndash;30 minutes:</strong> Back to normal, with no or barely any lingering effects.</li>
 </ul>
 
-<h3>What you won&rsquo;t experience at these doses</h3>
-
+<p><strong>What you won&rsquo;t experience at these doses:</strong></p>
 <ul>
-  <li>You won&rsquo;t &ldquo;trip.&rdquo; No hallucinations, no losing touch with reality.</li>
+  <li>You won&rsquo;t &ldquo;trip.&rdquo; No intense hallucinations, no losing touch with reality.</li>
   <li>You won&rsquo;t feel out of control. The <a href="06-aborting-protocol.html">aborting protocol</a> means you decide how much to take, one small step at a time.</li>
-  <li>You won&rsquo;t be incapacitated. After 20&ndash;30 minutes, you&rsquo;re back to normal.</li>
+  <li>You won&rsquo;t be incapacitated. After 20&ndash;30 minutes, you will be back to normal.</li>
 </ul>
+</details>
 
-<h3>If you accidentally take too much</h3>
-
-<p>At higher doses (which is unlikely with the aborting protocol), DMT can cause more intense effects: vivid visual patterns with eyes open, time distortion, or strong emotions. This can feel overwhelming if you&rsquo;re not expecting it. <strong>The most important thing to remember: it will be completely over in 10&ndash;20 minutes.</strong> You cannot get &ldquo;stuck&rdquo; in the experience.</p>
-
+<details>
+<summary>If you accidentally take too much</summary>
+<p>At higher doses (which is unlikely with the aborting protocol), DMT can cause more intense effects: vivid visual patterns with eyes open (the room may seem to disappear), time distortion, strong emotions, or even meeting &ldquo;entities&rdquo;&mdash;seemingly autonomous beings that feel vividly real. This can feel overwhelming if you&rsquo;re not expecting it.</p>
+<p><strong>The most important thing to remember: it will be completely over in 10&ndash;20 minutes.</strong> You cannot get &ldquo;stuck&rdquo; in the experience.</p>
 <p>The <a href="06-aborting-protocol.html">aborting protocol</a> explains how to handle this in detail, including grounding techniques and what your sitter should do.</p>
+</details>
 
 <blockquote>
 <p><strong>Important:</strong> We strongly recommend that your first time using DMT is a <strong>practice session</strong>, not during an attack. Practice when you&rsquo;re calm and pain-free, with a sitter present, so you know what to expect before you need it in an emergency. The <a href="06-aborting-protocol.html">aborting protocol</a> walks you through this.</p>
@@ -407,7 +425,7 @@ margin-bottom: 0;
 <ul>
   <li><strong>Check your medications first.</strong> If you take any medication, supplement, or herbal remedy, read the <a href="03-safety.html#check-your-medications">drug interactions page</a> before anything else.</li>
   <li><strong>Ready to prepare your equipment?</strong> The <a href="05-preparing-your-dmt-vape-pen.html">preparation page</a> walks you through buying a vape pen and mixing the liquid (about 30 minutes of active work).</li>
-  <li><strong>Ready to use it?</strong> The <a href="06-aborting-protocol.html">aborting protocol</a> covers your first practice session and the step-by-step method for stopping attacks.</li>
+  <li><strong>Ready to use DMT?</strong> The <a href="06-aborting-protocol.html">aborting protocol</a> covers your first practice session and the step-by-step method for stopping attacks.</li>
 </ul>
 
 <div class="page-nav">

@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>Frequently Asked Questions</title>
+  <title>FAQ &mdash; DMT for Cluster Headaches</title>
   <style>
 
 html {
@@ -52,6 +52,12 @@ widows: 3;
 h2, h3, h4 {
 page-break-after: avoid;
 }
+details {
+border: none;
+}
+details > *:not(summary) {
+display: block !important;
+}
 }
 p {
 margin: 1em 0;
@@ -96,39 +102,6 @@ border: none;
 border-top: 1px solid #d0d7de;
 height: 1px;
 margin: 2em 0;
-}
-table {
-margin: 1em 0;
-border-collapse: collapse;
-width: 100%;
-font-variant-numeric: lining-nums tabular-nums;
-}
-tbody {
-border-top: 1px solid #1a1a1a;
-border-bottom: 1px solid #1a1a1a;
-}
-th {
-border-top: 1px solid #1a1a1a;
-padding: 0.4em 0.6em;
-text-align: left;
-}
-td {
-padding: 0.3em 0.6em;
-}
-figure {
-margin: 1.5em 0;
-text-align: center;
-}
-figure img {
-display: block;
-margin: 0 auto;
-}
-figcaption {
-font-size: 0.9em;
-color: #606060;
-font-style: italic;
-margin-top: 0.5em;
-text-align: center;
 }
 /* Navigation */
 .site-nav {
@@ -251,40 +224,87 @@ opacity: 0.85;
 .back-to-top:hover {
 opacity: 1;
 }
-/* Collapsible sections */
+/* Intro box */
+.intro-box {
+background-color: #f0f7f0;
+border: 1px solid #b8d8b8;
+border-radius: 8px;
+padding: 1.2em 1.5em;
+margin: 1.5em 0;
+}
+.intro-box p:first-child {
+margin-top: 0;
+}
+.intro-box p:last-child {
+margin-bottom: 0;
+}
+/* Accordion */
 details {
-margin: 0.8em 0;
+margin: 0.6em 0;
 border: 1px solid #d0d7de;
 border-radius: 6px;
 padding: 0;
+transition: box-shadow 0.15s;
+}
+details:hover {
+box-shadow: 0 1px 5px rgba(0,0,0,0.09);
 }
 details[open] {
-padding-bottom: 0.8em;
+border-color: #b0c8d8;
+padding-bottom: 1em;
 }
 summary {
 font-weight: 600;
 cursor: pointer;
-padding: 0.8em 1em;
+padding: 0.9em 1em 0.9em 2.8em;
 list-style: none;
+position: relative;
+color: #1a1a1a;
+user-select: none;
+-webkit-user-select: none;
+border-radius: 6px;
+}
+summary:hover {
+background: #f6f8fa;
+}
+details[open] > summary {
+border-radius: 6px 6px 0 0;
+border-bottom: 1px solid #d0d7de;
+margin-bottom: 0.2em;
 }
 summary::-webkit-details-marker {
 display: none;
 }
+/* + / &minus; indicator */
 summary::before {
-content: "\25B6\00a0";
-font-size: 0.7em;
-vertical-align: middle;
+content: "+";
+position: absolute;
+left: 1em;
+font-size: 1.25em;
+font-weight: 400;
+color: #1a6fa8;
+line-height: 1;
+top: 50%;
+transform: translateY(-50%);
+width: 1em;
+text-align: center;
 }
 details[open] > summary::before {
-content: "\25BC\00a0";
+content: "\2212";
 }
 details > *:not(summary) {
-padding-left: 1em;
-padding-right: 1em;
+padding-left: 1.2em;
+padding-right: 1.2em;
 }
-details > p:last-child {
+details > p:first-of-type {
+margin-top: 0.8em;
+}
+details > p:last-child,
+details > ul:last-child,
+details > ol:last-child {
 margin-bottom: 0;
 }
+
   </style>
 </head>
 <body>
@@ -304,83 +324,87 @@ margin-bottom: 0;
 
 <h1>Frequently Asked Questions</h1>
 
+<div class="intro-box">
+<p>Common questions about using DMT to abort cluster headache attacks. Click any question to expand the answer.</p>
+</div>
+
 <details>
 <summary>Will I get addicted?</summary>
-<p>No. DMT is not addictive. It doesn&rsquo;t create cravings or physical dependence.</p>
+<p>No. DMT is not addictive. It does not create cravings or physical dependence. Unlike opioids or benzodiazepines, your body does not build a chemical need for it. Patients who use it regularly to abort attacks do not report any compulsion to use it outside of attacks.</p>
 </details>
 
 <details>
 <summary>Will I hallucinate?</summary>
-<p>At the small doses used for aborting attacks, you will at most experience mild visual alterations, such as colors looking slightly different or seeing geometric patterns.</p>
+<p>At the small doses used for aborting attacks (5&ndash;10&nbsp;mg), you will at most experience mild visual alterations &mdash; colors may look slightly different, or you may notice faint geometric patterns, especially with your eyes closed. You remain aware of where you are and what is happening. A full hallucinogenic experience requires doses much higher than what is used here. See <a href="02-dmt-basics.html">DMT basics</a> for a fuller description of what to expect at aborting doses.</p>
 </details>
 
 <details>
 <summary>Is it legal?</summary>
-<p>DMT is illegal in most countries. This guide does not encourage breaking the law. We present the medical information so you can make informed decisions about your own health.</p>
+<p>DMT is illegal in most countries, including the United States, Canada, the United Kingdom, and most of Europe. This guide does not encourage breaking the law. It presents medical information so you can make informed decisions about your own health.</p>
+<p>If you choose to use DMT, be aware of the legal risks in your country. Harm reduction means understanding those risks alongside the medical ones.</p>
 </details>
 
 <details>
 <summary>Can I use it for every attack?</summary>
-<p>Yes. Unless you take MAOIs, DMT is cleared from your body within minutes. Patients report using it multiple times per day.</p>
+<p>Yes. Unless you take MAOIs, DMT clears from your body within minutes. There is no need to wait between attacks. Patients report using it multiple times per day during a cluster cycle without any accumulation of effects or loss of efficacy.</p>
+<p><strong>Exception:</strong> If you take MAOIs, DMT&rsquo;s effects are dramatically intensified and prolonged. See the <a href="03-safety.html">safety page</a> for details.</p>
 </details>
 
 <details>
 <summary>What if I&rsquo;m on medication?</summary>
-<p>You <strong>must</strong> check for drug interactions before trying DMT. This is not optional. Some combinations (especially lithium) are genuinely dangerous. See the <a href="03-safety.html#check-your-medications">drug interactions page</a> for a complete list.</p>
+<p>You <strong>must</strong> check for drug interactions before trying DMT. This is not optional. Some combinations &mdash; especially with lithium &mdash; are genuinely dangerous. Others require a conversation with your doctor before proceeding.</p>
+<p>The <a href="03-safety.html#check-your-medications">drug interactions table</a> on the safety page lists all the major categories: lithium, MAOIs, SSRIs/SNRIs, triptans, and others. Check every medication, supplement, and herbal remedy you take against that list.</p>
 </details>
 
 <details>
 <summary>Do I need someone with me?</summary>
-<p>For your very first time, yes. You need a sober <strong>sitter</strong> (someone who stays with you while you use it). A sitter is recommended for the first several attacks afterward, but once you&rsquo;re comfortable with the technique, aborting on your own is reasonable. The <a href="06-aborting-protocol.html">aborting protocol</a> has full details on sitters.</p>
+<p>For your very first time, yes &mdash; you need a sober <strong>sitter</strong> (someone who stays with you while you use it). A sitter is also recommended for your first several attacks afterward, until you are comfortable with the technique and know how your body responds.</p>
+<p>Once you have established that you tolerate it well and have mastered the protocol, aborting on your own is reasonable for most people. The <a href="06-aborting-protocol.html#your-sitter-what-they-need-to-know">aborting protocol page</a> has full details on what a sitter needs to know.</p>
 </details>
 
 <details>
 <summary>Will it show up on a drug test?</summary>
-<p>Standard workplace drug tests (5-panel, 10-panel) do not test for DMT. Only highly specialized tests can detect it, and DMT is cleared from your body within minutes of use. A routine drug screening will not flag it.</p>
+<p>Standard drug tests &mdash; the 5-panel and 10-panel tests used by most employers &mdash; do not test for DMT. Only highly specialized tests can detect it, and these are not used in routine drug screenings. A standard workplace or insurance drug test will not flag DMT.</p>
 </details>
 
 <details>
-<summary>Does the vapor smell? Will people around me notice?</summary>
-<p>DMT vapor has a noticeable smell. It&rsquo;s often described as floral, plasticky, or mothball-like. It&rsquo;s distinct enough that someone in the same room would likely notice. However, it dissipates within a few minutes, and it doesn&rsquo;t linger on clothes or furniture the way cigarette smoke does.</p>
+<summary>Does the vapor smell?</summary>
+<p>Yes, DMT vapor has a noticeable smell. It is often described as floral, plasticky, or mothball-like &mdash; distinct enough that someone in the same room would likely notice. However, it dissipates within a few minutes and does not linger on clothes or furniture the way cigarette smoke does.</p>
 </details>
 
 <details>
 <summary>How long until I can drive or go back to normal?</summary>
-<p>At aborting doses, most people feel back to normal within 20&ndash;30 minutes. To be safe, don&rsquo;t drive for at least 30 minutes after your last puff.</p>
+<p>At aborting doses, most people feel back to normal within 20&ndash;30 minutes. To be safe, do not drive for at least 30 minutes after your last puff.</p>
 <p><strong>Important exception:</strong> If you take MAOIs, DMT&rsquo;s effects are much stronger and can last 2&ndash;4 hours. In that case, wait significantly longer before driving or operating machinery.</p>
 </details>
 
 <details>
 <summary>What if it doesn&rsquo;t work for me?</summary>
-<p>If your first few attempts don&rsquo;t relieve the pain, try adjusting your protocol before giving up: experiment with voltage, inhaling technique, or the DMT-to-liquid ratio.</p>
-<p>The <a href="06-aborting-protocol.html">aborting protocol</a> has guidance on dialing in your settings.</p>
-<p>If DMT isn&rsquo;t effective for you, oxygen remains the top choice for aborting.</p>
+<p>If your first few attempts do not relieve the pain, try adjusting your protocol before giving up. Experiment with voltage settings, inhaling technique, or the DMT-to-liquid ratio in your pen. The <a href="06-aborting-protocol.html">aborting protocol page</a> has guidance on dialing in your settings.</p>
+<p>If DMT does not prove effective for you after several genuine attempts, <strong>high-flow oxygen</strong> remains the gold standard abortive for cluster headaches and is worth pursuing through your doctor.</p>
 </details>
 
 <details>
 <summary>Can I use DMT and oxygen together?</summary>
-<p>Yes. There is no known interaction between inhaled DMT and supplemental oxygen. Some patients use oxygen as their first-line abortive and switch to DMT when oxygen isn&rsquo;t available or isn&rsquo;t working fast enough.</p>
+<p>Yes. There is no known interaction between inhaled DMT and supplemental oxygen. Some patients use oxygen as their first-line abortive and switch to DMT when oxygen is not available or not working fast enough. Others use both simultaneously. Either approach is safe from an interaction standpoint.</p>
 </details>
 
 <details>
 <summary>Can I use it at work or in public?</summary>
-<p>The vape pen is small and discreet. It looks like a regular e-cigarette. At aborting doses, the effects are subtle enough that you could use it in a restroom or private space without anyone noticing your behavior.</p>
-<p>However, the vapor does have a <a href="#does-the-vapor-smell-will-people-around-me-notice">noticeable smell</a>, and there&rsquo;s the legal risk of carrying a controlled substance. Use your judgment.</p>
+<p>The vape pen is small and discreet &mdash; it looks like a regular e-cigarette. At aborting doses, the effects are subtle enough that you could use it in a restroom or private space without your behavior drawing attention.</p>
+<p>However, there are two practical concerns. First, the vapor has a noticeable smell (see above). Second, carrying a controlled substance carries legal risk. Use your judgment about your situation.</p>
 </details>
 
 <details>
 <summary>How do I explain this to my family or partner?</summary>
-<p>This can feel like a difficult conversation, especially because of the stigma around illegal substances.</p>
-<p>It may help to frame it the way it is: a medical tool you&rsquo;re using to manage severe pain, similar to how you&rsquo;d explain any other treatment. Show them this guide.</p>
-<p>If they&rsquo;re going to be your <a href="06-aborting-protocol.html#your-sitter-what-they-need-to-know">sitter</a>, the sitter section explains exactly what to expect and what to do.</p>
-<p>For tips on talking to your doctor, see the <a href="03-safety.html#check-your-medications">safety page</a>.</p>
+<p>This can feel like a difficult conversation, especially because of the stigma around illegal substances. It may help to frame it honestly: a medical tool you are using to manage severe pain, in the same way you would explain any other treatment.</p>
+<p>Consider showing them this guide. If they are going to be your sitter, the <a href="06-aborting-protocol.html#your-sitter-what-they-need-to-know">sitter section</a> explains exactly what to expect and what to do. For tips on talking to your doctor, see the <a href="03-safety.html#check-your-medications">safety page</a>.</p>
 </details>
 
 <details>
-<summary>What about psilocybin (magic mushrooms), LSD or 5-MeO-DALT?</summary>
-<p>You may have heard that psilocybin, LSD or 5-MeO-DALT can also help with cluster headaches. That&rsquo;s true. They all have shown promise for reducing the frequency of cluster cycles (a preventive effect).</p>
-<p>DMT is different: it&rsquo;s used to abort individual attacks as they happen.</p>
-<p>Some patients use both: psilocybin, LSD or 5-MeO-DALT to reduce how often cycles occur, and DMT to stop attacks when they break through. This guide focuses on DMT.</p>
+<summary>What about psilocybin, LSD, or 5-MeO-DALT?</summary>
+<p>You may have heard that psilocybin (magic mushrooms), LSD, and 5-MeO-DALT can also help with cluster headaches. That is true &mdash; they have all shown promise for <strong>reducing the frequency of cluster cycles</strong>, which is a preventive effect. They are used between cycles, not during attacks.</p>
+<p>DMT works differently: it is used to <strong>abort individual attacks as they happen</strong>. Some patients use both approaches &mdash; psilocybin, LSD, or 5-MeO-DALT to reduce how often cycles occur, and DMT to stop attacks when they break through. This guide focuses on DMT as an abortive.</p>
 </details>
 
 <div class="page-nav">
