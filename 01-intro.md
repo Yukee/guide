@@ -1,11 +1,12 @@
 # Using DMT to Abort Cluster Headache Attacks
-### A small inhalation of this substance could stop your attacks in seconds.
+## A few puffs from a vape pen could stop your attack in seconds.
 
-It acts almost instantly, wears off in minutes, and carries minimal health risks at the doses used (provided you first check for [drug interactions](03-safety.md)).
+Vaped DMT acts almost instantly, wears off in minutes and carries minimal health risks at the doses used (provided you first check for [drug interactions](03-safety.md)).
+It can be vaped with a standard, small vape pen.
 
-DMT is not a miracle cure. It's illegal in most countries, it's not FDA-approved for cluster headaches, and it won't work for everyone. But for a growing community of patients who have tried everything else, it has become an indispensable tool; sometimes the only thing that reliably stops the pain.
+DMT is not a miracle cure. It's illegal in most countries, it's not FDA-approved for cluster headaches, and it won't work for everyone. But for a growing community of patients, it has become an indispensable tool; sometimes the only thing that reliably stops the pain.
 
-This guide was written for you: someone in serious pain, probably unfamiliar with drugs, looking for clear and honest information.
+This guide was written for you: someone in serious pain, perhaps unfamiliar with drugs, looking for clear and comprehensive information.
 
 ---
 
@@ -16,7 +17,15 @@ Aborting means stopping an attack once it starts. Here's the procedure at a glan
 ![The abort at a glance - six panels: attack starts, grab your pen, puff, wait 30 seconds, repeat if needed, relief](images/illustration-abort-at-a-glance.jpg)
 *From attack to relief in under a minute.*
 
-You sit down, take a small puff from a vape pen (a small handheld device that heats the DMT into a vapor you inhale), and wait. Within moments, you feel a warm or buzzing sensation, and the pain stopping. If it doesn't, you wait 30 seconds and take one more puff. That's it. No bulky oxygen tank, no waiting for a triptan or oxygen to kick in.
+You sit down, take a small puff from a vape pen (a small handheld device that heats the DMT into a vapor you inhale), and wait. Within moments, you feel a warm or buzzing sensation, and the pain stopping.
+If the pain hasn't stopped after 30 seconds and you feel comfortable with DMT's effects, you can take another puff. 
+That's it. No bulky oxygen tank, no waiting for a triptan or oxygen to kick in.
+
+---
+
+## Hear from patients
+
+<!-- VIDEO CAROUSEL: 3-5 short clips (30-60s each) of cluster headache patients describing their experience using DMT to abort attacks. Horizontal scroll, autoplay-off, captions enabled. For now, let's use the John Fletcher video and a few of the text testimonials, including the patient headshots where available: https://clusterfree.org/testimonials -->
 
 ---
 
@@ -27,12 +36,6 @@ You sit down, take a small puff from a vape pen (a small handheld device that he
 3. **[FAQ](04-faq.md)**: Quick answers to the most common questions.
 4. **[Preparing Your Vape Pen](05-preparing-your-dmt-vape-pen.md)**: Everything you need to buy and how to set it up, from scratch.
 5. **[Aborting an Attack](06-aborting-protocol.md)**: The step-by-step protocol: how to inhale, how much to take, and what to expect.
-
----
-
-## Hear from patients
-
-<!-- VIDEO CAROUSEL: 3-5 short clips (30-60s each) of cluster headache patients describing their experience using DMT to abort attacks. Horizontal scroll, autoplay-off, captions enabled. For now, let's use the John Fletcher video and a few of the text testimonials, including the patient headshots where available: https://clusterfree.org/testimonials -->
 
 ---
 

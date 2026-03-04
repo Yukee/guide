@@ -4,7 +4,7 @@ This page covers how to use your DMT vape pen to stop a cluster headache attack,
 
 **Time needed:** The abort itself takes 1-5 minutes. You may feel mild effects for up to 20 minutes afterward.
 
-**If you've never taken DMT or similar substances before, that's completely fine.** The doses used here are small, much less than what recreational users take. 
+**If you've never taken DMT or similar substances before, that's completely fine.** The doses used here are small, much less than what recreational users typically take. 
 This page will walk you through exactly what to do, step by step.
 
 ---
@@ -13,10 +13,10 @@ This page will walk you through exactly what to do, step by step.
 
 Before you ever press the button on your pen, make sure you've completed every item on this list.
 
-- [ ] **Drug interactions checked.** If you take any medication, supplement, or herbal remedy, you've read the [safety page](03-safety.md#check-your-medications) and confirmed it's safe to combine with DMT. **If you take lithium, stop here: do not take DMT.**
+- [ ] **Drug interactions checked.** If you take any medication, supplement, or herbal remedy, you've read the [safety page](03-safety.md#check-your-medications) and confirmed it's safe to combine with DMT. **If you take lithium: do not take DMT.**
 - [ ] **Heart health considered.** DMT temporarily raises your heart rate and blood pressure, similar to climbing a flight of stairs quickly. If you have high blood pressure, a heart condition, or a history of stroke, talk to your doctor before trying DMT. Triptans (sumatriptan, rizatriptan, etc.) narrow your blood vessels, putting additional strain on your heart. We recommend waiting at least 24 hours after your last triptan dose before taking DMT.
 - [ ] **Sitter present for your first time.** Your very first use of DMT must be a practice session (not during an attack), with a sober person present. After you've practiced successfully, a sitter is recommended but not required for subsequent uses. See the [sitter section](#your-sitter-what-they-need-to-know) below.
-- [ ] **Vape pen loaded, charged, and tested.** You've followed the [preparation page](05-what-youll-need.md).
+- [ ] **Vape pen loaded, charged, and tested.** You've followed the [preparation page](05-preparing-your-dmt-vape-pen.md).
 - [ ] **Comfortable, familiar space.** You're somewhere you feel safe: your bedroom, living room, or another private, quiet place. Not in public, not driving, not operating machinery.
 - [ ] **Phone accessible.** In case of emergency, your phone (or your sitter's phone) should be within arm's reach.
 
@@ -70,7 +70,7 @@ As soon as you feel an attack coming on, this is what to do. The entire process 
 
 The key idea is simple: **take a small dose, wait, and see if the pain is gone. If not, take another. You do not need to take a large dose all at once.** Small puffs that you add one at a time let you use only as much DMT as you need.
 
-At first, you might need a couple puffs to abort your attack. Over time, you will find the best settings (vape temperature, how deep you inhale, etc.) to abort as quickly as possible without unnecessarily tripping.
+At first, you might need a couple puffs to abort your attack. Over time, you will find the best settings (vape voltage, how deep you inhale, etc.) to abort as quickly as possible without unnecessarily tripping.
 
 **You can use this protocol for every attack,** including multiple attacks in the same day. Unless you take MAOIs, DMT leaves your body within minutes, so there is no buildup from repeated use.
 
@@ -78,8 +78,8 @@ At first, you might need a couple puffs to abort your attack. Over time, you wil
 
 ### Step 1: Prepare
 
-- **Sit or lie down.** Do not stand. DMT can make you feel dizzy or heavy.
-- **Grab your pen.** Make sure it's on and set to the voltage that worked during your practice session (typically **2.5-3.5V** / 200-220°C). If the pen doesn't produce vapor, it may be clogged. Warm it in your hands or under your arm for a minute and try again.
+- **Sit or lie down.**
+- **Grab your pen.** Make sure it's on and set to the voltage that worked during your practice session (typically **2.5-3.5V** / 200-220°C). If the pen doesn't produce vapor, it may be clogged. Warm it under your armpit for a minute and try again. 
 - **Tell your sitter** (if present): "I'm going to use the pen now." Optionally tell them to log their observations too.
 
 ### Step 2: Take a puff
@@ -117,8 +117,8 @@ When you feel ready, take a moment to log the protocol you followed and the effe
 
 This section describes what most people experience at the low doses used for aborting attacks. **Every person is different;** you may feel all, some, or none of these.
 
-![What you will feel at aborting doses - body map showing warm tingling starting in chest, mild closed-eye visuals, feeling of heaviness, and sense of calm](images/illustration-what-youll-feel.jpg)
-*The most common sensations at aborting doses.*
+<!-- ![What you will feel at aborting doses - body map showing warm tingling starting in chest, mild closed-eye visuals, feeling of heaviness, and sense of calm](images/illustration-what-youll-feel.jpg)
+*The most common sensations at aborting doses.* -->
 
 ![Effects timeline - what to expect from 0 to 30 minutes](images/illustration-effects-timeline.jpg)
 *Approximate timeline of effects after inhaling DMT. Pain relief is typically sharp and sudden (within seconds), while the mild DMT side effects (body buzz, visual changes) fade gradually over 20-30 minutes.*
@@ -206,7 +206,7 @@ This log is invaluable. Over time, you'll dial in the exact settings that work f
 
 ### Pen not working?
 - No vapor: check it's turned on, try a higher voltage setting
-- Clogged: warm the pen in your hands or under your arm for a minute
+- Clogged: warm the pen under your armpit for a minute
 
 ### Sitter: call emergency services if
 - Seizure
@@ -219,7 +219,9 @@ This log is invaluable. Over time, you'll dial in the exact settings that work f
 
 ## Your sitter: what they need to know
 
-A sitter is a sober person who stays with you while you use DMT. For your very first time (the practice session), a sitter is required. After that, a sitter is recommended but not strictly necessary. See [If you're on your own](#if-youre-on-your-own) below.
+A sitter is a sober person who stays with you while you use DMT. For your very first time (the practice session), a sitter is required. 
+After that, a sitter is recommended but not strictly necessary, unless you're on MAOIs (see the [safety](03-safety.md) section). 
+See [If you're on your own](#if-youre-on-your-own) below.
 
 ### Give this page to your sitter
 
@@ -273,9 +275,9 @@ The effects wear off within 10-20 minutes. They should be completely back to nor
 
 These emergency situations are **extremely rare** at the doses used in this guide, but they are more likely if DMT is combined with certain medications (especially lithium or MAOIs). Make sure you've both checked the [safety page](03-safety.md#check-your-medications).
 
-![Sitter emergency flowchart - three-tier decision tree: Call 911 immediately for seizures, high fever, unconsciousness; Call doctor for agitation, dilated pupils, muscle twitching; Wait it out for anxiety, discomfort, mild effects](images/illustration-sitter-emergency-flowchart.jpg)
+<!-- ![Sitter emergency flowchart - three-tier decision tree: Call 911 immediately for seizures, high fever, unconsciousness; Call doctor for agitation, dilated pupils, muscle twitching; Wait it out for anxiety, discomfort, mild effects](images/illustration-sitter-emergency-flowchart.jpg)
 *Quick reference for sitters: how to assess symptoms and decide what to do.*
-
+ -->
 If they have taken MAOIs **stay with them for at least one hour** after they took DMT. MAOIs prolong the effect of DMT, and can delay the onset of serotonin syndrome.
 
 > **What to tell the dispatcher:** Be honest: tell them the person inhaled DMT and describe the symptoms. Medical professionals need accurate information to treat correctly. Their job is to help, not to judge.

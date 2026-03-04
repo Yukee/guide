@@ -22,17 +22,19 @@ Complete every item on this list before your first use of DMT.
 
 ## Drug Interactions at a Glance
 
-DMT acts on the brain's serotonin system. Serotonin is a chemical your brain uses to regulate mood, sleep, and pain. Many common medications also target this system. When two drugs affect serotonin at the same time, their effects can combine in unwanted ways.
+DMT acts on the brain's serotonin system. Serotonin is a chemical your brain uses to regulate mood, sleep, and pain. Many common medications also target this system. 
+When two or more drugs affect serotonin at the same time, their effects can combine in unwanted ways: namely, they can trigger a **serotonin syndrome**.
 
 Here's the quick summary:
 
 - **Lithium** is a hard stop: **do not take DMT** while on lithium (seizure risk).
-- **MAOIs** carry medium-high risk and require a doctor's involvement.
-- **SSRIs / SNRIs** need a doctor conversation. The risk is medium-low with a single medication, but it's not zero.
-- **Triptans** need a timing gap (at least 24 hours; frovatriptan: 5 days).
+- **Serotonergic** medications and drugs (substances targeting the serotonin system) require a doctor conversation. The two main categories are:
+  - **MAOIs**. They carry medium-high serotonin syndrome risk and require you to always have a sitter present when taking DMT.
+  - **SSRIs / SNRIs**. The serotonin syndrome risk is medium-low with a single medication in this category, but it's not zero.
+- **Triptans** need a timing gap (at least 24 hours; frovatriptan: 5 days) to minimize cardiovascular stress.
 - **Everything else:** check with your doctor.
 
-> The danger is not taking DMT while on these medications *per se*. It's doing so **without knowing about serotonin syndrome and what to do if it occurs**. If you take any serotonergic medication, the most important thing is to understand serotonin syndrome ([next section](#serotonin-syndrome-what-you-need-to-know)), know the signs, know what to do, and make sure your [sitter](06-aborting-protocol.md#your-sitter-what-they-need-to-know) knows too.
+> Serotonergic medications are very common. The danger is not taking DMT while on serotonergic medications *per se*. It's doing so **without knowing about serotonin syndrome and what to do if it occurs**. If you take any serotonergic medication, the most important thing is to understand serotonin syndrome ([next section](#serotonin-syndrome-what-you-need-to-know)), know the signs, know what to do, and make sure your [sitter](06-aborting-protocol.md#your-sitter-what-they-need-to-know) knows too.
 
 ![Drug interaction risk levels - visual summary showing lithium as a hard stop, MAOIs as medium-high risk, SSRIs and SNRIs as moderate risk, triptans as low-to-moderate risk, and other serotonergic drugs as variable risk](images/illustration-drug-interaction-risk.jpg)
 *Drug interaction risk levels at a glance.*
@@ -70,19 +72,17 @@ Serotonin syndrome happens when your brain is flooded with too much serotonin. I
 
 The risk increases with higher doses and more serotonergic drugs, but it's hard to predict in advance exactly which combination or dose will trigger it. That's why we recommend talking to your doctor, starting with low doses, and having a sitter.
 
-> **Normal DMT effects vs. serotonin syndrome:** A faster heartbeat, sweating, and dilated pupils are also normal effects of DMT. The key difference is **severity, combination and duration**. A faster heartbeat on its own is expected. But several of these symptoms together, especially if they're severe, or getting worse rather than fading. That's what distinguishes serotonin syndrome from normal DMT effects. When in doubt, call for help.
-
 ### Symptoms
 
-**Call emergency services immediately if you experience any of these severe symptoms:**
+**Call emergency services immediately if any of these severe symptoms occur:**
 
 - Seizure (uncontrolled shaking, loss of consciousness)
 - High fever (above 38.5°C / 101.3°F)
-- Loss of consciousness or fainting
+- Fainting
 - Severe muscle spasms, or muscle rigidity (your body feels locked up)
 - Uncontrollable side-to-side eye movements
 - Fast or irregular heartbeat combined with feeling very unwell
-- Any symptom that is rapidly getting worse
+- Any symptom (including the milder ones listed below) rapidly getting worse
 
 **Call your doctor if you experience these milder symptoms:**
 
@@ -90,14 +90,16 @@ The risk increases with higher doses and more serotonergic drugs, but it's hard 
 - Muscle twitching or jerking
 - Nausea, diarrhea
 
-> **If you're on MAOIs:** Stay with your sitter for at least one hour after taking DMT. MAOIs can delay the onset of serotonin syndrome. You might feel fine at first, then develop symptoms later.
+> **Normal DMT effects vs. serotonin syndrome:** A faster heartbeat, sweating, and dilated pupils are also normal effects of DMT. The key difference is **severity, combination and duration**. A faster heartbeat on its own is expected. But several of these symptoms together, especially if they're severe, or getting worse rather than fading are what distinguishes serotonin syndrome from normal DMT effects.
 
-### What to Do
+> **If you're on MAOIs:** Stay with your sitter for **at least one hour** after taking DMT. MAOIs can delay the onset of serotonin syndrome. You might feel fine at first, then develop symptoms later.
+
+<!-- ### If you suspect serotonin syndrome
 
 1. **Stop taking DMT** (and any other serotonergic drugs).
 2. **Assess severity** using the symptom lists above.
 3. **If severe or worsening:** Call emergency services immediately. Tell them you took DMT and list all your medications. Accurate information helps them treat you correctly.
-4. **If mild and stable:** Do not take more DMT and have your sitter stay with you until you've been cleared. Call your doctor if you feel unwell.
+4. **If mild and stable:** Do not take more DMT and have your sitter stay with you until you've been cleared. Call your doctor if you feel unwell. -->
 
 If you ever need emergency medical help after taking DMT, it's crucial that the medical team knows what you took. **Tell them you took DMT, and list every other medication.** Serotonin syndrome is treatable, but it needs to be correctly identified.
 
@@ -144,7 +146,8 @@ If you take an MAOI, you must talk to your doctor before attempting DMT. If your
 
 ### SSRIs and SNRIs
 
-SSRIs and SNRIs are the most commonly prescribed antidepressants. They work by increasing serotonin levels in the brain. When combined with DMT (which also activates serotonin receptors), the effects can stack.
+SSRIs and SNRIs are very commonly prescribed antidepressants. 
+They work by increasing serotonin levels in the brain. When combined with DMT (which also activates serotonin receptors), the effects can stack.
 
 The risk of serotonin syndrome from DMT combined with a single SSRI or SNRI is generally considered **low**, but it is not zero, especially if you're also taking other medications that affect serotonin.
 
@@ -204,7 +207,8 @@ At the low doses used for aborting attacks, DMT has mild psychological effects. 
 
 ### At Aborting Doses (5-10 mg)
 
-You might feel a warm buzz in your body, see gentle patterns with your eyes closed, or hear a faint hum. You will remain aware and in control. Fear or anxiety is possible but uncommon at these doses, and it **always passes within 10-20 minutes**.
+You might feel a warm buzz in your body, see visual patterns, or have a sense of heaviness or pressure. 
+You will remain aware and in control. Fear or anxiety is possible but uncommon at these doses, and it **always passes within 10-20 minutes**.
 
 An overwhelming or traumatic experience is very unlikely at aborting doses. The [aborting protocol](06-aborting-protocol.md) is specifically designed to prevent this: you take tiny amounts, one puff at a time, and stop as soon as the headache starts to ease. For a detailed description of what to expect physically, see [what you might feel](06-aborting-protocol.md#what-you-might-feel) on the aborting protocol page.
 
@@ -220,7 +224,7 @@ The aborting protocol makes accidentally taking a high dose unlikely. But if it 
 The scientific evidence points to a **safe psychological profile** for DMT:
 
 - **In clinical studies with healthy volunteers:** Recent meta-analyses found no cases of severe adverse events (hospitalization, psychosis, or lasting harm), either immediately after taking DMT, or in follow-up.
-- **In population studies of ayahuasca users:** Persistent psychotic problems were estimated at roughly 1 in 50,000. Similar rates were found for peyote (a different psychedelic).
+- **In population studies of ayahuasca users:** Persistent psychotic problems were estimated at roughly 1 in 50,000.
 - **Dose context:** Clinical safety studies often test doses far higher than the 5-10 mg typically needed to abort attacks.
 
 **Important exception:** If you have a **psychotic disorder** (such as schizophrenia or schizoaffective disorder) or a **close family history** (a parent or sibling) of one, exercise extreme caution. 

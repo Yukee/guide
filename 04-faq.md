@@ -4,7 +4,7 @@
 No. DMT is not addictive. It doesn't create cravings or physical dependence.
 
 **"Will I hallucinate?"**
-At the small doses used for aborting attacks, you will at most experience mild visual alterations, such as colors looking slightly different or seeing geometric patterns.
+At the small doses used for aborting attacks, you will at most experience mild visual alterations, such as colors looking different or seeing geometric patterns.
 
 **"Is it legal?"**
 DMT is illegal in most countries. This guide does not encourage breaking the law. We present the medical information so you can make informed decisions about your own health.
@@ -22,7 +22,7 @@ A sitter is recommended for the first several attacks afterward, but once you're
 The [aborting protocol](06-aborting-protocol.md) has full details on sitters.
 
 **"Will it show up on a drug test?"**
-Standard workplace drug tests (5-panel, 10-panel) do not test for DMT. Only highly specialized tests can detect it, and DMT is cleared from your body within minutes of use. A routine drug screening will not flag it.
+Standard drug tests (5-panel, 10-panel) do not test for DMT. Only highly specialized tests can detect it. A routine drug screening will not flag it.
 
 **"Does the vapor smell? Will people around me notice?"**
 DMT vapor has a noticeable smell.

@@ -4,7 +4,8 @@ Before you can use DMT to abort cluster headache attacks, you'll need to prepare
 
 **Time needed:** About 30 minutes of active work, plus 1 hour of waiting time.
 
-**If you've never used a vape before, don't worry.** It's simpler than it looks. You're essentially just dissolving a powder into a liquid and loading it into a small device. If you can make instant coffee, you can do this.
+**If you've never used a vape before, don't worry.** It's simpler than it looks. You're essentially just dissolving a powder into a liquid and loading it into a small device. 
+If you can cook a dish following a simple recipe, you can do this.
 
 ---
 
@@ -91,7 +92,7 @@ This is the main preparation step: dissolving DMT powder into vape juice so it c
 
 Place a piece of aluminum foil on your scale and zero it out (press the "tare" or "T" button so the scale reads 0.00 with the foil on it). Then carefully add DMT powder until the scale reads **1.00 g** (1 gram).
 
-> **Handling tip:** DMT powder won't make you trip through skin contact in these amounts, but you want the DMT in the bottle, not on your hands. Work in a calm spot without wind drafts. The powder is fine and can become airborne. If you get any on your skin, just wash with soap and water.
+> **Handling tip:** DMT powder won't make you trip through skin contact, but you want the DMT in the bottle, not on your hands. Work in a calm spot without wind drafts. The powder is fine and can become airborne.
 
 ![Step 1 - DMT powder on a digital scale, showing 1 gram weighed on aluminum foil](images/01-dmt-on-scale.jpg)
 *1 gram of DMT powder on a digital scale. The aluminum foil makes it easy to pour the powder afterward.*
@@ -194,7 +195,7 @@ This can happen if the pen gets cold, and it's completely normal. The DMT has ju
 **To fix it:**
 1. Put the cartridge into a small waterproof **zip-lock bag** (to protect it from water)
 2. Submerge the bag in a cup of **hot water** for about 5 minutes
-3. Take it out and give it a gentle shake
+3. Take it out and give it a shake
 4. The liquid should turn clear again. It's ready to use
 
 ### If the cartridge gets clogged
@@ -207,7 +208,7 @@ Sometimes DMT re-crystallizes right at the mouthpiece opening, blocking airflow.
 
 ### If you taste burning
 
-Turn the voltage **down**. A burnt taste means the temperature is too high and the DMT is being destroyed rather than vaporized. You want smooth, clean-tasting vapor.
+Turn the voltage down. A burnt taste means the temperature is too high and the DMT is being destroyed rather than vaporized. You want smooth, clean-tasting vapor.
 
 ---
 
