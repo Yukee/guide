@@ -74,6 +74,7 @@ After one to three puffs, most people feel some combination of:
 
 - A **warm, tingling sensation** spreading through the body, often called the "body buzz." It usually starts in the chest.
 - A feeling of **heaviness**, like gravity just increased.
+- **Feeling cold.** 
 - **Altered visual perceptions**, such as more vivid colors, sharper-looking edges of objects, or geometric patterns (especially with eyes closed).
 - Hearing **static or a high-pitched hum**.
 

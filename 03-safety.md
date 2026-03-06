@@ -90,7 +90,7 @@ The risk increases with higher doses and more serotonergic drugs, but it's hard 
 - Muscle twitching or jerking
 - Nausea, diarrhea
 
-> **Normal DMT effects vs. serotonin syndrome:** A faster heartbeat, sweating, and dilated pupils are also normal effects of DMT. The key difference is **severity, combination and duration**. A faster heartbeat on its own is expected. But several of these symptoms together, especially if they're severe, or getting worse rather than fading are what distinguishes serotonin syndrome from normal DMT effects.
+> **Normal DMT effects vs. serotonin syndrome:** A faster heartbeat, sweating, feeling cold, and dilated pupils are also normal effects of DMT. The key difference is **severity, combination and duration**. A faster heartbeat on its own is expected. But several of these symptoms together, especially if they're severe, or getting worse rather than fading are what distinguishes serotonin syndrome from normal DMT effects.
 
 > **If you're on MAOIs:** Stay with your sitter for **at least one hour** after taking DMT. MAOIs can delay the onset of serotonin syndrome. You might feel fine at first, then develop symptoms later.
 
@@ -207,7 +207,7 @@ At the low doses used for aborting attacks, DMT has mild psychological effects. 
 
 ### At Aborting Doses (5-10 mg)
 
-You might feel a warm buzz in your body, see visual patterns, or have a sense of heaviness or pressure. 
+You might feel a warm buzz in your body, feel cold, see visual patterns, or have a sense of heaviness or pressure.
 You will remain aware and in control. Fear or anxiety is possible but uncommon at these doses, and it **always passes within 10-20 minutes**.
 
 An overwhelming or traumatic experience is very unlikely at aborting doses. The [aborting protocol](06-aborting-protocol.md) is specifically designed to prevent this: you take tiny amounts, one puff at a time, and stop as soon as the headache starts to ease. For a detailed description of what to expect physically, see [what you might feel](06-aborting-protocol.md#what-you-might-feel) on the aborting protocol page.

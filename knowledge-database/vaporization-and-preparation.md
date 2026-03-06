@@ -14,7 +14,8 @@ Most vape components use a universal screw-on fitting called "510 thread," makin
 Community consensus and some technical sources recommend ceramic coils over metal coils. Ceramic coils "heat evenly and minimize combustion, preserving the purity and potency of the vapor, resulting in a smoother inhale with better flavor and fewer harsh byproducts" [1][3]. Metal coils are more prone to uneven heating, which can burn DMT rather than vaporizing it.
 
 ### Voltage/temperature settings
-DMT vaporizes at approximately 160-180°C (320-356°F) [1]. Community guidance suggests:
+DMT vaporizes at approximately 160-180°C (320-356°F) [1]. 
+Community guidance suggests:
 - Most users find the right setting "between 2.5-3.5 volts" on variable-voltage batteries [1][2]
 - Lower voltage preserves the compound and produces smoother vapor
 - Higher voltage produces denser clouds but risks burning
@@ -33,12 +34,14 @@ Vape juice (e-liquid) is made from two base ingredients [4][5]:
 Both are widely used in food, pharmaceutical, and cosmetic products. However, when heated to high temperatures, PG and VG can break down into formaldehyde and acetaldehyde — hence the importance of proper temperature settings [5].
 
 ### Recommended PG/VG ratio
-A 50/50 PG/VG blend is commonly recommended for DMT vape juice as a balanced choice [2]. Some community sources prefer a higher PG ratio (70/30 PG/VG or even pure PG) because "DMT freebase crystals dissolve easily and cleanly into PG" and a PG-dominant blend "maximizing dissolution and minimizing the chance of the DMT crystallizing inside the tank" [6][7].
+Some community sources prefer a higher PG ratio (70/30 PG/VG or even pure PG) because "DMT freebase crystals dissolve easily and cleanly into PG" and a PG-dominant blend "maximizing dissolution and minimizing the chance of the DMT crystallizing inside the tank" [6][7].
 
 ## Mixing DMT Vape Liquid
 
 ### Concentration ratio
-The guide recommends a 1:3 ratio (1 g DMT per 3 ml vape juice), which is approximately 333 mg/ml. Community sources indicate that concentrations below 200 mg/ml are stable and unlikely to recrystallize, while concentrations above 250 mg/ml have higher recrystallization risk [6][7]. Higher concentrations (up to 1:1 or 1000 mg/ml) are used for breakthrough-dose vaping but are more prone to clogging and are unnecessary for aborting doses.
+The guide recommends a 1:3 ratio (1 g DMT per 3 ml vape juice), which is approximately 333 mg/ml.
+Community sources indicate that concentrations below 200 mg/ml are stable and unlikely to recrystallize, while concentrations above 250 mg/ml have higher recrystallization risk [6][7]. 
+Higher concentrations (up to 1:1 or 1000 mg/ml) are used for breakthrough-dose vaping but are more prone to clogging and are unnecessary for aborting doses — community reports indicate that as little as 3 mg of vaporized DMT can abort a cluster headache attack within seconds [10][11], so even modest concentrations deliver far more than needed per puff.
 
 ### Dissolution process
 DMT crystals do not dissolve readily at room temperature. Community guides recommend a hot water bath: "place the glass vial into a small pot of water on a stove and heat the water to a temperature that is very warm, but not boiling" [6][7]. The heat temporarily lowers the viscosity of the solvent and helps the crystals break down.
@@ -83,3 +86,5 @@ The information in this entry draws primarily from harm reduction forums (DMT-Ne
 7. DMT-Nexus. "Dissolving DMT into PG/VG." https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=91362
 8. Wikipedia. "Dimethyltryptamine." https://en.wikipedia.org/wiki/Dimethyltryptamine
 9. Lladó-Pelfort L et al. "Safety and tolerability of inhaled N,N-Dimethyltryptamine (BMND01 candidate): A phase I clinical trial." *European Neuropsychopharmacology*, 2024. https://pubmed.ncbi.nlm.nih.gov/38141403/
+10. Gómez Emilsson A. "Emerging evidence on treating cluster headaches with DMT." *Effective Altruism Forum*, 2022. https://forum.effectivealtruism.org/posts/x8P8EGnujSZm6fyMH/emerging-evidence-on-treating-cluster-headaches-with-dmt
+11. Gómez Emilsson A. "Treating Cluster Headaches Using N,N-DMT and Other Tryptamines." *Qualia Computing*, 2019. https://qualiacomputing.com/2019/08/05/treating-cluster-headaches-using-nn-dmt-and-other-tryptamines/

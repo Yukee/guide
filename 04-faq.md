@@ -33,7 +33,9 @@ At aborting doses, most people feel back to normal within 20-30 minutes. To be s
 **Important exception:** If you take MAOIs, DMT's effects are much stronger and can last 2-4 hours. In that case, wait significantly longer before driving or operating machinery.
 
 **"What if it doesn't work for me?"**
-If your first few attempts don't relieve the pain, try adjusting your protocol before giving up: experiment with voltage, inhaling technique, or the DMT-to-liquid ratio. 
+If your first few attempts don't relieve the pain, don’t give up yet. 
+It might take time to find the protocol that works for you. 
+Try adjusting your protocol: experiment with voltage, inhaling technique, number of puffs you take, or the DMT-to-liquid ratio
 The [aborting protocol](06-aborting-protocol.md) has guidance on dialing in your settings. 
 If DMT isn't effective for you, oxygen remains the top choice for aborting.
 
