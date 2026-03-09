@@ -87,6 +87,39 @@ The relevant variable for recrystallization is **mg of DMT per ml of PG** (not p
 
 This is why experienced users recommend pure PG or high-PG blends for concentrated DMT solutions.
 
+## Vaporization Behavior
+
+When DMT is vaporized from a PG (or PG/VG) solution in a vape cartridge, the physical process is fundamentally different from vaporizing pure DMT crystals. Understanding this difference explains why the choice of carrier liquid affects not just solubility and recrystallization, but also how efficiently DMT is delivered and what byproducts are produced.
+
+### Pure DMT crystals vs. DMT in solution
+
+**Pure crystal DMT** melts at 57–58°C and begins producing visible fumes around 100°C. Effective vaporization occurs at 160–180°C at atmospheric pressure [11][12]. (The commonly cited boiling point of ~147°C is measured under vacuum at 10 mmHg — the true atmospheric boiling point is estimated at ~280°C, but DMT produces substantial vapor well below that from thin films and heated surfaces [12].)
+
+**DMT dissolved in PG** vaporizes by a different mechanism. PG boils at approximately 188°C [13]. When the coil heats the liquid, PG boils and forms an aerosol of submicron droplets — and the dissolved DMT is carried within those droplets. DMT does not need to independently reach its own vaporization temperature; it rides along in the PG aerosol. This is the same delivery mechanism used for nicotine in standard e-cigarettes [13].
+
+Because the carrier liquid must boil to generate the aerosol, the required coil temperature is determined primarily by the boiling point of the carrier — not by the vaporization point of DMT itself.
+
+### Boiling points of PG, VG, and blends
+
+VG has a much higher boiling point than PG. Jensen et al. (2018) measured the boiling points of PG/VG mixtures [13]:
+
+| Carrier liquid | Boiling point |
+|---|---|
+| Pure PG | ~188°C (370°F) |
+| 50/50 PG/VG | ~208°C (406°F) |
+| 25/75 PG/VG | ~231°C (448°F) |
+| Pure VG | ~287°C (549°F) |
+
+Adding VG to the carrier liquid raises the temperature the coil must reach to generate aerosol. A 50/50 blend requires about 20°C more heat than pure PG; a VG-heavy blend requires over 40°C more.
+
+### Why this matters
+
+Higher coil temperatures mean more thermal decomposition of the carrier liquid itself. Both PG and VG break down into toxic aldehydes — formaldehyde, acetaldehyde, and acrolein — when heated, and this decomposition accelerates at higher temperatures [13][14]. A pure PG carrier boils at a lower temperature, producing fewer decomposition byproducts than a PG/VG blend carrying the same amount of DMT.
+
+This provides a third argument for pure PG or high-PG carriers, alongside solubility (DMT dissolves well in PG, poorly in VG) and recrystallization (VG reduces the concentration threshold at which crystals form). For cluster headache patients taking just 1–2 short puffs to abort an attack, the "smoother vapor" benefit of VG is minimal, while the thermal cost — higher temperatures and more decomposition byproducts — is real.
+
+For specific voltage and temperature settings, see [vaporization-and-preparation.md](vaporization-and-preparation.md).
+
 ## When DMT Won't Dissolve at All
 
 Some users report that their DMT will not dissolve in PG even at low concentrations and with heat. Community diagnosis points to the DMT material itself rather than the PG:
@@ -124,3 +157,7 @@ The claim that "1 ml of PG can dissolve 1 g DMT" appears to refer to dissolution
 8. DMT-Nexus Forum. "DMT solubility in Propylene Glycol (PG)." Users The Neural, fastfred, Vodsel. https://forum.dmt-nexus.me/threads/dmt-solubility-in-propylene-glycol-pg.337114/ (same thread as [7])
 9. DMT-Nexus Forum. "Vape cartridge solution." User KegzTand, moderator Varallo. https://forum.dmt-nexus.me/threads/vape-cartridge-solution.370786/
 10. DMT-Nexus Forum. "The Essential DMT Guide. Sec. 6: Smoking." User some one. https://www.dmt-nexus.me/forum/default.aspx?g=posts&m=416950&#post416950
+11. DMT-Nexus Forum. "Vaporization Temperature" and "A guide to vaporizing DMT electronically." Community reports on effective vaporization temperatures. https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=94527 and https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=63439
+12. PubChem. "N,N-Dimethyltryptamine." CID 6089. Physical properties including boiling point data at various pressures. https://pubchem.ncbi.nlm.nih.gov/compound/N_N-Dimethyltryptamine
+13. Jensen RP et al. "Vapor-Phase Profiles and Toxicology from Electronic Cigarette Aerosols." *Environmental Health Perspectives*, 2018. Includes measured boiling points of PG, VG, and PG/VG mixtures. (See also: NCBI Bookshelf, "Toxicology of E-Cigarette Constituents," *Public Health Consequences of E-Cigarettes*. https://www.ncbi.nlm.nih.gov/books/NBK507184/)
+14. Sleiman M et al. "Emissions from Electronic Cigarettes: Key Parameters Affecting the Release of Harmful Chemicals." *Environmental Science & Technology*, 2016. Characterization of aldehyde formation from PG/VG thermal decomposition.
