@@ -1,8 +1,8 @@
 # Open questions
-## Recrystallization
-* Is the relevant recrystallization variable the mass of DMT per volume PG?
-  * Subquestion: Does DMT dissolve exclusively in PG, or also in VG?
-  * Subquestion: Does it matter if there's 
+## Recrystallization — answered in [pg-vg-and-recrystallization.md](pg-vg-and-recrystallization.md)
+* ~~Is the relevant recrystallization variable the mass of DMT per volume PG?~~ Yes. Key variable is mg DMT per ml PG. <200 mg/ml stable, >250 risky.
+  * ~~Does DMT dissolve exclusively in PG, or also in VG?~~ Poorly/not at all in VG. PG is the solvent.
+  * ~~Does it matter if there's VG?~~ Yes — VG reduces effective solubility, lowering the recrystallization threshold.
 ## Vaping health risks
 * Health risk of heating PG and/or VG too much?
 ## Preparation
