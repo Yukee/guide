@@ -41,7 +41,7 @@ Here's how it compares to what you might already be using:
 
 At the low doses used for aborting attacks, DMT is generally **low-risk**. Here are the key facts:
 
-- **Not addictive.** There is no scientific evidence for DMT causing physical dependence or cravings. Like other classic psychedelics such as LSD and psilocybin, DMT is generally considered to have no potential for addiction.
+- **Not physically addictive.** There is no scientific evidence for DMT causing physical dependence or cravings.
 - **No tolerance buildup.** Patients report using DMT repeatedly without it becoming less effective.
 - **Not toxic.** Unlike alcohol or many medications, DMT isn't taxing for the body.
 - **Short-acting.** Effects usually fade within 10-20 minutes.

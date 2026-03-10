@@ -1,7 +1,8 @@
 # Frequently asked questions
 
 **"Will I get addicted?"**
-No. DMT is not addictive. It doesn't create cravings or physical dependence.
+DMT is not physically addictive. 
+It doesn't create cravings or physical dependence.
 
 **"Will I hallucinate?"**
 At the small doses used for aborting attacks, you will at most experience mild visual alterations, such as colors looking different or seeing geometric patterns.
