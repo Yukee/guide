@@ -214,6 +214,22 @@ The **90 Tagessätze threshold** is critical: a fine of 90 Tagessätze or less i
 
 For a defendant earning a moderate income (e.g., €60/day net), 60 Tagessätze would mean a total fine of €3,600. At 90 Tagessätze, it would be €5,400.
 
+### If below the "nicht geringe Menge" threshold: § 29 BtMG outcomes
+
+When the DMT quantity stays below 3.6g, the offense falls under § 29 BtMG (general narcotics offenses), which carries fines or imprisonment up to 5 years. The 2006 Destatis data (old federal states) provides the most detailed published breakdown of § 29-specific outcomes [32]:
+
+| Outcome | Number | Percentage |
+|---------|--------|-----------|
+| **Fine only** | 25,278 | **76.1%** |
+| **Custodial sentence (total)** | 7,952 | 23.9% |
+| — suspended on probation | 5,541 | 69.7% of custodial (**16.7% of all**) |
+| — actual imprisonment | ~2,411 | 30.3% of custodial (**~7.3% of all**) |
+| **Total convicted** | 33,230 | 100% |
+
+These figures cover all substances and all § 29 offense types (acquisition, possession, facilitating use, etc.) — not DMT specifically. Cannabis cases dominate. Still, the pattern is clear: **more than three-quarters of § 29 convictions result in a fine, not imprisonment.** Of the minority who receive a custodial sentence, roughly 70% are suspended on probation. Only about 1 in 14 convicted defendants actually goes to prison — and those are disproportionately repeat offenders or dealers charged under the catch-all § 29 provisions rather than personal-use possessors.
+
+For a first-time offender convicted of personal-use acquisition of a small quantity, the typical outcome is a **Strafbefehl** (penalty order, see above) imposing a fine of 30–90 Tagessätze. Actual imprisonment under § 29 for a first-time, personal-use MHRB case with no aggravating factors would be exceptional.
+
 ### If the "nicht geringe Menge" threshold (3.6g DMT) is exceeded
 
 When quantities exceed the threshold, the charge escalates from § 29 BtMG to § 29a BtMG, with a mandatory minimum of 1 year imprisonment. The sentencing outcomes change dramatically compared to § 29 cases.
