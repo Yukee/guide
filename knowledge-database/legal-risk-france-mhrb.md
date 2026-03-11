@@ -2,7 +2,7 @@
 
 This entry analyzes the legal risk of a specific scenario: a French cluster headache patient orders Mimosa hostilis root bark (MHRB) from a Netherlands-based online shop. Unlike Germany, where MHRB exists in a legal gray area because only DMT (not the plant) is scheduled, **France explicitly banned Mimosa hostilis by name in 2005**. There is no "dyeing defense," no intent-based loophole, and no ambiguity: possessing MHRB is a criminal offense regardless of stated purpose. The practical question is not *whether* it is illegal, but *how severely* the offense will be treated — and here, French law offers a wide range of outcomes, from a €200 fixed fine to a theoretical maximum of 10 years' imprisonment, depending primarily on whether the offense is classified as personal use or acquisition/détention for supply.
 
-For the international and US-focused legal context, see [legal-status-and-detection.md](legal-status-and-detection.md). For the German-specific analysis, see [legal-risk-germany-mhrb.md](legal-risk-germany-mhrb.md).
+For the international and US-focused legal context, see [legal-status-and-detection.md](legal-status-and-detection.md). For the German-specific analysis, see [legal-risk-germany-mhrb.md](legal-risk-germany-mhrb.md). For the Austrian-specific analysis, see [legal-risk-austria-mhrb.md](legal-risk-austria-mhrb.md). For the UK-specific analysis, see [legal-risk-uk-mhrb.md](legal-risk-uk-mhrb.md).
 
 ## French Legal Framework
 

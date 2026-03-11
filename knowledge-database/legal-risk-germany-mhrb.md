@@ -2,7 +2,7 @@
 
 This entry analyzes the legal risk of a specific scenario: a German cluster headache patient orders Mimosa hostilis root bark (MHRB) from a Netherlands-based online shop, with the stated purpose of dyeing clothes. This scenario is relevant because MHRB is widely available from Dutch smartshops and is one of the most accessible sources of DMT for self-treatment. The bottom line: ordering MHRB into Germany carries real criminal risk, but enforcement outcomes vary dramatically depending on quantity, circumstances, and the buyer's ability to credibly demonstrate non-drug intent. Multiple German courts have acquitted defendants who claimed dyeing purposes — but those acquittals came only after months-long criminal investigations.
 
-For the international and US-focused legal context, see [legal-status-and-detection.md](legal-status-and-detection.md).
+For the international and US-focused legal context, see [legal-status-and-detection.md](legal-status-and-detection.md). For the French-specific analysis, see [legal-risk-france-mhrb.md](legal-risk-france-mhrb.md). For the Austrian-specific analysis, see [legal-risk-austria-mhrb.md](legal-risk-austria-mhrb.md). For the UK-specific analysis, see [legal-risk-uk-mhrb.md](legal-risk-uk-mhrb.md).
 
 ## German Legal Framework
 
