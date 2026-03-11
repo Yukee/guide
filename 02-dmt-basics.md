@@ -33,7 +33,7 @@ Many cluster headache patients are reporting that inhaling a small amount of DMT
 Here's how it compares to what you might already be using:
 
 ![Visual comparison of three cluster headache treatments: sumatriptan injection, high-flow oxygen, and inhaled DMT](images/illustration-comparison-table.jpg)
-*Side-by-side comparison of the three main options for aborting cluster headache attacks.*
+*Side-by-side comparison of the three main options for aborting cluster headache attacks. High-flow oxygen is the gold-standard legal abortive — if you have access, it's a proven option on its own or alongside DMT.*
 
 ---
 

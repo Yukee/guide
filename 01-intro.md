@@ -2,11 +2,13 @@
 ## A few puffs from a vape pen could stop your attack in seconds.
 
 Vaped DMT acts almost instantly, wears off in minutes and carries minimal health risks at the doses used (provided you first check for [drug interactions](03-safety.md)).
-It can be vaped with a standard, small vape pen.
+It can be vaped with a standard vape pen, typically small enough to fit in your pocket.
 
-DMT is not a miracle cure. It's illegal in most countries, it's not FDA-approved for cluster headaches, and it won't work for everyone. But for a growing community of patients, it has become an indispensable tool; sometimes the only thing that reliably stops the pain.
+For a growing community of patients, DMT has become an indispensable tool; sometimes the only thing that reliably stops the pain.
+This guide was written for you: someone in serious pain, perhaps unfamiliar with DMT, looking for clear and comprehensive information.
 
-This guide was written for you: someone in serious pain, perhaps unfamiliar with drugs, looking for clear and comprehensive information.
+DMT isn't a miracle cure — it's illegal in most countries, and it won't work for everyone.
+Oxygen, while bulky and pricey, is the gold-standard legal abortive; many patients use it on its own or alongside DMT. Check out our oxygen guide (TBD).
 
 ---
 
@@ -18,11 +20,11 @@ Aborting means stopping an attack once it starts. Here's the procedure at a glan
 *From attack to relief in under a minute.*
 
 You sit down, take a puff from a vape pen (a small handheld device that heats the DMT into a vapor you inhale), and hold it in for 15+ seconds before exhaling.
-If the first puff worked, you will notice it almost immediately.
-Within seconds, the attack will stop.
+If the first puff works, you will notice it almost immediately.
+Within seconds, the pain will have stopped.
 If the pain hasn't stopped after 30 seconds, you can take another puff and hold it in again. 
-That's it. 
-No bulky oxygen tank, no waiting for a triptan or oxygen to kick in.
+
+Because each puff is small and fast-acting, you control the dose: you take only what you need to stop the pain, nothing more.
 
 ---
 
