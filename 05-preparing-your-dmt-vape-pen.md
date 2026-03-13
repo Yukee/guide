@@ -1,33 +1,43 @@
 # Preparing Your DMT Vape Pen
 
-Before you can use DMT to abort cluster headache attacks, you'll need to prepare a vape pen loaded with DMT liquid. This page walks you through everything, from buying the equipment to having a loaded pen ready to use.
+Before you can use DMT to abort cluster headache attacks, you'll need a vape pen loaded with DMT liquid. This page walks you through everything, from buying the equipment to having a loaded pen ready to use.
 
-**Time needed:** About 30 minutes of active work, plus 1 hour of waiting time.
+**Time needed:** About 10 minutes of active work, plus 30 minutes of waiting time for the coil to soak.
 
-**If you've never used a vape before, don't worry.** It's simpler than it looks. You're essentially just dissolving a powder into a liquid and loading it into a small device. 
-If you can cook a dish following a simple recipe, you can do this.
+**If you've never used a vape before, don't worry.** It's simpler than it looks. You're essentially just melting a powder into a liquid and loading it into a small device. If you can cook a dish following a simple recipe, you can do this.
+
+---
+
+## Your options
+
+There are three ways to get a DMT vape pen ready:
+
+- **Option A: Buy a disposable pen or pre-filled cartridge.** These are ready to use out of the box — no mixing required. A disposable pen is a complete device. A pre-filled cartridge screws onto any 510-thread battery (see item 1 below).
+  - Disposable pens and pre-filled cartridges are often made for recreational use, so the DMT concentration may be higher than you need for aborting a cluster headache. When in doubt, start with a very small puff and work up (the dosing chapter explains how).
+
+- **Option B: Battery + cartridge, fill it yourself (recommended if mixing your own).** Buy a small pen-style battery and a separate cartridge. You mix the DMT liquid yourself (explained below) and fill the cartridge.
+
+- **Option C: Complete kit.** Buy an all-in-one device like the [Coolfire Z60](https://www.innokin.com/coolfire-z60), which comes with a battery, a built-in tank, and a coil: everything except the liquid. You fill the tank yourself. These are bulkier but often have more battery life and an easy-to-read screen.
+
+Your device needs to have **variable voltage**.
+This allows you to adjust the temperature to optimally vaporize DMT (see [Aborting Protocol](06-aborting-protocol)).
+
+The rest of this page walks you through Options B and C: mixing the liquid and filling your device. If you bought a disposable pen or pre-filled cartridge (Option A), you can skip ahead to the [Aborting Protocol](06-aborting-protocol).
 
 ---
 
 ## Shopping list
 
-You need six things. Most can be ordered online and arrive within a few days. Everything except the DMT is standard, legal vaping equipment. You don't need to mention DMT when buying. Vape shops (online or in-person), Amazon, and eBay all carry these items.
+You need seven things. Most can be ordered online and arrive within a few days. Everything except the DMT is standard, legal vaping equipment. You don't need to mention DMT when buying. Vape shops (online or in-person), Amazon, and eBay all carry these items.
 
-![Everything you need - the six items laid out and labeled](images/illustration-equipment-flat-lay.jpg)
-*All six items you'll need to buy, at a glance. Details on each one below.*
+![Everything you need - the items laid out and labeled](images/illustration-equipment-flat-lay.jpg)
+*All the items you'll need to buy, at a glance. Details on each one below.*
 
-There are two ways to set up your vape pen:
-
-- **Option A: Battery + cartridge (recommended).** Buy a small pen-style battery and a separate cartridge. You fill the cartridge yourself with DMT liquid (explained below), or buy a cartridge pre-filled with DMT liquid. 
-- **Option B: Complete kit.** Buy an all-in-one device like the [Coolfire Z60](https://www.innokin.com/coolfire-z60), which comes with a battery, a built-in tank, and a coil: everything except the liquid. You fill the tank yourself. These are bulkier but have more battery life and an easy-to-read screen. Some patients prefer these.
-
-In either case, your device needs to have a temperature control. This is explained below.
-
-The rest of this guide works with either option. The instructions below cover Option A in detail; if you're using a complete kit, the mixing steps are identical: you just fill your kit's tank instead of a cartridge.
+The instructions below cover Option B in detail; if you're using a complete kit (Option C), the mixing steps are identical — you just fill your kit's tank instead of a cartridge.
 
 ### 1. Vape pen battery (~$25-50)
 
-*Skip this if you're buying a complete kit (Option B). It comes with a battery.*
+*Skip this if you're buying a complete kit (Option C). It comes with a battery.*
 
 **What it is:** The bottom half of your vape pen: a small rechargeable battery with a button and a charging port.
 
@@ -41,7 +51,7 @@ The rest of this guide works with either option. The instructions below cover Op
 
 ### 2. Ceramic coil cartridge (~$5-15)
 
-*Skip this if you're buying a complete kit (Option B). It comes with a tank and coil.*
+*Skip this if you're buying a complete kit (Option C). It comes with a tank and coil.*
 
 **What it is:** The top half of your vape pen: a small transparent tank that holds the liquid, with a built-in heating element (called a "coil") at the bottom.
 
@@ -50,11 +60,17 @@ The rest of this guide works with either option. The instructions below cover Op
 ![Vape pen anatomy - exploded view showing mouthpiece, cartridge/tank, 510 thread connection, ceramic coil, button, and battery](images/illustration-vape-anatomy.jpg)
 *The parts of a vape pen. The cartridge screws onto the battery via a standard 510 thread connection.*
 
-### 3. Nicotine-free vape juice (~$5-10)
+### 3. Propylene glycol (PG) (~$5-10)
 
-**What it is:** A flavored liquid that you'll use as a base to dissolve the DMT into. It's the same liquid that regular vapers use, but **without nicotine** (the label should say "0mg," meaning zero milligrams of nicotine).
+**What it is:** A clear, odorless liquid used as the base to dissolve the DMT into. It's the same liquid used in vape juice and fog machines — widely available at vape shops and online.
 
-**What to look for:** Vape juice is made from two ingredients: propylene glycol (PG) and vegetable glycerin (VG). Get a bottle labeled **50/50** (meaning half of each). This ratio dissolves DMT well and produces smooth vapor. The flavor doesn't matter; pick whatever you like.
+**What to look for:** Get a bottle of **pure PG** (100% propylene glycol), sometimes labeled "PG base" or "PG carrier liquid." DMT dissolves well in PG but poorly in vegetable glycerin (VG), so pure PG gives you the most reliable results — no recrystallization, no clogs. Vape shops sell PG in small bottles (typically 100-250 ml); you only need a few ml per batch.
+
+> **Can I use PG/VG blend instead?** Yes — a **70/30** or **80/20 PG/VG** blend also works. 
+> * High PG blends are typically hard to find in stores, so you will likely need to buy PG and VG separately and mix them yourself. 
+> * VG makes the vapor smoother but it doesn't dissolve DMT, so it increases the risk of recrystallization at higher concentrations. 
+> * VG increases the vaporization temperature of the DMT liquid (so, you might need to increase your pen voltage). 
+> * If using a ready-made PG/VG blend, make sure it's **nicotine-free** (labeled "0mg").
 
 ### 4. DMT powder (~varies)
 
@@ -66,139 +82,110 @@ The rest of this guide works with either option. The instructions below cover Op
 
 **What to look for:** Any digital scale that reads to 0.01g (sometimes labeled "0.01g precision" or "centigram scale"). They're about the size of a smartphone. Commonly sold as jewelry scales or kitchen precision scales.
 
-### 6. Small mixing bottle (~$1-5)
+### 6. Heat-resistant glass container (~$5-10)
 
-**What it is:** A small empty bottle (about 10 ml) to mix the DMT and vape juice in. A small glass bottle with a dropper (a squeeze-top that lets you dispense liquid drop by drop) works well. 
-You can also use a small empty vape juice bottle.
+**What it is:** A small glass container to mix the DMT and PG in. You'll place this in a hot water bath, so it needs to handle heat.
 
-**What to look for:** It should be sealable (screw cap or dropper top) and heat-resistant. Glass is ideal. The bottle in our photos is a plastic dropper bottle, which also works fine.
+**What to look for:** A small glass beaker (100-250 ml), a Pyrex measuring cup, or a small glass jar all work well. The opening should be wide enough to stir in comfortably. Avoid plastic: glass holds up better to heat and doesn't react with the DMT liquid.
+
+### 7. Syringe (~$1-3)
+
+**What it is:** A small syringe (without a needle) for transferring the finished liquid into your cartridge.
+
+**What to look for:** A 1 ml or 3 ml syringe with a **blunt tip** (no sharp needle). These are sold at pharmacies (ask for an "oral dosing syringe") and online. A blunt-tip syringe makes it easy to fill the narrow cartridge opening without spilling.
 
 ### You'll also need (from around the house)
 
 - A **kettle** or way to heat water
-- A **mug** or small bowl to hold the hot water
-- **Clear tape** or cling film (to waterproof the bottle)
-- A piece of **aluminum foil** (for weighing DMT powder)
-- A piece of **paper** rolled into a funnel (for pouring powder)
-- (Optional) In case you prepare more DMT liquid that can fit your cartridge: A **glass bottle** that seals tightly, for DMT liquid storage.
+- A **bowl, pot or any other container** large enough for the glass container to sit in hot water
+- A piece of **paper** (to make a funnel for pouring DMT powder)
+- A **glass rod or a metal tool** (for stirring)
 
 ---
 
-## Mixing the vape juice (step by step)
+## Mixing the DMT liquid (step by step)
 
-This is the main preparation step: dissolving DMT powder into vape juice so it can be vaporized. We're using the **bottle method**: you mix everything in a small bottle using hot water to help the powder dissolve.
+This is the main preparation step: dissolving DMT powder into PG so it can be vaporized. You'll use a **hot water bath** to melt the DMT, then stir in the PG. The whole mixing process takes about 5-10 minutes.
 
-**The ratio:** We use **1 gram of DMT per 3 milliliters of vape juice** (written as 1:3). This concentration dissolves fully and won't clog your cartridge.
+**The ratio:** We will use **1 gram of DMT per 3 milliliters of PG** (written as 1:3). This gives a concentration of about 333 mg/ml — strong enough to deliver an effective dose in 1-2 puffs, while dissolving reliably without clogging.
 
-> **If you have more or less than 1 gram:** Scale the liquid proportionally. For example, 0.5g of DMT needs 1.5 ml of juice. 2g of DMT needs 6 ml. The ratio is always 1 part DMT to 3 parts liquid by weight.
+> **Other ratios work too.** People use anywhere from 1:1 (very concentrated: stronger per puff, but higher recrystallization risk if using a PG/VG blend) to 1:5 (dilute: more puffs might be needed, but very stable).
 
-### Step 1: Weigh your DMT
+> **If you have more or less than 1 gram:** Scale the PG proportionally. For example, 0.5g of DMT needs 1.5 ml of PG. 2g of DMT needs 6 ml. The ratio is always 1 part DMT to 3 parts PG.
 
-Place a piece of aluminum foil on your scale and zero it out (press the "tare" or "T" button so the scale reads 0.00 with the foil on it). Then carefully add DMT powder until the scale reads **1.00 g** (1 gram).
+### Step 1: Set up the hot water bath
 
-> **Handling tip:** DMT powder won't make you trip through skin contact, but you want the DMT in the bottle, not on your hands. Work in a calm spot without wind drafts. The powder is fine and can become airborne.
+Heat water in your kettle. The water should be very hot but not boiling, around 50-60 degrees Celsius is ideal.
+Think "very hot tap water." 
+Pour it into your bowl or container, deep enough that your glass container can sit in it with the water coming about halfway up the sides.
 
-![Step 1 - DMT powder on a digital scale, showing 1 gram weighed on aluminum foil](images/01-dmt-on-scale.jpg)
-*1 gram of DMT powder on a digital scale. The aluminum foil makes it easy to pour the powder afterward.*
+### Step 2: Weigh your DMT
 
-### Step 2: Measure vape juice into the mixing bottle
+Place your glass container directly on the scale and zero it out (press the "tare" or "T" button so the scale reads 0.00 with the container on it). Then carefully add DMT powder until the scale reads **1.00 g** (1 gram).
 
-You need **3 ml** (3 milliliters) of vape juice. The easiest way to measure this is by weight using your scale: place your mixing bottle on the scale, tare it to zero, then add vape juice until the scale reads **3.00 g** (vape juice has roughly the same density as water, so 3 grams ≈ 3 ml).
+> **Pouring tip:** If the DMT is in a bag or wide container, fold a piece of paper into a funnel to guide the powder into the glass.
 
-![Step 2a - The vape juice bottle, showing "50VG 50PG" and "0mg" (nicotine-free) on the label](images/02-vape-juice-bottle.jpg)
-*Nicotine-free (0mg) vape juice with a 50/50 PG/VG ratio. Any brand with these specs works.*
+![Step 2 - DMT powder weighed in a glass container on a digital scale, showing 1 gram](images/01-dmt-on-scale.jpg)
+*1 gram of DMT powder weighed directly in the glass container. Zeroing the scale with the container on it means the display shows only the weight of the powder.*
 
-![Step 2b - Vape juice measured into a small mixing bottle, about half full](images/03-juice-in-small-bottle.jpg)
-*3 ml of vape juice measured into the small mixing bottle.*
+### Step 3: Melt the DMT
 
-### Step 3: Add the DMT powder to the bottle
+Place the glass container (with the DMT already in it) into the hot water bath. Within a minute or two, the powder will melt into a clear liquid. (DMT freebase melts at a relatively low temperature — hot water is more than enough.)
 
-Roll a small piece of paper into a cone/funnel shape and use it to carefully pour the DMT powder from the foil into the mixing bottle. Go slowly; the powder is fine and you don't want to spill any.
+![Step 3 - Glass container with DMT sitting in a hot water bath](images/03-dmt-melting.jpg)
+*The DMT powder melts into a clear liquid in the hot water bath. This usually takes 1-2 minutes.*
 
-![Step 3 - Using a paper funnel to add DMT powder into the small mixing bottle](images/04-adding-dmt-to-bottle.jpg)
-*A rolled piece of paper makes a simple funnel. Tilt the foil gently to slide the powder in.*
+### Step 4: Add PG and stir
 
-**What to expect:** The powder will sit on top of the liquid or sink to the bottom. It will NOT dissolve on its own: that's what the next steps are for.
+While the glass container is still sitting in the hot water bath, draw up **3 ml** of PG using your syringe and add it to the melted DMT. (If your syringe doesn't have ml markings, you can measure by weight on your scale instead: 3 grams of PG ≈ 3 ml.)
 
-### Step 4: Seal the bottle and shake for 1 minute
+Stir the mixture with a metal tool (such as a spoon) or glass rod until the liquid is a uniform **clear amber/golden color**.
+This usually takes just a minute or two of stirring.
 
-Screw the cap on tightly. Shake the bottle vigorously for about 1 minute.
+![Step 4b - Stirring the mixture in the glass container](images/04-stirring-mixture.jpg)
+*Stir until the liquid is uniformly clear and amber. No cloudiness, no visible specks.*
 
-![Step 4 - The bottle after shaking, showing a cloudy/opaque mixture](images/05-shake-mixture.jpg)
-*After shaking for 1 minute, the mixture will look cloudy and murky like this. That's normal. The DMT hasn't fully dissolved yet.*
-
-**What to look for:** The liquid should be uniformly cloudy.
-
-### Step 5: Waterproof the bottle, then hot water bath
-
-**First**, wrap the bottle (especially the cap/top) with clear tape or cling film. This is critical: if water gets into the mixture, it's ruined.
-
-![Step 5a - The bottle wrapped in clear tape to make it watertight](images/07-taped-bottle.jpg)
-*Wrap the cap and top of the bottle in tape so that no water can seep in during the hot water bath.*
-
-**Then**, heat up water. The water should be very hot but not boiling. 
-Pour the hot water into a mug. Place the sealed, taped bottle into the mug of hot water. Let it sit for **10-15 minutes**.
-
-![Step 5b - The taped bottle sitting in a mug of hot water](images/06-hot-water-bath.jpg)
-*The bottle sits in hot water in a mug. The heat helps the DMT dissolve into the liquid. Make sure the water level doesn't go above the taped seal.*
-
-### Step 6: Remove, shake, and repeat
-
-After 10-15 minutes, take the bottle out of the water. **Shake it vigorously for 1 minute** again. Then:
-
-1. Empty the mug and refill with fresh hot water (again, not boiling)
-2. Put the bottle back in
-3. Wait another 10-15 minutes
-4. Take it out and shake again
-
-**Repeat this cycle 3-4 times total.** Each round dissolves more of the DMT. You'll see the liquid getting clearer with each cycle.
-
-### Step 7: Check your result
-
-After 3-4 hot water cycles, the mixture should be a **clear amber/golden liquid,** ranging from pale gold (like apple juice) to deeper amber (like honey). Hold it up to a light:
-
-- **Clear amber = good to go.** The DMT has fully dissolved.
-- **Cloudy, murky, or specks visible = not ready.** Do another hot water cycle and shake.
-
-![Step 7 - The finished product: a clear amber liquid in the mixing bottle](images/08-finished-product.jpg)
-*Finished: a clear, amber-colored liquid. No cloudiness, no visible specks or crystals. This is ready to load into your cartridge.*
-
-![Liquid quality check - clear amber liquid (good/ready) vs. cloudy liquid with visible specks (not ready)](images/illustration-mixing-quality-check.jpg)
-*Hold your bottle up to a light. Left: clear and amber means it's ready. Right: cloudy with visible particles means you need another hot water cycle.*
-
-> **Why clarity matters:** Any undissolved DMT crystals will clog the tiny holes in your cartridge's coil. A clogged cartridge won't produce vapor, which means it won't work when you need it during an attack.
+If the liquid is cloudy, or if specks visible: stir more, and make sure the water bath is still hot (change the water if needed).
 
 ---
 
 ## Filling the cartridge
 
-Now you need to get the liquid from the mixing bottle into your vape pen's cartridge.
+Now use your syringe to transfer the liquid from the glass container into your cartridge.
 
 1. **Screw the cartridge onto the battery** if you haven't already. This gives you something to hold onto.
 2. **Unscrew the mouthpiece** from the top of the cartridge. It twists off to reveal the tank opening. You'll see a small hole in the very center: that's the airway (where air flows through when you inhale). **Don't put liquid into that center hole.**
-3. **Squeeze or drip the liquid** from your mixing bottle into the tank, aiming for the **sides** of the tank (not the center). Go slowly. Fill until the liquid is about 1 mm below the top rim. Don't overfill, or it will gurgle and spit when you use it.
+3. **Draw up the liquid** from the glass container with your syringe. Slowly squeeze it into the tank, aiming for the **sides** of the tank (not the center hole). Fill until the liquid is about 1 mm below the top rim. Don't overfill, or it will gurgle and spit when you use it.
 4. **Screw the mouthpiece back on.**
 5. **Stand the pen upright and wait 30 minutes before using.** This gives the ceramic coil time to soak up (or "wick") the liquid. If you fire the coil while it's still dry, you'll permanently burn it and need a new cartridge.
-6. **If you made more than can fill your cartridge**: that's totally fine! You can store the remainder in a glass bottle (see storing section just below).
+6. **If you made more liquid than fits in your cartridge**: store the rest in a sealed glass bottle (see storage section just below).
 
 ---
 
 ## Storage and troubleshooting
 
-### Storing your pen
+### Storing DMT powder
 
-- Ideally store your loaded pen upright, to make sure the coil stays soaked with liquid
-- Avoid cold environments. A cold car, basement, or garage can cause the DMT to turn back into crystals inside the liquid
+If you have DMT powder you're not using right away, store it in its **freebase (powder) form** in a small airtight glass container in the **freezer**. DMT slowly degrades when exposed to air and light (it oxidizes), but keeping it sealed and frozen preserves it for a long time.
+
+### Storing mixed DMT liquid
+
+If you've mixed more liquid than fits in your cartridge, store the extra in a **sealed glass bottle**. A freezer is ideal for long-term storage, but room temperature works too — the liquid stays good for several months either way. If you notice a significant change in color or smell, make a fresh batch.
+
+> **Note:** If you store the liquid in the freezer, the DMT will crystallize. This is normal and easy to fix — see "If the liquid turns cloudy" below.
+
+### Storing your loaded pen
+
+- Store your loaded pen **upright**, so the coil stays soaked with liquid
 - A bedside drawer or medicine cabinet is fine
 - **Keep it out of reach of children and pets.** The loaded pen looks identical to a regular nicotine vape. Consider labeling it clearly (e.g., a piece of tape marked "DMT") so nobody mistakes it for an ordinary vape
-- The mixed liquid stays good for **several months** at room temperature. If you notice a significant change in color or smell, make a fresh batch
 
 ### If the liquid turns cloudy or crystallizes
 
-This can happen if the pen gets cold, and it's completely normal. The DMT has just turned back into tiny solid crystals. **Don't throw it away.**
+This can happen if the pen or bottle gets cold, and it's completely normal. The DMT has just turned back into tiny solid crystals. **Don't throw it away.**
 
 **To fix it:**
-1. Put the cartridge into a small waterproof **zip-lock bag** (to protect it from water)
+1. Put the cartridge (or bottle) into a small waterproof **zip-lock bag** (to protect it from water)
 2. Submerge the bag in a cup of **hot water** for about 5 minutes
 3. Take it out and give it a shake
 4. The liquid should turn clear again. It's ready to use
@@ -211,10 +198,6 @@ Sometimes DMT re-crystallizes right at the mouthpiece opening, blocking airflow.
 2. If that doesn't work, gently poke a **toothpick** or thin pin into the mouthpiece opening to clear the blockage
 3. You can also try taking a few short, firm puffs without pressing the button. The suction can loosen it
 
-### If you taste burning
-
-Turn the voltage down. A burnt taste means the temperature is too high and the DMT is being destroyed rather than vaporized. You want smooth, clean-tasting vapor.
-
 ---
 
 ## Quick reference card
@@ -226,22 +209,23 @@ Turn the voltage down. A burnt taste means the temperature is too high and the D
 |---|---|---|
 | Vape pen battery | "Variable voltage, 510 thread battery" (or complete kit) | $25-50 |
 | Cartridge | "510 thread ceramic coil cartridge" (skip if using kit) | $5-15 |
-| Vape juice | "50/50 nicotine-free vape juice" | $5-10 |
-| DMT powder | Pure freebase powder/crystal form | $80–$250 per gram. |
+| Propylene glycol (PG) | "Pure PG" or "PG base" | $5-10 |
+| DMT powder | Pure freebase powder/crystal form | varies |
 | Digital scale | Reads to 0.01 grams | $10-20 |
-| Small mixing bottle | about 10 ml, sealable, temperature-resistant | $1-5 |
+| Glass container | Small beaker, Pyrex cup, or glass jar (heat-resistant) | $5-10 |
+| Syringe | 1-3 ml, blunt tip preferred | $1-3 |
 
-### Mixing steps (1:3 ratio = 1g DMT per 3ml juice)
-1. **Weigh** 1g DMT on scale
-2. **Measure** 3ml vape juice into small bottle (3g by weight)
-3. **Add** DMT powder to bottle (paper funnel helps)
-4. **Seal and shake** vigorously for 1 minute
-5. **Tape** bottle, place in mug of hot (not boiling) water for 10-15 min
-6. **Remove and shake** 1 minute. Repeat hot water cycle 3-4 times total
-7. **Check:** should be clear amber, no cloudiness
-8. **Fill** cartridge, avoiding center tube
-9. **Wait** 30 min before first use (let coil soak)
+### Mixing steps (1:3 ratio = 1g DMT per 3ml PG)
+1. **Heat** water, pour into a bowl (hot, not boiling)
+2. **Weigh** 1g DMT directly in the glass container (tare the scale first)
+3. **Place** glass container in hot water bath — DMT melts in 1-2 min
+4. **Add** 3ml PG (by syringe or 3g by weight)
+5. **Stir** until clear amber, no cloudiness
+6. **Fill** cartridge with syringe, avoiding center hole
+7. **Wait** 30 min before first use (let coil soak)
 
 ### Storage
-- Upright, room temperature
-- If it crystallizes → zip-lock bag + hot water for 5 min
+- **DMT powder:** in airtight glass container, freezer
+- **Mixed liquid** (to load pen later): in sealed glass bottle or in spare cartridge, freezer
+- **Loaded pen:** upright, room temperature
+- If liquid crystallizes → zip-lock bag + hot water for 5 min
