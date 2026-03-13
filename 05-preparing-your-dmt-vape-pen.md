@@ -21,6 +21,8 @@ There are two ways to set up your vape pen:
 - **Option A: Battery + cartridge (recommended).** Buy a small pen-style battery and a separate cartridge. You fill the cartridge yourself with DMT liquid (explained below), or buy a cartridge pre-filled with DMT liquid. 
 - **Option B: Complete kit.** Buy an all-in-one device like the [Coolfire Z60](https://www.innokin.com/coolfire-z60), which comes with a battery, a built-in tank, and a coil: everything except the liquid. You fill the tank yourself. These are bulkier but have more battery life and an easy-to-read screen. Some patients prefer these.
 
+In either case, your device needs to have a temperature control. This is explained below.
+
 The rest of this guide works with either option. The instructions below cover Option A in detail; if you're using a complete kit, the mixing steps are identical: you just fill your kit's tank instead of a cartridge.
 
 ### 1. Vape pen battery (~$25-50)
@@ -66,7 +68,8 @@ The rest of this guide works with either option. The instructions below cover Op
 
 ### 6. Small mixing bottle (~$1-5)
 
-**What it is:** A small empty bottle (about 10 ml) to mix the DMT and vape juice in. A small glass bottle with a dropper (a squeeze-top that lets you dispense liquid drop by drop) works well. You can also use a small empty vape juice bottle.
+**What it is:** A small empty bottle (about 10 ml) to mix the DMT and vape juice in. A small glass bottle with a dropper (a squeeze-top that lets you dispense liquid drop by drop) works well. 
+You can also use a small empty vape juice bottle.
 
 **What to look for:** It should be sealable (screw cap or dropper top) and heat-resistant. Glass is ideal. The bottle in our photos is a plastic dropper bottle, which also works fine.
 
@@ -77,6 +80,7 @@ The rest of this guide works with either option. The instructions below cover Op
 - **Clear tape** or cling film (to waterproof the bottle)
 - A piece of **aluminum foil** (for weighing DMT powder)
 - A piece of **paper** rolled into a funnel (for pouring powder)
+- (Optional) In case you prepare more DMT liquid that can fit your cartridge: A **glass bottle** that seals tightly, for DMT liquid storage.
 
 ---
 
@@ -175,6 +179,7 @@ Now you need to get the liquid from the mixing bottle into your vape pen's cartr
 3. **Squeeze or drip the liquid** from your mixing bottle into the tank, aiming for the **sides** of the tank (not the center). Go slowly. Fill until the liquid is about 1 mm below the top rim. Don't overfill, or it will gurgle and spit when you use it.
 4. **Screw the mouthpiece back on.**
 5. **Stand the pen upright and wait 30 minutes before using.** This gives the ceramic coil time to soak up (or "wick") the liquid. If you fire the coil while it's still dry, you'll permanently burn it and need a new cartridge.
+6. **If you made more than can fill your cartridge**: that's totally fine! You can store the remainder in a glass bottle (see storing section just below).
 
 ---
 
