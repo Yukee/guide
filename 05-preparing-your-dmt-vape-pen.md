@@ -2,7 +2,7 @@
 
 Before you can use DMT to abort cluster headache attacks, you'll need a vape pen loaded with DMT liquid. This page walks you through everything, from buying the equipment to having a loaded pen ready to use.
 
-**Time needed:** About 10 minutes of active work, plus 30 minutes of waiting time for the coil to soak.
+**Time needed:** About 10 minutes of active work, plus 15 minutes of waiting time for the coil to soak.
 
 **If you've never used a vape before, don't worry.** It's simpler than it looks. You're essentially just melting a powder into a liquid and loading it into a small device. If you can cook a dish following a simple recipe, you can do this.
 
@@ -122,7 +122,7 @@ This is the main preparation step: dissolving DMT powder into PG so it can be va
 
 Place your glass container on the scale and zero it out (press the "tare" or "T" button so the scale reads 0.00 with the container on it). Then carefully add DMT powder until the scale reads **1.00 g** (1 gram). You can use a piece of paper to funnel the powder into the glass.
 
-![Step 2 - DMT powder weighed in a glass container on a digital scale, showing 1 gram](images/01-dmt-on-scale.jpg)
+![Step 1 - DMT powder weighed in a glass container on a digital scale, showing 1 gram](images/01-dmt-on-scale.jpg)
 *1 gram of DMT powder weighed directly in the glass container. Zeroing the scale with the container on it means the display shows only the weight of the powder.*
 
 ### Step 2: Melt the DMT
@@ -134,7 +134,7 @@ Pour it into your bowl or container, deep enough that your glass container can s
 Place the glass container (with the DMT already in it) into the hot water bath. 
 Within a minute or two, the powder will melt into a clear liquid. 
 
-![Step 3 - Glass container with DMT sitting in a hot water bath](images/03-dmt-melting.jpg)
+![Step 2 - Glass container with DMT sitting in a hot water bath](images/03-dmt-melting.jpg)
 *The DMT powder melts into a clear liquid in the hot water bath. This usually takes 1-2 minutes.*
 
 ### Step 3: Add PG and stir
@@ -144,7 +144,7 @@ While the glass container is still sitting in the hot water bath, draw up **3 ml
 Stir the mixture with a metal tool (such as a spoon) or glass rod until the liquid is a uniform **clear amber/golden color**.
 This usually takes just a minute or two of stirring.
 
-![Step 4b - Stirring the mixture in the glass container](images/04-stirring-mixture.jpg)
+![Step 3 - Stirring the mixture in the glass container](images/04-stirring-mixture.jpg)
 *Stir until the liquid is uniformly clear and amber. No cloudiness, no visible specks.*
 
 If the liquid is cloudy, or if specks visible: stir more, and make sure the water bath is still hot (change the water if needed).
@@ -220,7 +220,7 @@ Sometimes DMT re-crystallizes right at the mouthpiece opening, blocking airflow.
 4. **Add** 3ml PG (by syringe or 3g by weight)
 5. **Stir** until clear amber, no cloudiness
 6. **Fill** cartridge with syringe, avoiding center hole
-7. **Wait** 30 min before first use (let coil soak)
+7. **Wait** 15 min before first use (let coil soak)
 
 ### Storage
 - **DMT powder:** in airtight glass container, freezer

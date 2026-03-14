@@ -27,14 +27,14 @@ Before you ever press the button on your pen, make sure you've completed every i
 This is the most important technique to learn. It's not hard, but it's different from just breathing normally.
 
 ![Inhaling technique - four panels showing draw, breathe in, hold, and exhale](images/illustration-inhaling-technique.jpg)
-*Four steps: (1) Draw vapor into your mouth for 2-3 seconds, (2) Remove pen and breathe fresh air deep into your lungs, (3) Hold for 5-7 seconds, (4) Exhale slowly.*
+*Four steps: (1) Draw vapor into your mouth for 2-3 seconds, (2) Remove pen and breathe fresh air deep into your lungs, (3) Hold for 10+ seconds, (4) Exhale slowly.*
 
 ### Step by step:
 
 1. **Hold the pen to your lips** like a straw. Press and hold the button.
 2. **Draw gently for 2-3 seconds.** Suck the vapor into your *mouth*. Don't try to breathe it straight into your lungs yet. Think of it like sipping a thick milkshake through a straw: slow, steady, gentle. You should feel warm vapor filling your mouth.
 3. **Remove the pen from your lips.** Now breathe in deeply through your mouth. This pulls the vapor from your mouth down into your lungs, along with fresh air. Your lungs should feel full.
-4. **Hold your breath for 5-7 seconds.** You don't need to count precisely. Just a comfortable pause.
+4. **Hold your breath for 10 seconds or more.** You don't need to count precisely. Hold for as long as you can confortably.
 5. **Exhale slowly** through your mouth. You should see a visible cloud of vapor. If you see nothing, you may not have drawn enough; try a slightly longer draw next time.
 
 > **What you should taste:** A mildly chemical or plastic-like taste is normal. If you taste something harsh or burnt, your temperature is too high. Turn it down. The vapor should feel smooth, not irritating.
@@ -53,7 +53,7 @@ Pick a time when you're feeling relaxed: an evening at home, a weekend afternoon
 
 1. **Sit down somewhere comfortable.** A couch or recliner is ideal. Have a glass of water nearby.
 2. **Tell your sitter you're starting.** They should be in the same room, relaxed. If you want, you can ask your sitter to record their observations, as this might help you document the protocol you followed.
-3. **Set your vape pen to a low voltage:** start at **2.5V**. If your device shows temperature instead of voltage, start around 200-220°C (392-428°F).
+3. **Set your vape pen to a low voltage:** start at **2.5V**. If your device shows temperature instead of voltage, start around 200°C (392°F).
 4. **Take one puff** using the inhaling technique described above.
 5. **Wait 30 seconds.** Pay attention to how your body feels. You might notice a warm or tingling sensation ("body buzz"), or you might feel nothing at all.
 6. **If you felt nothing**, turn the voltage up slightly (to about **3.0V** / 210°C) and try one more puff. Wait another 30 seconds.
@@ -79,7 +79,7 @@ At first, you might need a couple puffs to abort your attack. Over time, you wil
 ### Step 1: Prepare
 
 - **Sit or lie down.**
-- **Grab your pen.** Make sure it's on and set to the voltage that worked during your practice session (typically **2.5-3.5V** / 200-220°C). If the pen doesn't produce vapor, it may be clogged. Warm it under your armpit for a minute and try again. 
+- **Grab your pen.** Make sure it's on and set to the voltage that worked during your practice session (typically **2.5-3.5V**). If the pen doesn't produce vapor, it may be clogged. Warm it under your armpit for a minute and try again. 
 - **Tell your sitter** (if present): "I'm going to use the pen now." Optionally tell them to log their observations too.
 
 ### Step 2: Take a puff
@@ -87,7 +87,7 @@ At first, you might need a couple puffs to abort your attack. Over time, you wil
 Inhale using the technique you practiced:
 - Press the button, draw gently for 2-3 seconds
 - Remove pen, breathe in deeply
-- Hold for 5-7 seconds
+- Hold for 10+ seconds
 - Exhale
 
 ### Step 3: Wait 30 seconds
@@ -189,8 +189,8 @@ This log is invaluable. Over time, you'll dial in the exact settings that work f
 
 ### Aborting protocol
 1. **Sit or lie down.** Tell your sitter (or text someone).
-2. **Set pen** to your usual voltage (**2.5-3.5V** / 200-220°C).
-3. **Puff:** Draw 2-3 sec → breathe in deep → hold 5-7 sec → exhale.
+2. **Set pen** to your usual voltage (typically **2.5-3.5V**).
+3. **Puff:** Draw 2-3 sec → breathe in deep → hold 10+ sec → exhale.
 4. **Wait 30 seconds.** Is pain reducing? Do you feel a body buzz?
 5. **If no effect → take another puff.** Wait 30 sec, assess again.
 

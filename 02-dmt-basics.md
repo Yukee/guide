@@ -112,5 +112,5 @@ The [aborting protocol](06-aborting-protocol.md) explains how to handle this in 
 ## Where to go next
 
 - **Check your medications first.** If you take any medication, supplement, or herbal remedy, read the [drug interactions page](03-safety.md#check-your-medications) before anything else.
-- **Ready to prepare your equipment?** The [preparation page](05-preparing-your-dmt-vape-pen.md) walks you through buying a vape pen and mixing the liquid (about 30 minutes of active work).
+- **Ready to prepare your equipment?** The [preparation page](05-preparing-your-dmt-vape-pen.md) walks you through buying a vape pen and mixing the liquid (about 10 minutes of active work).
 - **Ready to use DMT?** The [aborting protocol](06-aborting-protocol.md) covers your first practice session and the step-by-step method for stopping attacks.
